@@ -3,7 +3,7 @@ title: "Challenging myself continued..."
 date: "2019-01-17"
 ---
 
-In November, I created a post on challenging myself and connecting with other bloggers ([read here](https://michaelbrooks.co.uk/challenging-myself/)). Firstly, my mission was to start conversations with other blogs (or bloggers) that aren't on Medium ([read why](https://michaelbrooks.co.uk/at-the-cost-of-your-users-john-saddington/)). I feel like the challenge is going well, and I've started to create stronger relationships with fellow bloggers. My friend [Eric L Barnes](https://ericlbarnes.com/) shared his RSS list which gave me a good head start.
+In November, I created a post on challenging myself and connecting with other bloggers ([read here](/blog/challenging-myself/)). Firstly, my mission was to start conversations with other blogs (or bloggers) that aren't on Medium ([read why](/blog/at-the-cost-of-your-users-john-saddington/)). I feel like the challenge is going well, and I've started to create stronger relationships with fellow bloggers. My friend [Eric L Barnes](https://ericlbarnes.com/) shared his RSS list which gave me a good head start.
 
 As a result, I've now become way more social on Twitter (which is an incredible social tool), and it's really boosted me in ways I could never imagine and connected me to tons of bloggers.
 

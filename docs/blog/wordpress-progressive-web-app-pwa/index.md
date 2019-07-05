@@ -18,6 +18,6 @@ I've recently gotten into the habit of turning my websites into PWAs, it turns o
 
 You can then test this works by using Chrome, pressing F12 on your keyboard clicking "audits" and then performing an audit on your website. It should look something like this...
 
-![Progressive Web App](https://michaelbrooks.co.uk/wp-content/uploads/2018/07/pwa-300x150.png)
+![Progressive Web App](/blog/wp-content/uploads/2018/07/pwa-300x150.png)
 
 Congratulations, your website is now a PWA and you should give yourself a pat on the back for all that hard work. Now go tell your users about how great your website is now it's a PWA.

@@ -12,6 +12,4 @@ I thought I would save everyone the hassle of this and use the knowledge I gain 
 
 You can preorder the ebook below and use discount code "EARLYBIRD" for £4 off. Discount code is only available to preorders.
 
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-
 [Loading...](https://gumroad.com/l/kYoQ)

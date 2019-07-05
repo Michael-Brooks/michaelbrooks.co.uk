@@ -28,7 +28,7 @@ Then we have POD, I knew all bar one song. POD had amazing energy and sang their
 
 ## Pet Sitting got busy
 
-![](https://michaelbrooks.co.uk/wp-content/uploads/2019/02/IMG_20190209_112928-1024x768.jpg)
+![](/blog/wp-content/uploads/2019/02/IMG_20190209_112928-1024x768.jpg)
 
 My wife's pet sitting business became very busy this month, to a point where I had to take time off work in order to help her out. I was happy to do this, and it was a nice change looking after lots of dogs. However, I wouldn't be able to do this all the time myself, and I'm proud of Tiff for doing what she loves.
 

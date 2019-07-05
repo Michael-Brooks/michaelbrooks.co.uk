@@ -4,7 +4,7 @@ date: "2019-01-09"
 coverImage: "kelly-sikkema-450719-unsplash.jpg"
 ---
 
-Yesterday I wrote a blog post about SiteGround, you can see it [here](https://michaelbrooks.co.uk/thinking-of-self-hosting-your-blog/) if you haven't already read it. In that blog post, I stated that my wife's website, Brooks Pet Sitters was hosted with them. However, the website you were reading from was hosted with Digital Ocean. Digital Ocean is great if you have complicated sites or programs, but this is a simple WordPress site. All shared hosting will work with WordPress, so why did I go with SiteGround?
+Yesterday I wrote a blog post about SiteGround, you can see it [here](/blog/thinking-of-self-hosting-your-blog/) if you haven't already read it. In that blog post, I stated that my wife's website, Brooks Pet Sitters was hosted with them. However, the website you were reading from was hosted with Digital Ocean. Digital Ocean is great if you have complicated sites or programs, but this is a simple WordPress site. All shared hosting will work with WordPress, so why did I go with SiteGround?
 
 SiteGround is incredibly affordable, yet they don't sacrifice the quality. They have 24/7 support and will tackle any problem that may arise. The speed is amazing, I tried to optimise my VPS website as much as I could, and SiteGround's speed is just better. I could have probably done more to optimise, but why should I when a company can do it for me at a cheaper price?
 

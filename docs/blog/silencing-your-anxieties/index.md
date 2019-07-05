@@ -3,11 +3,11 @@ title: "Silencing your anxieties"
 date: "2018-11-12"
 ---
 
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/11/sean-do-782269-unsplash.jpg)
+- ![](/blog/wp-content/uploads/2018/11/sean-do-782269-unsplash.jpg)
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/10/FB_IMG_1540208073223.jpg)
+- ![](/blog/wp-content/uploads/2018/10/FB_IMG_1540208073223.jpg)
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/11/magda-fou-428407-unsplash.jpg)
+- ![](/blog/wp-content/uploads/2018/11/magda-fou-428407-unsplash.jpg)
     
 
 A few days ago, I wrote a Tweet on the best ways to silence your anxiety/depression. When I was going through terrible anxiety due to work (talking about throwing up). I found gaming was the most helpful thing for me. I could game for hours and because my mind was so focused, nothing else mattered.

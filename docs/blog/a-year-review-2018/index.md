@@ -7,7 +7,7 @@ After reading [Tim Ferris' year review](https://tim.blog/2018/12/28/past-year-re
 
 You can see below my results which will also be typed up in case you can't see the image.
 
-![](https://michaelbrooks.co.uk/wp-content/uploads/2018/12/15461205114148448545120079397426069.jpg)
+![](/blog/wp-content/uploads/2018/12/15461205114148448545120079397426069.jpg)
 
 It's shows both positive and negative events for the year. Hopefully I can learn from this for next year.
 

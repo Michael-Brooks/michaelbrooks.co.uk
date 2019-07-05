@@ -34,4 +34,4 @@ My main focus is to get the site to page one for keywords like "pet sitting newt
 
 We are also advertising online and locally in Post Offices and small shops and will be attending business conferences very soon. The clients we have picked up have loved our services so far and given us 5-star reviews on our Facebook page. Hopefully, we can continue the momentum and even push the momentum further.
 
-If you're curious about our website, please take a look at [Brooks Pet Sitters Newton Abbot](http://www.brookspetsitters.com) and if you would like a website, please feel free to [contact me](https://michaelbrooks.co.uk/#contact).
+If you're curious about our website, please take a look at [Brooks Pet Sitters Newton Abbot](http://www.brookspetsitters.com) and if you would like a website, please feel free to [contact me](/blog/#contact).

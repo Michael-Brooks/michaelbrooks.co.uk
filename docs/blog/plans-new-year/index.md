@@ -7,7 +7,7 @@ I never do the "New year, New me" bullshit, I have always believed that the end 
 
 ## A little look into my past
 
-Let's start with looking back at what happened to me. I have gone through two workplaces, my first workplace was struggling with money and had to let some people go, me being one of them ([Sound familiar?](https://michaelbrooks.co.uk/post/dealing-with-performance-anxiety-and-depression-as-a-web-developer)). The other company had to let me go due to me not being able to pick things up quick enough.
+Let's start with looking back at what happened to me. I have gone through two workplaces, my first workplace was struggling with money and had to let some people go, me being one of them ([Sound familiar?](/blog/post/dealing-with-performance-anxiety-and-depression-as-a-web-developer)). The other company had to let me go due to me not being able to pick things up quick enough.
 
 All in all, I am now way more positive about this than I have ever been and I'm proud of myself with the fact I can now handle these situations in a much more positive light. Both companies have been fantastic to work with and I wouldn't change my choices for the world.
 

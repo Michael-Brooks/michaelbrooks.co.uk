@@ -15,4 +15,4 @@ We can ignore the SDK code part as we won't be needing that. Tell Facebook about
 
 You can browse your dashboard, but for this tutorial, that is pretty much it. Keep in mind that you will need your "App ID" and "App Secret" for use in the future.
 
-Check out my previous tutorial on using [OAuth with localhost when needing](https://michaelbrooks.co.uk/local-oauth-curl-60-ssl-certificate-unable-get-local-issuer-certificate/) and SSL Certificate Please also let me know what you think in the comments and if this tutorial has helped you in any way, please also let me know how you think I could improve on it for future posts.
+Check out my previous tutorial on using [OAuth with localhost when needing](/blog/local-oauth-curl-60-ssl-certificate-unable-get-local-issuer-certificate/) and SSL Certificate Please also let me know what you think in the comments and if this tutorial has helped you in any way, please also let me know how you think I could improve on it for future posts.

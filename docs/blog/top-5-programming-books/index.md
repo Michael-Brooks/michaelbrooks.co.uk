@@ -75,12 +75,6 @@ This volume is a handbook for enterprise system developers, guiding them through
 
 [Amazon.com](https://www.amazon.com/gp/product/0321127420/ref=as_li_tl?ie=UTF8&tag=michaelbrooks-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0321127420&linkId=54722d670efe3c7128b2d99926278ea7) | [Amazon.co.uk](https://www.amazon.co.uk/gp/product/0321127420/ref=as_li_tl?ie=UTF8&tag=wedeuk05-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=0321127420&linkId=0d7a8480cdb91aa48d6c3b67b17675e3)
 
-\---
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=9a6b5df3-96c4-4b41-a1fc-6676185765fc"></script>
-
-\---
-
 Related:
 
 \* \[Top 5 Laravel Books\](/post/top-5-laravel-books)

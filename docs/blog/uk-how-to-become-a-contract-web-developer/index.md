@@ -8,9 +8,9 @@ So, you want to get into contract development, but you don't know where to start
 
 ## Setting up your business
 
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2019/05/MBD_medium-1.png)
+- ![](/blog/wp-content/uploads/2019/05/MBD_medium-1.png)
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2019/05/robot_medium.png)
+- ![](/blog/wp-content/uploads/2019/05/robot_medium.png)
     
 
 First off, you will need to either set up your own limited company or find a service which offers an umbrella company. There are multiple ways to set up a limited company. You can create the company yourself, or use a service to do it for you. I was personally recommended a company myself called "[The Company Warehouse](https://www.thecompanywarehouse.co.uk)". They also offer accountancy packages which may suit your needs.
@@ -41,7 +41,7 @@ Hang out at conferences by using [MeetUp.com](https://www.meetup.com/) to your a
 
 ## Optional: Work Equipment
 
-![](https://michaelbrooks.co.uk/wp-content/uploads/2019/05/IMG_20190528_074537-1024x768.jpg)
+![](/blog/wp-content/uploads/2019/05/IMG_20190528_074537-1024x768.jpg)
 
 This one depends on your circumstances. If you have got a working laptop and all the gear for working elsewhere, then you can skip this. Otherwise, you will need to find a laptop. You may also need some dongles, a mouse and keyboard, earphones or headphones, or monitor cables.
 
@@ -53,4 +53,4 @@ It came with Windows 10 pre-installed, but I chose to install the latest Ubuntu 
 
 As far as starting out with contracting, that's pretty much it. You may also need to learn to invoice your clients although my agency does that for me. However, I still have to fill in timesheets every week in order for them to keep track and I create invoices that never go to them.
 
-[Read my story on how I got start with contracting...](https://michaelbrooks.co.uk/this-month-has-been-weird-for-me/)
+[Read my story on how I got start with contracting...](/blog/this-month-has-been-weird-for-me/)

@@ -40,4 +40,4 @@ Through talking about my struggle, I hope to have encouraged anyone reading this
 
 Also, remember; Development, Programming, Accounting... Pretty much any office job can and will be stressful. Don't let it get you down and if it gets too much, just talk about it.
 
-[My personal update on this topic](https://michaelbrooks.co.uk/dealing-depression-and-anxiety-becoming-stronger-better-self/)
+[My personal update on this topic](/blog/dealing-depression-and-anxiety-becoming-stronger-better-self/)

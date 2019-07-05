@@ -4,21 +4,21 @@ date: "2018-11-05"
 coverImage: "FB_IMG_1541251697077.jpg"
 ---
 
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/11/FB_IMG_1541251697077.jpg)
+- ![](/blog/wp-content/uploads/2018/11/FB_IMG_1541251697077.jpg)
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/11/FB_IMG_1541251703045.jpg)
+- ![](/blog/wp-content/uploads/2018/11/FB_IMG_1541251703045.jpg)
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/11/IMG_20181103_104028.jpg)
+- ![](/blog/wp-content/uploads/2018/11/IMG_20181103_104028.jpg)
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/11/IMG_20181103_104042.jpg)
+- ![](/blog/wp-content/uploads/2018/11/IMG_20181103_104042.jpg)
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/11/IMG_20181103_104129.jpg)
+- ![](/blog/wp-content/uploads/2018/11/IMG_20181103_104129.jpg)
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/11/IMG_20181103_104200.jpg)
+- ![](/blog/wp-content/uploads/2018/11/IMG_20181103_104200.jpg)
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/11/MVIMG_20181103_103826.jpg)
+- ![](/blog/wp-content/uploads/2018/11/MVIMG_20181103_103826.jpg)
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/11/MVIMG_20181103_104058.jpg)
+- ![](/blog/wp-content/uploads/2018/11/MVIMG_20181103_104058.jpg)
     
 
 My nephew, wife and I went up to Oldham last weekend to visit my mum. While we were up there, my wife decided to book an hour of Total Ninja in Manchester which was [booked online](http://www.totalninja.co.uk/).
@@ -41,4 +41,3 @@ Follow my IG for more photos/videos.
 > 
 > A post shared by [Michael Brooks](https://www.instagram.com/mike_d_brooks/?utm_source=ig_embed&utm_medium=loading) (@mike\_d\_brooks) on Nov 3, 2018 at 4:01pm PDT
 
-<script async src="//www.instagram.com/embed.js"></script>

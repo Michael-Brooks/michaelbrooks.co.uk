@@ -8,15 +8,15 @@ This is our final week of January, and we only have 3 days left until it's offic
 
 ## The Bad:
 
-- [Best friend's dad's passing](https://michaelbrooks.co.uk/attending-my-best-mates-dads-funeral/)
-- [PC gave up](https://michaelbrooks.co.uk/my-new-pc-setup-surface-pro-3/)
-- [Squiggle became poorly](https://michaelbrooks.co.uk/my-cat-squiggle-is-not-well-%f0%9f%98%a2/)
+- [Best friend's dad's passing](/blog/attending-my-best-mates-dads-funeral/)
+- [PC gave up](/blog/my-new-pc-setup-surface-pro-3/)
+- [Squiggle became poorly](/blog/my-cat-squiggle-is-not-well-%f0%9f%98%a2/)
 
 ## The Good:
 
 - Posted every day this month to my Blog
 - Transferred my blog from [Digital Ocean](https://m.do.co/c/d5aca73b366f) to [SiteGround](https://www.siteground.com/web-hosting.htm?afbannercode=6e1bd936b39f2c5d99b5e9c12f3db762)
-- Transferred my [wife's website](https://michaelbrooks.co.uk/thinking-of-self-hosting-your-blog/) to [SiteGround](https://www.siteground.com/web-hosting.htm?afbannercode=6e1bd936b39f2c5d99b5e9c12f3db762)
+- Transferred my [wife's website](/blog/thinking-of-self-hosting-your-blog/) to [SiteGround](https://www.siteground.com/web-hosting.htm?afbannercode=6e1bd936b39f2c5d99b5e9c12f3db762)
 - Setup MailChimp for [email newsletters](http://eepurl.com/c2yygP)
 - Became a vegan
 - My wife gained 3 new pet sitting clients

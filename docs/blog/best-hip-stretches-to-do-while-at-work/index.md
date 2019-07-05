@@ -20,7 +20,7 @@ If you don't have a stool, or you feel really uncomfortable, you can try this hi
 
 ## 3\. Hip Mobility Squat
 
-![](https://michaelbrooks.co.uk/wp-content/uploads/2019/01/HipMobility-SquatTwist.jpg)
+![](/blog/wp-content/uploads/2019/01/HipMobility-SquatTwist.jpg)
 
 This is a good one, and it's super simple to do. You need to get down into a squat position and place your arms inside your legs. You can place your hands on the floor for balance, and you can then push your arms out forcing your legs to go as far out as possible. Try to find some discomfort and also try to sway your hips from side to side, and in a circle. You should feel a really nice stretch on both sides of your hips.
 

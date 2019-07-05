@@ -5,11 +5,11 @@ date: "2016-04-11"
 
 This evening, I had myself a little challenge. I would turn my two containers (MariaDB and my own built container) into more containers, but using the power of Docker's official container repos. E.g. I would have 3 containers in total PHP7-FPM, NGINX and my already created MariaDB.
 
-If you don't know my steps I previously created, you can check it out \[here\](https://michaelbrooks.co.uk/post/hosting-your-site-digital-ocean-and-docker) and skip to MariaDB for your database container and settings.
+If you don't know my steps I previously created, you can check it out \[here\](/blog/post/hosting-your-site-digital-ocean-and-docker) and skip to MariaDB for your database container and settings.
 
 First off, I used the PHP container and followed instructions to have a PHP7-FPM container. You can see below for the Docker file, just copy it and run the command below...
 
-<script src="https://gist.github.com/Michael-Brooks/14796d59271812a1070361532004ceab.js?file=PHP7 Dockerfile"></script>
+https://gist.github.com/Michael-Brooks/14796d59271812a1070361532004ceab.js?file=PHP7 Dockerfile
 
 \`\`\` docker build -t php7 . docker run -d --name php7 php7 \`\`\`
 
@@ -35,7 +35,7 @@ If you have followed along so far, then we have almost finished, we now need to 
 
 Finally, we can create a default.conf file and copy it into the correct nginx directory.
 
-<script src="https://gist.github.com/Michael-Brooks/14796d59271812a1070361532004ceab.js?file=NGINX default.conf"></script>
+https://gist.github.com/Michael-Brooks/14796d59271812a1070361532004ceab.js?file=NGINX default.conf
 
 From my GIST above, I redirect all non secure requests over to a secure connection and as I have 0 subdomains, I redirect them all to my main domain name. You can edit as you see fit, but it should give you a good idea.
 

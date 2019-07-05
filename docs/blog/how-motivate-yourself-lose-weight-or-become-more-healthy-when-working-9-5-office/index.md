@@ -15,9 +15,9 @@ Within that time, I managed to go from 16 stone down to 12 stone and was super h
 
 I then took a trip down to my local vets which is in a business industrial site and directly opposite the vets was a place called \[Newton Abbot Crossfit\](https://newtonabbotcrossfit.com). The music was blearing out and the people inside looked hot and sweaty, like it was a proper challenging workout. It got me really interested and I wanted to find out more about it.
 
-Off I went, I turned my PC on and visited their webiste where it told me all about Crossfit. I had 0 knowledge of the sport, but it looked challenging and that's what caught my attention. I think us devs/programmers love a good challenge, no matter what it is.
+Off I went, I turned my PC on and visited their website where it told me all about Crossfit. I had 0 knowledge of the sport, but it looked challenging and that's what caught my attention. I think us devs/programmers love a good challenge, no matter what it is.
 
-I then signed myself up and paid for the fundementals course which teaches you how to use the equipment properly and taught my coach what my fitness level was like (hint: not good at all). After that day, I really enjoyed what I did and when in for my first free month. I would go 2 - 3 days a week and each session was always different. All the workouts are scalable so what you saw on the board wasn't what you had to do. He would always try to make it fit your level which is what every fitness coach should do.
+I then signed myself up and paid for the fundamentals course which teaches you how to use the equipment properly and taught my coach what my fitness level was like (hint: not good at all). After that day, I really enjoyed what I did and when in for my first free month. I would go 2 - 3 days a week and each session was always different. All the workouts are scalable so what you saw on the board wasn't what you had to do. He would always try to make it fit your level which is what every fitness coach should do.
 
 I am now coming up to my second year of Crossfit and I probably love it even more than I did on my first day.
 
@@ -34,7 +34,5 @@ If you want to follow along, then please subscribe to my Blog's RSS feed, subscr
 > [Left is me from over a year ago and the right was taken today. I started #crossfit at @newtonabbotcrossfit to lose weight and have better posture. My weight goal is pretty much where I want it to be, but my posture still has a bit to go. Over the next year, I want to shift my focus and start training for competitions and even enter some. This year I really surprised myself by completing the @rocksolidrace 10k and I would love to do the same again next year as well as a couple of others. Stay tuned...](https://www.instagram.com/p/BNfbKmijdl6/)
 > 
 > A photo posted by Michael Brooks (@mike\_d\_brooks) on Dec 1, 2016 at 2:18pm PST
-
-<script async defer="" src="//platform.instagram.com/en_US/embeds.js"></script>
 
 <iframe src="https://snapwidget.com/embed/313865" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:650px; height:650px"></iframe>

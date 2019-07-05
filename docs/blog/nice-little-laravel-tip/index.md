@@ -7,10 +7,15 @@ Just today, I was looking at using a ternary operator in Laravel's Blade templat
 
 So, instead of doing something like this...
 
+```php
 {{ (isset($title)) ? $title : 'default title here' }}
+```
 
 You can try using "or" like so...
 
+```php
 {{ $title or 'default title here' }}
+```
 
-And there you have it ladies and gentlement, your future Blade documents will look even more lovely. Please, thank me later. :)
+And there you have it ladies and gentlemen, your future Blade documents will look even more lovely. Please, thank me
+later. :)

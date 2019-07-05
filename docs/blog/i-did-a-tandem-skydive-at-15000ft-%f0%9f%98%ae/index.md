@@ -32,10 +32,7 @@ The entire experience was insane. It felt like I didn't jump it and it was all a
 > 
 > A post shared by [Michael Brooks](https://www.instagram.com/mike_d_brooks/) (@mike\_d\_brooks) on May 12, 2018 at 10:42am PDT
 
-<script async defer="" src="//www.instagram.com/embed.js"></script>
-
 > [I'm in the green shoot coming down. ?](https://www.instagram.com/p/Bir65uYHWFi/)
 > 
 > A post shared by [Michael Brooks](https://www.instagram.com/mike_d_brooks/) (@mike\_d\_brooks) on May 12, 2018 at 10:47am PDT
 
-<script async defer="" src="//www.instagram.com/embed.js"></script>

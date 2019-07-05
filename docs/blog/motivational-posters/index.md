@@ -5,7 +5,7 @@ date: "2018-03-01"
 
 ## Purchase some motivational posters
 
-I have opened up an online store with Woocommerce and Printful and will be selling motivational posters. If you would like to take a look, then head over to [this page](https://michaelbrooks.co.uk/motivation/) and see for yourself. If you would like to give feedback, then please feel free to contact me through comments, [Twitter](https://twitter.com/Mike_D_Brooks) or [Facebook](https://www.facebook.com/MBrooksDeveloper/). I will reply back to you and will take all suggestions on board.
+I have opened up an online store with Woocommerce and Printful and will be selling motivational posters. If you would like to take a look, then head over to [this page](/blog/motivation/) and see for yourself. If you would like to give feedback, then please feel free to contact me through comments, [Twitter](https://twitter.com/Mike_D_Brooks) or [Facebook](https://www.facebook.com/MBrooksDeveloper/). I will reply back to you and will take all suggestions on board.
 
 I am also looking to see if you have any issues when going through the checkout process, so if you do decide to purchase, let me know how your experience went. I would love to hear from you.
 

@@ -18,4 +18,4 @@ Since then, I have been a returning customer ever since. There have been many pe
 
 If you live in Newton Abbot, or you're near the area, then I would recommend you give them a visit. They will be more than welcoming and they'll answer any questions you may have.
 
-Want to see my Crossfit transformation? [Click here.](https://michaelbrooks.co.uk/3-years-at-crossfit/)
+Want to see my Crossfit transformation? [Click here.](/blog/3-years-at-crossfit/)

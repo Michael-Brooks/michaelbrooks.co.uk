@@ -45,7 +45,3 @@ Learn each of the original gang of four design patterns, and how they are releva
 Too often design patterns are explained using tricky concepts, when in fact they are easy to use and can enrich your everyday development. Design Patterns in PHP and Laravel aims to break down tricky concepts into humorous and easy-to-recall details, so that you can begin using design patterns easily in your everyday work with PHP and Laravel.
 
 This book teaches you design patterns in PHP and Laravel using real-world examples and plenty of humor.
-
- 
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=9a6b5df3-96c4-4b41-a1fc-6676185765fc"></script>

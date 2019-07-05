@@ -15,6 +15,6 @@ I work very hard, going into Crossfit daily either 5:30 or 6:00 in the morning. 
 
 Thank you, I will be wearing my new t-shirt with pride. If only I could wear it everyday of the week. ?
 
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2019/02/IMG_-u0d8fv-1024x1024.jpg)
+- ![](/blog/wp-content/uploads/2019/02/IMG_-u0d8fv-1024x1024.jpg)
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2019/02/IMG_20190202_110308-768x1024.jpg)
+- ![](/blog/wp-content/uploads/2019/02/IMG_20190202_110308-768x1024.jpg)

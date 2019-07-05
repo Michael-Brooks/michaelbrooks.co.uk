@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Michael-Brooks/michaelbrooks.co.uk/issues"
   },
-  "homepage": "https://michaelbrooks.co.uk",
+  "homepage": "/blog",
   "dependencies": {
     "moment": "^2.24.0",
     "netlify-cms": "^2.9.5",

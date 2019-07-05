@@ -17,18 +17,18 @@ Another positive side-effect is that it's really helped with my anxieties. I fee
 
 3 years of Crossfit
 
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/05/FB_IMG_1524544170682.jpg)
+- ![](/blog/wp-content/uploads/2018/05/FB_IMG_1524544170682.jpg)
     
     Competition in Plymouth
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/10/received_254984908497029-1024x768.jpeg)
+- ![](/blog/wp-content/uploads/2018/10/received_254984908497029-1024x768.jpeg)
     
     Raising money for cancer
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/11/IMG_20181105_102545_272.jpg)
+- ![](/blog/wp-content/uploads/2018/11/IMG_20181105_102545_272.jpg)
     
     Local Crossfit competition at Newton Abbot Crossfit
     
-- ![](https://michaelbrooks.co.uk/wp-content/uploads/2018/10/FB_IMG_1540153634550-1024x683.jpg)
+- ![](/blog/wp-content/uploads/2018/10/FB_IMG_1540153634550-1024x683.jpg)
     
     The community is amazing. And we were all there to raise money for cancer.
