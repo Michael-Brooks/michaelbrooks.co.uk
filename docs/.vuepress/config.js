@@ -49,6 +49,5 @@ module.exports = {
             { text: 'Home', link: '/' },
             { text: 'Blog', link: '/blog/' },
         ],
-        sidebar: blogPosts,
-    }
+    },
 };
