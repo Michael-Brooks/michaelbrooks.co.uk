@@ -18,6 +18,7 @@
   },
   "homepage": "https://michaelbrooks.co.uk",
   "dependencies": {
+    "netlify-cms": "^2.9.5",
     "vuepress": "^1.0.2"
   }
 }
