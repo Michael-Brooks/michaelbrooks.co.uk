@@ -30,9 +30,9 @@ The entire experience was insane. It felt like I didn't jump it and it was all a
 
 > [I finally got to do my tandem skydive at 15,000ft and boy was it incredible. ? I felt my ears popping in the way up, but a good slow yawn fixed that. I also struggled to breathe during free fall, but soon learnt how to breathe. ? Finally, when I was able to control myself, I was able to look around and grasp what is going on around me. It felt so surreal and so enjoyable. I loved every single second and would definitely recommend it to anyone who wants to give it a go.](https://www.instagram.com/p/Bir6jgcHRdb/)
 > 
-> A post shared by [Michael Brooks](https://www.instagram.com/mike_d_brooks/) (@mike\_d\_brooks) on May 12, 2018 at 10:42am PDT
+> A post shared by [Michael Brooks](https://www.instagram.com/mike_d_brooks/) (@mike_d_brooks) on May 12, 2018 at 10:42am PDT
 
 > [I'm in the green shoot coming down. ?](https://www.instagram.com/p/Bir65uYHWFi/)
 > 
-> A post shared by [Michael Brooks](https://www.instagram.com/mike_d_brooks/) (@mike\_d\_brooks) on May 12, 2018 at 10:47am PDT
+> A post shared by [Michael Brooks](https://www.instagram.com/mike_d_brooks/) (@mike_d_brooks) on May 12, 2018 at 10:47am PDT
 

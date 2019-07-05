@@ -14,6 +14,6 @@ Overall, it was a fun home workout that I really enjoyed and got a good sweat on
 
 If you're interested in watching my workouts, I recorded and placed them on YouTube which you can conveniently watch below.
 
-\[youtube https://www.youtube.com/watch?v=hPhOQbj2ons&w=560&h=315\]
+[youtube https://www.youtube.com/watch?v=hPhOQbj2ons&w=560&h=315]
 
-\[youtube https://www.youtube.com/watch?v=OTirhZOR7Xw&w=560&h=315\]
+[youtube https://www.youtube.com/watch?v=OTirhZOR7Xw&w=560&h=315]

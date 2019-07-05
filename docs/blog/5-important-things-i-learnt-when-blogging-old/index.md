@@ -5,7 +5,7 @@ date: "2017-05-18"
 
 1\. ## Don't just rely on your blog's RSS feed This is probably the most important lesson I learnt when creating my blog and it could be yours as well. Firstly, I used a tool which generates an RSS feed for me, once I did this, I thought I was done and little did I know just how wrong I was. You see, when you have an RSS feed, you don't have any analytics on who is subscribing and no one can easily subscribe to you, no matter what tool they're using.
 
-Once you have your feed set up, you need to use an analytics feed tool such as \[FeedBurner\](https://feedburner.com). You simply tell it where your feed is, and they will generate a URL for you to use for others to subscribe to.
+Once you have your feed set up, you need to use an analytics feed tool such as [FeedBurner](https://feedburner.com). You simply tell it where your feed is, and they will generate a URL for you to use for others to subscribe to.
 
 Next, you need to your blog or website to tell others and the tools they use where your feed is, so when they visit you, their blog will know you have a feed. Take the following code as an example and place it in the head of your HTML...
 
@@ -13,7 +13,7 @@ Next, you need to your blog or website to tell others and the tools they use whe
 
 You will now be thankful that users can subscribe to your blog, but you will be even more thankful with the fact that you can now track who subscribes and unsubscribes from your blog.
 
-2\. ## Make sure you can analyse your blog properly This one may sound pretty obvious, but it can be easy to forget when setting up your blog. You need to ensure you either sign up to \[Google Analytics\](https://analytics.google.com/) or \[Piwik\](https://piwik.com). You can even use any analytics software which comes with your blog, as long as you understand it and get results from it.
+2\. ## Make sure you can analyse your blog properly This one may sound pretty obvious, but it can be easy to forget when setting up your blog. You need to ensure you either sign up to [Google Analytics](https://analytics.google.com/) or [Piwik](https://piwik.com). You can even use any analytics software which comes with your blog, as long as you understand it and get results from it.
 
 Next up, you need to ensure that you understand the analytics coming from your blog, read up some articles on the subject and watch some Youtube videos and absorb as much information which they give you as possible.
 

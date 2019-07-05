@@ -11,7 +11,7 @@ So say if I had a park in Cornwall, I could create an article which has the slug
 
 Add a similar rule to the one below in your create method and you will get the results which I was looking for...
 
-'slug' => 'required|unique:news,slug,NULL,id,park\_id,' . $input\['park\_id'\],
+'slug' => 'required|unique:news,slug,NULL,id,park_id,' . $input['park_id'],
 
 This rule will then ONLY apply to an article with the same park id.
 

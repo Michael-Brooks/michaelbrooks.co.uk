@@ -9,7 +9,7 @@ However, after a few rounds and a bit of customisation, you really begin to love
 
 If you are looking for a professional grade gaming controller, then I highly recommend this one. I doubt any other company can come close to the sheer comfort and quality of this device and you will be glad you spent your money well, when you can see a clear improvement on your gaming.
 
-\[Click here to see the whole range of elite controllers\](https://amzn.to/2kfZTSn)
+[Click here to see the whole range of elite controllers](https://amzn.to/2kfZTSn)
 
 [![](https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ZV0NH40&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=fitness0d08-21)](https://www.amazon.co.uk/Xbox-One-Elite-Wireless-Controller/dp/B00ZV0NH40/ref=as_li_ss_il?s=videogames&ie=UTF8&qid=1486312826&sr=1-1&keywords=xbox+one+elite+controller&linkCode=li3&tag=fitness0d08-21&linkId=2b8e03c611402e766d20c9d4c27c6ea9)![](https://ir-uk.amazon-adsystem.com/e/ir?t=fitness0d08-21&l=li3&o=2&a=B00ZV0NH40)
 

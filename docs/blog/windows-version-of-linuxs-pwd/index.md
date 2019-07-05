@@ -13,7 +13,7 @@ docker run --rm -it -v $(pwd):/opt -w /opt michaelbrooks/node:latest npm i vuepr
 
 I ran the command and got the following...
 
-docker: Error response from daemon: create $(pwd): "$(pwd)" includes invalid characters for a local volume name, only "\[a-zA-Z0-9\]\[a-zA-Z0-9\_.-\]"
+docker: Error response from daemon: create $(pwd): "$(pwd)" includes invalid characters for a local volume name, only "[a-zA-Z0-9][a-zA-Z0-9_.-]"
  are allowed. If you intended to pass a host directory, use absolute path.
 See 'docker run --help'.
 

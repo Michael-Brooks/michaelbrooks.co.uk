@@ -9,7 +9,7 @@ date: "2016-10-27"
 
 \> Are you ready to start your transformation and get Lean in 15?
 
-Joe Wicks has become a loveable character with his charm and witty banter. When I first saw him on Channel 4 (\[Joe Wicks: The Body Coach\](https://www.channel4.com/programmes/joe-wicks-the-body-coach/on-demand/63661-002)), I couldn't help but think how annoying he was, but wow did his food look amazing...
+Joe Wicks has become a loveable character with his charm and witty banter. When I first saw him on Channel 4 ([Joe Wicks: The Body Coach](https://www.channel4.com/programmes/joe-wicks-the-body-coach/on-demand/63661-002)), I couldn't help but think how annoying he was, but wow did his food look amazing...
 
 So because of the delicious food on the telly, I became so engrossed that by the end of it, I couldn't help but love him and what he stood for. His mentality in that dieting was wrong and you should eat whole, healthy foods really rung true in my ears.
 

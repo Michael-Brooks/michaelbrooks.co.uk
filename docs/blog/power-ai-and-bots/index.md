@@ -11,7 +11,7 @@ One showcase which Microsoft has recently showed us is their bot which can take 
 
 Google even thinks that bots are something which need to be tapped in to and they have in fact brought out their own chat bot which looks to perform just as well as the Google search engine and maybe even better than Facebook's messenger bots.
 
-\[Windows Central\](https://www.windowscentral.com/ai-bots-and-canvases-conversation-part-i-my-evolving-view-microsofts-artificial-intelligence-vision) even believes that one day, bots could replace apps as you could end up asking the bot to order you food, or even order your groceries or anything you could wish for. Maybe one day, these bots could predict what you need and when and even order all of it for you without the need to lift a finger.
+[Windows Central](https://www.windowscentral.com/ai-bots-and-canvases-conversation-part-i-my-evolving-view-microsofts-artificial-intelligence-vision) even believes that one day, bots could replace apps as you could end up asking the bot to order you food, or even order your groceries or anything you could wish for. Maybe one day, these bots could predict what you need and when and even order all of it for you without the need to lift a finger.
 
 This is especially true when you think about the plethora of smart devices coming out. Washing machines, fridge freezers, televisions (even my TV is starting to suggest what I switch over to at certain times). All of these smart devices could one day connect to each other and communicate with a shopping list which could then be ordered and delivered on a day you're in.
 

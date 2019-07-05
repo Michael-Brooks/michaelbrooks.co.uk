@@ -14,7 +14,7 @@ A few days ago, I wrote a Tweet on the best ways to silence your anxiety/depress
 
 As soon as I came away from gaming, and did something that required less attention, my mind would wonder. This had bad consequences as it would start to worry, and it would leave me with terrible anxiety. I would run to the bathroom and throw up. Literally to the point of having an empty stomach, it was not nice.
 
-https://twitter.com/Mike\_D\_Brooks/status/1056987626413178880
+https://twitter.com/Mike_D_Brooks/status/1056987626413178880
 
 Some people may think of this as an excuse, but it really isn't. Gaming is just one avenue, and I eventually transitioned to CrossFit. CrossFit is another channel to help me get through the bad times. Sometimes though, it can also be an enabler, but it has helped me to control my anxiety, and not let it get the better of me.
 

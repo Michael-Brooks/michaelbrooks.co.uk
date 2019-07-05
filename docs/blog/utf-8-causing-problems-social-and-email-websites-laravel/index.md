@@ -13,7 +13,7 @@ Recently, I was testing out one of my creations and sent a message using an emot
 
 I found a little snippet which allowed me to change my tables encoding
 
-ALTER DATABASE database\_name CHARACTER SET = utf8mb4 COLLATE = utf8mb4\_unicode\_ci;
+ALTER DATABASE database_name CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci;
 
 Fantastic I thought, I did this with every table which needed it and then tested my app again, I got the same error?!? :o
 
@@ -23,6 +23,6 @@ One thing I missed out, was that I need to set Laravel's settings to the same en
 
 Change this to...
 
-'charset' => 'utf8mb4', 'collation' => 'utf8mb4\_general\_ci'
+'charset' => 'utf8mb4', 'collation' => 'utf8mb4_general_ci'
 
 And you are done. Let me know if you still have any problems and your stories with how you managed to fix this issue. :)

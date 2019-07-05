@@ -11,7 +11,7 @@ Once you have your RSS feed set-up, you should use an analytics feed tool such a
 
 Next, you need your blog or website to tell others about your feed. The tools they use tell them where your feed is. When they visit you, their blog will know you have a feed. Take the following code as an example…
 
-[https://developer.mozilla.org/en-US/docs/Web/RSS/Getting\_Started/Syndicating](https://developer.mozilla.org/en-US/docs/Web/RSS/Getting_Started/Syndicating)
+[https://developer.mozilla.org/en-US/docs/Web/RSS/Getting_Started/Syndicating](https://developer.mozilla.org/en-US/docs/Web/RSS/Getting_Started/Syndicating)
 
 You will be even more thankful you can now track who subscribes and unsubscribes from your blog.
 

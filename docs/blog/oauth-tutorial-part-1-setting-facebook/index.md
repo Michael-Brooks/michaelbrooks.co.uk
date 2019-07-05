@@ -7,7 +7,7 @@ Last week I promised that I will be creating some tutorials regarding Oauth and 
 
 Firstly, we will start with Facebook, then head on over to Twitter and Google+. I am using these as my website won't be for developers, it will be for everyday people so I don't expect them to have a Github or Linkedin account. If however, I want to implement these at a later date, I will post the setup of them here for you to see.
 
-Start off by going to \[developers.facebook.com/apps/\](https://developers.facebook.com/apps/) and click on the "+ Add a New App" button. We then get a sort of pop up window which will ask us to select our desired target. We want the website, so click on that to get started.
+Start off by going to [developers.facebook.com/apps/](https://developers.facebook.com/apps/) and click on the "+ Add a New App" button. We then get a sort of pop up window which will ask us to select our desired target. We want the website, so click on that to get started.
 
 Within the next page, it will ask us to search for an existing app or create a new one. For the purpose of our tutorial, we will create a new app called "FooBar". A type that in and select "Create New Facebook App ID". This is not a test version of another app (we will come to that in a bit) so we want to leave that as it is and select a category for our app. I'll just select "Entertainment", but you can select what ever's right for you at the time. Click on "Create App ID" and it will bring you to a nice setup page.
 

@@ -39,5 +39,5 @@ Follow my IG for more photos/videos.
 > 
 > [Really enjoyed trying out ninja warrior and I think my CrossFit training really helped me out. ? First time I failed, but I came back again and completed it. ?](https://www.instagram.com/p/BpvGI-mDxXc/?utm_source=ig_embed&utm_medium=loading)
 > 
-> A post shared by [Michael Brooks](https://www.instagram.com/mike_d_brooks/?utm_source=ig_embed&utm_medium=loading) (@mike\_d\_brooks) on Nov 3, 2018 at 4:01pm PDT
+> A post shared by [Michael Brooks](https://www.instagram.com/mike_d_brooks/?utm_source=ig_embed&utm_medium=loading) (@mike_d_brooks) on Nov 3, 2018 at 4:01pm PDT
 

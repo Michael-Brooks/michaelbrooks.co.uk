@@ -5,7 +5,7 @@ date: "2017-06-10"
 
 \## Working Effectively with Legacy Code [Amazon.com](https://www.amazon.com/gp/product/0131177052/ref=as_li_tl?ie=UTF8&tag=michaelbrooks-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0131177052&linkId=141de70c0206cc75b09a62a95d0679e7) | [Amazon.co.uk](https://www.amazon.co.uk/gp/product/B005OYHF0A/ref=as_li_tl?ie=UTF8&tag=wedeuk05-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=B005OYHF0A&linkId=649ae44575d09f6754decf1da6e0b0aa)
 
-!\[Working Effectively with Legacy Code\](/storage/app/media/0131177052.jpg)
+![Working Effectively with Legacy Code](/storage/app/media/0131177052.jpg)
 
 Michael C. Feathers
 
@@ -31,7 +31,7 @@ It's an unfortunate commentary on the state of our programming industry how much
 
 \## Clean Code [Amazon.com](https://www.amazon.com/gp/product/0132350882/ref=as_li_tl?ie=UTF8&tag=michaelbrooks-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0132350882&linkId=608ae6a39a076017f60898ca05140f6f) | [Amazon.co.uk](https://www.amazon.co.uk/gp/product/0132350882/ref=as_li_tl?ie=UTF8&tag=wedeuk05-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=0132350882&linkId=24442b08823bdb85bcdc3fa065fa64d0)
 
-!\[Clean Code\](/storage/app/media/0132350882.jpg)
+![Clean Code](/storage/app/media/0132350882.jpg)
 
 Robert C. Martin
 
@@ -43,7 +43,7 @@ An extremely pragmatic method for writing better code from the start, and ultima
 
 \## Refactoring - Improving the Design of Existing Code [Amazon.com](https://www.amazon.com/gp/product/0201485672/ref=as_li_tl?ie=UTF8&tag=michaelbrooks-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0201485672&linkId=00b05ee464d1e15ef958c607c30812c4) | [Amazon.co.uk](https://www.amazon.co.uk/gp/product/0201485672/ref=as_li_tl?ie=UTF8&tag=wedeuk05-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=0201485672&linkId=3e20422c025bd9f504f2673c122151bd)
 
-!\[Refactoring - Improving the Design of Existing Code\](/storage/app/media/0201485672.jpg)
+![Refactoring - Improving the Design of Existing Code](/storage/app/media/0201485672.jpg)
 
 Martin Fowler, Kent Beck
 
@@ -55,7 +55,7 @@ Users can dramatically improve the design, performance, and manageability of obj
 
 \## Design Patterns [Amazon.com](https://www.amazon.com/gp/product/0201633612/ref=as_li_tl?ie=UTF8&tag=michaelbrooks-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0201633612&linkId=ab1dd240babd8f45b5fa1038e3b189ec) | [Amazon.co.uk](https://www.amazon.co.uk/gp/product/0132350882/ref=as_li_tl?ie=UTF8&tag=wedeuk05-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=0132350882&linkId=24442b08823bdb85bcdc3fa065fa64d0)
 
-!\[Design Patterns\](/storage/app/media/0201633612.jpg)
+![Design Patterns](/storage/app/media/0201633612.jpg)
 
 Ralph Johnson, Erich Gamma, John Vlissides, Richard Helm
 
@@ -67,7 +67,7 @@ Capturing a wealth of experience about the design of object-oriented software, f
 
 \## Patterns of Enterprise Application Architecture [Amazon.com](https://www.amazon.com/gp/product/0321127420/ref=as_li_tl?ie=UTF8&tag=michaelbrooks-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0321127420&linkId=54722d670efe3c7128b2d99926278ea7) | [Amazon.co.uk](https://www.amazon.co.uk/gp/product/0321127420/ref=as_li_tl?ie=UTF8&tag=wedeuk05-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=0321127420&linkId=0d7a8480cdb91aa48d6c3b67b17675e3)
 
-!\[Patterns of Enterprise Application Architecture\](/storage/app/media/0321127420.jpg)
+![Patterns of Enterprise Application Architecture](/storage/app/media/0321127420.jpg)
 
 Martin Fowler
 
@@ -77,4 +77,4 @@ This volume is a handbook for enterprise system developers, guiding them through
 
 Related:
 
-\* \[Top 5 Laravel Books\](/post/top-5-laravel-books)
+\* [Top 5 Laravel Books](/post/top-5-laravel-books)

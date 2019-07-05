@@ -5,7 +5,7 @@ date: "2016-04-11"
 
 This evening, I had myself a little challenge. I would turn my two containers (MariaDB and my own built container) into more containers, but using the power of Docker's official container repos. E.g. I would have 3 containers in total PHP7-FPM, NGINX and my already created MariaDB.
 
-If you don't know my steps I previously created, you can check it out \[here\](/blog/post/hosting-your-site-digital-ocean-and-docker) and skip to MariaDB for your database container and settings.
+If you don't know my steps I previously created, you can check it out [here](/blog/post/hosting-your-site-digital-ocean-and-docker) and skip to MariaDB for your database container and settings.
 
 First off, I used the PHP container and followed instructions to have a PHP7-FPM container. You can see below for the Docker file, just copy it and run the command below...
 
@@ -39,7 +39,7 @@ https://gist.github.com/Michael-Brooks/14796d59271812a1070361532004ceab.js?file=
 
 From my GIST above, I redirect all non secure requests over to a secure connection and as I have 0 subdomains, I redirect them all to my main domain name. You can edit as you see fit, but it should give you a good idea.
 
-Please note the fastcgi\_pass PHP\_FPM\_IP:9000; section, in order to get your PHP\_FPM\_IP you will need to run the following...
+Please note the fastcgi_pass PHP_FPM_IP:9000; section, in order to get your PHP_FPM_IP you will need to run the following...
 
 \`\`\` docker network inspect bridge \`\`\`
 
@@ -49,7 +49,7 @@ Looking for the php7 container, you should see something similar to...
 
 As you can see from the code above, my IP is... 172.17.0.4 so I would place that into my default.conf like...
 
-\`\`\` fastcgi\_pass 172.17.0.4:9000; \`\`\`
+\`\`\` fastcgi_pass 172.17.0.4:9000; \`\`\`
 
 Now for copying the default.conf file...
 

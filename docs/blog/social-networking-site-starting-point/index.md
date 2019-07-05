@@ -5,11 +5,11 @@ date: "2016-07-27"
 
 In my last post, I said how I would create a new open sourced social networking website and I would start out on the API.
 
-To get us started, I am using the latest \[Lumen\](https://lumen.laravel.com) build and will extend it with \[Dingo\](https://github.com/dingo/api) and \[JWT Tokens\](https://github.com/tymondesigns/jwt-auth) for authentication.
+To get us started, I am using the latest [Lumen](https://lumen.laravel.com) build and will extend it with [Dingo](https://github.com/dingo/api) and [JWT Tokens](https://github.com/tymondesigns/jwt-auth) for authentication.
 
 First and foremost, I feel that the database and API endpoints are the most important parts of our application and is what I will begin to build out.
 
-I will start with the basics, user profile, comments, friendship etc and then build out a nice messaging system. I will be looking to implement something like \[Pusher\](https://pusher.com/) for a messaging system as that seems to have a nice API and with the updates which \[Laravel 5.3\](https://laravel.com), it seems like it could be a nice system.
+I will start with the basics, user profile, comments, friendship etc and then build out a nice messaging system. I will be looking to implement something like [Pusher](https://pusher.com/) for a messaging system as that seems to have a nice API and with the updates which [Laravel 5.3](https://laravel.com), it seems like it could be a nice system.
 
 After building out the API, I will then open source it for others to contribute to and that help me out with getting the actual site implemented and interacting with the API.
 

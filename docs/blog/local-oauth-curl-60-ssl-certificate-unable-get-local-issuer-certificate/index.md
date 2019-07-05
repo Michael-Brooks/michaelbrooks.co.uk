@@ -9,7 +9,7 @@ I use XAMPP as my local development environment, but this will work with WAMP or
 
 (I know I should use Vagrant as my local environment, but I haven't got round to getting it up and running just yet).
 
-Firstly, we need to download an SSL certificate to use for our local set up, to do this, head over to \[Github\](https://raw.githubusercontent.com/bagder/ca-bundle/master/ca-bundle.crt) and save the file. The best place to save it is in C:/xampp/apache/conf/ssl.crt. There is already a crt file here, but I have test that one and it doesn't work. You can either overwrite that one, or keep the name "ca-bundle.crt", I generally keep to the same name that way the other file is there in case you need it in the future.
+Firstly, we need to download an SSL certificate to use for our local set up, to do this, head over to [Github](https://raw.githubusercontent.com/bagder/ca-bundle/master/ca-bundle.crt) and save the file. The best place to save it is in C:/xampp/apache/conf/ssl.crt. There is already a crt file here, but I have test that one and it doesn't work. You can either overwrite that one, or keep the name "ca-bundle.crt", I generally keep to the same name that way the other file is there in case you need it in the future.
 
 Now you need to open up your php.ini file find the line "curl.cainfo" (if it isn't there) add/change it to... curl.cainfo = "C:xamppapacheconfssl.crtca-bundle.crt". Restart your Apache server and test it out using any Oauth API you are using or going to use for your projects.
 

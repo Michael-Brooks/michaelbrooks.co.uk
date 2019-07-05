@@ -27,7 +27,7 @@ vendor/bin/homestead make
 
 This will create the VagrantFile and Homestead.yaml file to be used for Vagrant.
 
-The Homestead.yaml file is used to configure any settings to be used in your virtual machine. If you need more advanced settings, then check out \[the Homestead docs\](https://laravel.com/docs/5.1/homestead), which shows how to add Blackfire and Crons etc.
+The Homestead.yaml file is used to configure any settings to be used in your virtual machine. If you need more advanced settings, then check out [the Homestead docs](https://laravel.com/docs/5.1/homestead), which shows how to add Blackfire and Crons etc.
 
 4 . Run
 
