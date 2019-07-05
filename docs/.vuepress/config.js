@@ -37,7 +37,7 @@ function generateSidebar(markdownPaths, sort = true, limit = 0) {
 
 const glob = require('glob');
 const basePath = 'docs';
-let blogPaths = glob.sync(basePath + '/*/*/*.md');
+let blogPaths = glob.sync(basePath + '/*/*.md');
 let blogPosts = generateSidebar(blogPaths, true, 5);
 
 module.exports = {
