@@ -23,4 +23,4 @@ Finally, the shopping can get costly, especially at first. It should start balan
 
 \### Want the book for yourself? Click the image below to buy now! ###
 
-[![](//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1509800662&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=fitness0d08-21)](https://www.amazon.co.uk/Lean-15-Minute-Workouts-Healthy/dp/1509800662/ref=as_li_ss_il?ie=UTF8&qid=1476194229&sr=8-3&keywords=joe+wicks&linkCode=li2&tag=fitness0d08-21&linkId=5077824c782b2220415afc1aff267fec)![](https://ir-uk.amazon-adsystem.com/e/ir?t=fitness0d08-21&l=li2&o=2&a=1509800662)
+[![](https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1509800662&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=fitness0d08-21)](https://www.amazon.co.uk/Lean-15-Minute-Workouts-Healthy/dp/1509800662/ref=as_li_ss_il?ie=UTF8&qid=1476194229&sr=8-3&keywords=joe+wicks&linkCode=li2&tag=fitness0d08-21&linkId=5077824c782b2220415afc1aff267fec)![](https://ir-uk.amazon-adsystem.com/e/ir?t=fitness0d08-21&l=li2&o=2&a=1509800662)
