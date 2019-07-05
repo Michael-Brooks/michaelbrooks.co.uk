@@ -1,0 +1,23 @@
+{
+  "name": "michaelbrooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael-Brooks/michaelbrooks.co.uk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michael-Brooks/michaelbrooks.co.uk/issues"
+  },
+  "homepage": "https://michaelbrooks.co.uk",
+  "dependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
