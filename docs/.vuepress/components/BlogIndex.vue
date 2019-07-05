@@ -1,7 +1,7 @@
 <template>
     <div>
         <div v-for="post in posts" v-if="post.regularPath !== '/'">
-                <img :src="coverImage(post.regularPath, post.frontmatter.coverImage)" alt="" />
+<!--            <img :src="coverImage(post.regularPath, post.frontmatter.coverImage)" alt="" />-->
             <h2><router-link :to="post.path">{{ post.frontmatter.title }}</router-link></h2>
             {{ formateDate(post.frontmatter.date) }}
         </div>
