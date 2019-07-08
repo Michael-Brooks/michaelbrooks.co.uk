@@ -1,6 +1,7 @@
 ---
 title: "Docker: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"
 date: "2019-07-05"
+excerpt: How to overcome this annoying error.
 ---
 
 This error has had a lot of people stumped by the looks of their [issues on GitHub](https://github.com/docker/kitematic/issues). I think the error stems from downloading Docker through their main landing page, I tried a lot to fix the issue and with no luck. This included switching the DNS over to 8.8.8.8 which has been suggested in the past and worked.

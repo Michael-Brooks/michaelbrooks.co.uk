@@ -1,27 +1,18 @@
 <template>
     <div>
         <div v-for="post in posts">
-<!--            <img :src="coverImage(post.regularPath, post.frontmatter.coverImage)" alt="" />-->
-            {{ formateDate(post.frontmatter.date) }}
-            <h2><router-link :to="post.path">{{ post.frontmatter.title }}</router-link></h2>
+            <router-link :to="post.path">
+                <div v-if="typeof post.frontmatter.coverImage !== 'undefined'" >
+                    <img :src="coverImage(post.regularPath, post.frontmatter.coverImage)" alt="" />
+                </div>
+            </router-link>
+            <h3><router-link :to="post.path">{{ post.frontmatter.title }}</router-link></h3>
+            <p>Posted On: {{ formateDate(post.frontmatter.date) }}</p>
+            <p>{{ post.frontmatter.excerpt }}</p>
+            <p><router-link :to="post.path">Read More >>></router-link></p>
         </div>
     </div>
 </template>
-<style scoped>
-    .blog-index-list {
-        display: table;
-        width: 100%;
-        table-layout: auto;
-    }
-    .blog-index-list td {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-    .blog-index-list td:first-child {
-        width: 1px;
-        white-space: nowrap;
-    }
-</style>
 <script>
     import moment from "moment"
 
@@ -34,7 +25,7 @@
                 return moment(date).format(format)
             },
             coverImage(path, image) {
-                return path + 'images/' + image;
+                return '/images/' + image;
             }
         },
         computed: {
