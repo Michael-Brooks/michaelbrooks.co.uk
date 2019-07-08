@@ -1,6 +1,7 @@
 ---
 title: "My Protein - Impact Whey Protein Review"
 date: "2017-01-22"
+type: "post"
 ---
 
 ![Impact Whey Protein Ingredients](https://www.barbellsandbeards.com/wp-content/uploads/2015/12/MyProtein-Impact-Whey-Amino-Acids.jpg)

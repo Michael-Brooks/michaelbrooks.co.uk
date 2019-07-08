@@ -1,6 +1,7 @@
 ---
 title: "Oauth Tutorial - Part 1 - Setting up Facebook"
 date: "2015-04-05"
+type: "post"
 ---
 
 Last week I promised that I will be creating some tutorials regarding Oauth and Laravel's Socialite plugin. Today, we will start with setting up each website and creating an app on these sites to accept our OAuth requests.

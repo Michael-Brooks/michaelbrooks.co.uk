@@ -2,6 +2,7 @@
 title: "I did a tandem skydive at 15,000ft ?"
 date: "2018-05-14"
 coverImage: "IMG_20180512_181022.jpg"
+type: "post"
 ---
 
 # Tandem skydives are an exhilarating experience.

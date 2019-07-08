@@ -2,6 +2,7 @@
 title: "Dealing with Performance Anxiety and Depression as a Web Developer"
 date: "2016-01-26"
 coverImage: "Coping-With-Anxiety-and-Depression-722x406.jpg"
+type: "post"
 ---
 
 ## Performance anxiety sucks

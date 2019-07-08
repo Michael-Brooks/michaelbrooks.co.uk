@@ -1,6 +1,7 @@
 ---
 title: "ReactPHP and Symfony"
 date: "2016-07-18"
+type: "post"
 ---
 
 I started listening to a [great Podcast series](https://phptownhall.com/episode-49-async/) which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about [ReactPHP](https://reactphp.org/).

@@ -2,6 +2,7 @@
 title: "Valentine's Day - 2019"
 date: "2019-02-14"
 coverImage: "Blog-header-image-1.jpg"
+type: "post"
 ---
 
 Today is Valentine's Day which means couples will be spending time together. Maybe they'll spoil each, or maybe they'll chill with some Netflix. However they spend Valentine's, it can be a wonderful day.

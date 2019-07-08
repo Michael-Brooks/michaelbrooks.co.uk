@@ -1,6 +1,7 @@
 ---
 title: "24 workouts in 24 hours - Help me raise money for The African Maternity Link"
 date: "2017-06-12"
+type: "post"
 ---
 
 I am taking part in what seems like a crazy event, but I am super stoked and will be looking forward to taking part and

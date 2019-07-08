@@ -2,6 +2,7 @@
 title: "5 of the best Laravel books"
 date: "2017-06-12"
 coverImage: "janko-ferlic-174927.jpg"
+type: "post"
 ---
 
 ## Laravel - Up and Running: A Framework for Building Modern PHP Apps [Amazon.com](https://www.amazon.com/gp/product/1491936088/ref=as_li_tl?ie=UTF8&tag=michaelbrooks-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491936088&linkId=6973e43204f87a267f61bb0e2b9973ef) | [Amazon.co.uk](https://www.amazon.co.uk/gp/product/1491936088/ref=as_li_tl?ie=UTF8&tag=wedeuk05-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=1491936088&linkId=fc44d16f0550a52e9b03da9d20d78eb5)

@@ -2,6 +2,7 @@
 title: "How I manage to get to Crossfit every morning"
 date: "2019-01-13"
 coverImage: "nathan-dumlao-608718-unsplash.jpg"
+type: "post"
 ---
 
 Some days I wake up at 4:30, others at 5 on weekdays then on Saturday I get up at 7 in the morning. How do I do this you ask?

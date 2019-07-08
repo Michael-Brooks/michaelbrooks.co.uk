@@ -1,6 +1,7 @@
 ---
 title: "Windows 10 Creative Update Event Overview"
 date: "2016-10-29"
+type: "post"
 ---
 
 Thursday night I sat watching the Windows 10 event, and I have to say, they blew everyone away...

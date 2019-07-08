@@ -1,6 +1,7 @@
 ---
 title: "The beginning of our Laravel social network"
 date: "2016-07-22"
+type: "post"
 ---
 
 A long while back, I said I would love to create and document making a social networking website using the Laravel framework, well that hasn't happened, like at all.

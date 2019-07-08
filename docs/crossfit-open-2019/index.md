@@ -2,6 +2,7 @@
 title: "Crossfit Open 2019"
 date: "2019-02-17"
 coverImage: "crossfit-open-2019.jpg"
+type: "post"
 ---
 
 In 4 to 5 days, we will be finding out what our first workout called 19.1 will be. This will be my third year going into the open, and I'm not nervous. The open workouts are just a way for me to see how I stack against my previous self and those within my box. It is nothing more than a benchmark, and I'm sure it's the same for a lot of people. It's always exciting to see athletes compete on top form and they always seem to make it look so easy. I used to think that I could do it like them, but I've learnt I'll never be as good as they are.

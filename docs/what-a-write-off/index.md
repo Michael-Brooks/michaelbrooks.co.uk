@@ -2,6 +2,7 @@
 title: "What a write off"
 date: "2019-02-16"
 coverImage: "IMG_20190216_124930.jpg"
+type: "post"
 ---
 
 Today has been pretty stressful to say the least. Having some guy shout at me through his car window really got to be. It shouldn't have and most things usually go to my head, but this got me. It was probably the fact that my day already want going well and this was the nail in the coffin which sent me over the edge.

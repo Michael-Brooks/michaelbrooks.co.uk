@@ -1,6 +1,7 @@
 ---
 title: "UTF-8 causing problems for Social and Email Websites Laravel"
 date: "2014-12-08"
+type: "post"
 ---
 
 I've been developing a couple of projects which use UTF-8 encoding on my databases, but have found that this has been problematic recently. Mobile phones and tablets now use emoticons which can cause problems for us UTF-8 users.

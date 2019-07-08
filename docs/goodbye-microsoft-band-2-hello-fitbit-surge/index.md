@@ -1,6 +1,7 @@
 ---
 title: "Goodbye Microsoft Band 2, hello Fitbit Surge"
 date: "2016-10-19"
+type: "post"
 ---
 
 6 months ago, I had been given a Microsoft band 2 as a loving birthday present. I thought it was a great device which had so many great features, but unfortunately the wear and tear of the device eventually let it down.

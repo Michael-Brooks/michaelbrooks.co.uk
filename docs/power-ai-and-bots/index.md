@@ -1,6 +1,7 @@
 ---
 title: "The power of AI and bots"
 date: "2016-08-31"
+type: "post"
 ---
 
 I have started seeing the sudden increase in AI and bots and I am so excited to see where this is heading. First we had Microsoft introduce Tay the Twitter AI which unfortunately saw it's demise when it got turned into a racist drug dealer. Tay displayed just how powerful their AI could be even if it turned against the rules set to keep it at bay.

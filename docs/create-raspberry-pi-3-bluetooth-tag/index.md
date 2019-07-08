@@ -1,6 +1,7 @@
 ---
 title: "Create a Raspberry Pi 3 Bluetooth tag"
 date: "2016-08-09"
+type: "post"
 ---
 
 I found this [MagPi Tutorial](https://www.raspberrypi.org/magpi/create-a-raspberry-pi-3-bluetooth-tag/) to be a really nice starting project for my newly purchased Pi 3. However, I did run into a few problems which I will address in this Blog post. You can pretty much follow either this post, or the MagPi one, but my post will address any issues I had when following their tutorial.

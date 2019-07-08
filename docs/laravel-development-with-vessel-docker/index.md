@@ -2,6 +2,7 @@
 title: "Laravel Development with Vessel (Docker)"
 date: "2018-06-19"
 coverImage: "subsea_vessels.jpg"
+type: "post"
 ---
 
 # Getting started with Vessel

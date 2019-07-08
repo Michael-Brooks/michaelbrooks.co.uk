@@ -2,6 +2,7 @@
 title: "The vegan challenge"
 date: "2019-02-12"
 coverImage: "Blog-header-image.jpg"
+type: "post"
 ---
 
 For the past three weeks, I've been a vegan. It's something that brings in lots of new challenges, and the experience can be very gratifying and rewarding. There's a lot of foods out there which are obviously not suitable for vegans, such as; meat, eggs, dairy and even honey. However, some things aren't so obvious like; bread, pasta, sweets and biscuits. Most things have a "suitable for vegan" logo, some are "suitable for vegetarian" while others don't have either.

@@ -1,6 +1,7 @@
 ---
 title: "New Year, New Blog, New something?"
 date: "2016-02-27"
+type: "post"
 ---
 
 I am really stoked to show you guys my brand new Blog built with [October CMS](https://octobercms.com). For my hosting, I have used [Digital Ocean](https://m.do.co/c/d5aca73b366f) (click the link for $10 free). Digital Ocean is a fantastic hosting company which I just love to use as they give you complete control over your VPS, and they even give you One-click apps to help you get started.

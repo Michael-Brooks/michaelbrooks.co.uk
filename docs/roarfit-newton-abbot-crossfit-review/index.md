@@ -2,6 +2,7 @@
 title: "Roarfit (Newton Abbot Crossfit) Review"
 date: "2019-02-05"
 coverImage: "IMG_20180821_070032.jpg"
+type: "post"
 ---
 
 ## How I started at Roarfit (Newton Abbot Crossfit)

@@ -1,6 +1,7 @@
 ---
 title: "Most helpful GIT command..."
 date: "2017-05-23"
+type: "post"
 ---
 
 This little command is a lifesaver and will save you so much time when switching and merging previous branches in your GIT workflow.

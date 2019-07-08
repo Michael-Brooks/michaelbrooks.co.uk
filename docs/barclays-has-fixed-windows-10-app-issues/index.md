@@ -1,6 +1,7 @@
 ---
 title: "Barclays has fixed Windows 10 - Creators Update app issues"
 date: "2017-06-01"
+type: "post"
 ---
 
 Today, Barclays fixed some major issues which it had with Windows 10 mobile devices running on the creators update. First issue it ran into when this update was released was a message saying "Sorry, Barclays Mobile Banking is not supported on jailbroken devices".

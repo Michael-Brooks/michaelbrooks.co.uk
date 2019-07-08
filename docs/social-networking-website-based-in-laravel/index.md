@@ -1,6 +1,7 @@
 ---
 title: "Social Networking Website Based in Laravel"
 date: "2014-04-05"
+type: "post"
 ---
 
 ## Laravel social networking website.

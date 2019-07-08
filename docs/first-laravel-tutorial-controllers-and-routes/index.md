@@ -1,6 +1,7 @@
 ---
 title: "First Laravel Tutorial - Controllers and Routes"
 date: "2014-03-29"
+type: "post"
 ---
 
 ## Commence quick and helpful tutorial...

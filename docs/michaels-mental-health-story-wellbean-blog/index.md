@@ -1,6 +1,7 @@
 ---
 title: "Michael’s mental health story — Wellbean blog"
 date: "2019-03-07"
+type: "post"
 ---
 
 I'm happy to accounce that my mental health story has been published on WellBean's blog. If you would like to give it a read, then please head over to the link below. Thank you for taking your time to read it.

@@ -1,6 +1,7 @@
 ---
 title: "Joe Wicks - The Shift Plan (Book 1) review"
 date: "2016-10-21"
+type: "post"
 ---
 
 \> EAT MORE, EXERCISE LESS AND LOSE FAT 'This isn't a strict diet - it's a lifestyle that will transform your body and the way you eat forever. Once I teach you how to fuel your body properly, you will never need to follow a low-calorie diet again.' In his first book, Joe Wicks, aka The Body Coach, reveals how to SHIFT your body fat by eating more and exercising less. Lean in 15 features 100 recipes for nutritious, quick-to-prepare meals and guides you through Joe's signature HIIT (High Intensity Interval Training) home workouts - revealing how to combine food and exercise to ignite intense fat-burning. The thousands of amazing body transformations Joe's clients have achieved prove that his method works. Now you too can learn how to eat in line with your energy demands every day. With recipes divided into 3 sections - Reduced-Carbohydrate, Post-Workout Carbohydrate-Refuel, and Snacks - and top tips for 'Prepping Like A Boss', Lean in 15 provides a plan for sustainable fat loss that will inspire you to keep your body healthy, strong and lean - forever.

@@ -1,6 +1,7 @@
 ---
 title: "A year review 2018"
 date: "2018-12-29"
+type: "post"
 ---
 
 After reading [Tim Ferris' year review](https://tim.blog/2018/12/28/past-year-review/), I decided to do something similar. I couldn't go through my calendar as I never use one for events (maybe I should start next year).

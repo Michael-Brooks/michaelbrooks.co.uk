@@ -2,6 +2,7 @@
 title: "January 2019 is coming to an end"
 date: "2019-01-28"
 coverImage: "maddi-bazzocco-1178337-unsplash.jpg"
+type: "post"
 ---
 
 This is our final week of January, and we only have 3 days left until it's officially over. I've already had a few surprises, some bad and some good, and I wanted to share with you both my good and bad for this month.

@@ -1,6 +1,7 @@
 ---
 title: "Dealing with Depression and Anxiety, becoming a stronger, better self"
 date: "2016-07-21"
+type: "post"
 ---
 
 As some of you readers may know me by now and possibly read my [previous post](/blog/post/dealing-with-performance-anxiety-and-depression-as-a-web-developer). Which explained how I went through a hard time with work and built up a lot of anxiety with myself and felt as though I wasn't a good enough developer.

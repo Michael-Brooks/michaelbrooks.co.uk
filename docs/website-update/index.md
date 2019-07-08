@@ -1,6 +1,7 @@
 ---
 title: "Website Update"
 date: "2015-01-23"
+type: "post"
 ---
 
 As you can see, it has been a while since my last post, but I have been busy trying to push updates over to my website to help strengthen the relationships between you and I.

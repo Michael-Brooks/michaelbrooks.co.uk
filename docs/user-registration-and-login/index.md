@@ -1,6 +1,7 @@
 ---
 title: "Laravel user Registration and Login"
 date: "2014-08-23"
+type: "post"
 ---
 
 ## Using Laravel packages to help us

@@ -1,6 +1,7 @@
 ---
 title: "Homemade Air Conditioner"
 date: "2017-06-20"
+type: "post"
 ---
 
 [MagPi's](https://twitter.com/TheMagP1/status/877082289850785793)'s Twitter account was asking if anyone has any good air conditioning Raspberry Pi projects, but so far no one has made one which is appalling in this UK heatwave (currently over 30C).

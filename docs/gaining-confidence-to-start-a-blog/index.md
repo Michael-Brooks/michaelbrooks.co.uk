@@ -2,6 +2,7 @@
 title: "Gaining confidence to start a blog"
 date: "2019-02-11"
 coverImage: "Copy-of-Gaining-confidence-to-start-blogging.jpg"
+type: "post"
 ---
 
 I had this discussion on [my Twitter](https://twitter.com/mike_d_brooks) to which I said...

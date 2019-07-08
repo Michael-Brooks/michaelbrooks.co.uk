@@ -2,6 +2,7 @@
 title: "Best Hip Stretches to do while at Work"
 date: "2019-01-16"
 coverImage: "rawpixel-284730-unsplash.jpg"
+type: "post"
 ---
 
 Yesterday, my hips were very tight because of some heavy squats I did on Monday. My hips were very immobile, and today I'll talk you through some hip stretches you can do at work.

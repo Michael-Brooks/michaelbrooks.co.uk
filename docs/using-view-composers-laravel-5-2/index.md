@@ -1,6 +1,7 @@
 ---
 title: "Using View Composers in Laravel 5.2"
 date: "2016-02-03"
+type: "post"
 ---
 # Using View Composers in Laravel 5.2
 

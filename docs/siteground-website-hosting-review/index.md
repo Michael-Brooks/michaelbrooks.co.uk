@@ -2,6 +2,7 @@
 title: "SiteGround website hosting review"
 date: "2019-02-20"
 coverImage: "hosting-review.jpg"
+type: "post"
 ---
 
 _Please note most links in this review are referral links. This helps the running of my blog._

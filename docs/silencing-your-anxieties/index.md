@@ -1,6 +1,7 @@
 ---
 title: "Silencing your anxieties"
 date: "2018-11-12"
+type: "post"
 ---
 
 - ![](/blog/wp-content/uploads/2018/11/sean-do-782269-unsplash.jpg)

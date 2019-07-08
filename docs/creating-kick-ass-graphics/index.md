@@ -2,6 +2,7 @@
 title: "Creating kick ass graphics"
 date: "2019-02-18"
 coverImage: "kick-ass.jpg"
+type: "post"
 ---
 
 The latest round of graphics I've been using are a mix of [Canva](https://www.canva.com/) and [Unsplash](https://unsplash.com/). These are great resources for any blogger or creator out there. With Canva, you have so many templates and styles to choose from. You can literally pick a design that will suit almost any blog.

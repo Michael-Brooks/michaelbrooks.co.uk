@@ -2,6 +2,7 @@
 title: "Turn your WordPress Website into a Progressive Web App (PWA)"
 date: "2018-07-03"
 coverImage: "36569497_10156029434123935_5932628146892308480_n.png"
+type: "post"
 ---
 
 # What is a Progressive Web App?

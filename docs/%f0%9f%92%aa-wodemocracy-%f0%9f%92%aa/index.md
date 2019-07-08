@@ -2,6 +2,7 @@
 title: "? Wodemocracy ?"
 date: "2018-06-09"
 coverImage: "zoltan-tasi-319208-unsplash.jpg"
+type: "post"
 ---
 
 I have created a website that I hope can bring a bit more fun and community for all CrossFitters. You can submit a workout of your choice and others can vote on that workout. If yours is the most voted, then it will become the workout of the day, the very next day. If you haven't got a workout, then that's okay, you can vote on other's and encourage them to create more workouts.

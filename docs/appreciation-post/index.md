@@ -2,6 +2,7 @@
 title: "Appreciation Post"
 date: "2019-02-04"
 coverImage: "caleb-white-1343009-unsplash.jpg"
+type: "post"
 ---
 
 As it's a Monday, and Monday's can usually bring us down. I thought I would use this post as a way of appreciation. I want to thank all of my blog, email, Twitter followers, friends and family. Without you reading my blog and the support you give, I probably wouldn't have created so many posts in such a short time-span.

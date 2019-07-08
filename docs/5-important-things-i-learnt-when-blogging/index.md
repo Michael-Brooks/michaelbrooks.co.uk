@@ -1,6 +1,7 @@
 ---
 title: "5 important things I learnt when Blogging"
 date: "2018-11-15"
+type: "post"
 ---
 
 ## 1\. Don't just rely on your blog's RSS feed

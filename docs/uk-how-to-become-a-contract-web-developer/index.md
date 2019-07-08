@@ -2,6 +2,7 @@
 title: "(UK) How to become a contract web developer"
 date: "2019-05-29"
 coverImage: "MBD_medium.png"
+type: "post"
 ---
 
 So, you want to get into contract development, but you don't know where to start? Let me explain how to get started, and what you need in order to begin contracting. Strap in, because this is going to be a long one.

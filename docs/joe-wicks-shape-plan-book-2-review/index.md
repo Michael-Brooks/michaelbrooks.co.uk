@@ -1,6 +1,7 @@
 ---
 title: "Joe Wicks - The Shape Plan (Book 2) Review"
 date: "2016-10-27"
+type: "post"
 ---
 
 \# Joe Wicks the shape plan (Book 2) - Review #

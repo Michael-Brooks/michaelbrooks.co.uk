@@ -2,6 +2,7 @@
 title: "Smol Laundry tablet review"
 date: "2019-01-26"
 coverImage: "smol.png.jpg"
+type: "post"
 ---
 
 My wife and I have been enjoying [Smol](http://smol.refr.cc/brooks) tablets for 4 months. They're a laundry and dishwasher tablet service which you can subscribe to, and they're fairly inexpensive. You can get your first month for free (you just need to pay £1 for delivery), and if you're unhappy, you can cancel straight away.

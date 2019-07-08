@@ -2,6 +2,7 @@
 title: "I have donated £175 to Macmillan Cancer Research"
 date: "2018-11-01"
 coverImage: "donation.png"
+type: "post"
 ---
 
 A few weeks ago, I took part in a Crossfit event called Battle Cancer. This event was in aid of Macmillan Cancer Research, and it was a spectacular event.

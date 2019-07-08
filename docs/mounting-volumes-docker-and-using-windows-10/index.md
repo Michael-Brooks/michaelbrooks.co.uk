@@ -1,6 +1,7 @@
 ---
 title: "Mounting Volumes in Docker and Using Windows 10"
 date: "2015-11-20"
+type: "post"
 ---
 
 This is a quick post to details some issues I have found when trying to use Docker within a Mac or Windows environment.

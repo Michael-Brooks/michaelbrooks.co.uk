@@ -1,6 +1,7 @@
 ---
 title: "Unique slug for news articles using Laravel's unique valitation"
 date: "2015-01-27"
+type: "post"
 ---
 
 Just recently at work, I had to change the way my news articles worked. We have a client who has Holiday Homes, and they have news articles per park. When I redeveloped the website in Laravel, I created a one to many relationship based on one park has many news articles.

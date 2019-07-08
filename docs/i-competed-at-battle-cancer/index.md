@@ -1,6 +1,7 @@
 ---
 title: "I Competed at Battle Cancer"
 date: "2018-10-24"
+type: "post"
 ---
 
 ![](/blog/wp-content/uploads/2018/10/FB_IMG_1540153300600.jpg)

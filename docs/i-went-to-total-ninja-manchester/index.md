@@ -2,6 +2,7 @@
 title: "I went to Total Ninja (Manchester)"
 date: "2018-11-05"
 coverImage: "FB_IMG_1541251697077.jpg"
+type: "post"
 ---
 
 - ![](/blog/wp-content/uploads/2018/11/FB_IMG_1541251697077.jpg)

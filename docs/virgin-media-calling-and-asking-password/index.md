@@ -1,6 +1,7 @@
 ---
 title: "Virgin Media Calling and Asking for Password"
 date: "2014-08-08"
+type: "post"
 ---
 
 ## Receiving a phone call from Virgin Media

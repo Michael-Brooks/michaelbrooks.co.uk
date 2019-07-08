@@ -1,6 +1,7 @@
 ---
 title: "Motivational Posters"
 date: "2018-03-01"
+type: "post"
 ---
 
 ## Purchase some motivational posters

@@ -2,6 +2,7 @@
 title: "This man found out he has cancer, give him some love."
 date: "2019-01-18"
 coverImage: "faye-cornish-512491-unsplash.jpg"
+type: "post"
 ---
 
 Today I went onto YouTube and found a video from someone I'm subscribed to. I haven't watched his videos in a while, but this one caught my eye as it was titled "Well this sucks". Curiosity got the better of me, and I had to take a look. He talks about recently opening up with mental health and struggles to find tell us his news. He gets to a point where he tells us, and it's testicular cancer. Fuck.

@@ -1,6 +1,7 @@
 ---
 title: "New Blog Design"
 date: "2014-11-06"
+type: "post"
 ---
 
 It's been a while since I've post and for that, I do appologise. My head has been loaded with ideas and new projects that I absolutely would love to get started on, but I tend to try and start 100 all at once and then get too agitated because none of them are working for me or just get pushed away.

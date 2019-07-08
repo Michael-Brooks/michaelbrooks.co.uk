@@ -1,6 +1,7 @@
 ---
 title: "Social Networking site - Starting point"
 date: "2016-07-27"
+type: "post"
 ---
 
 In my last post, I said how I would create a new open sourced social networking website and I would start out on the API.

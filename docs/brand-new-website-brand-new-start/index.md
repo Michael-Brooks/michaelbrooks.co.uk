@@ -1,6 +1,7 @@
 ---
 title: "Brand New Website, Brand New Start"
 date: "2014-03-28"
+type: "post"
 ---
 
 ## Here I go again, on my quest for a new website...

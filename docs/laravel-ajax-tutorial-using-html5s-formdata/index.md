@@ -1,6 +1,7 @@
 ---
 title: "Laravel AJAX Tutorial Using HTML5's FormData"
 date: "2014-08-28"
+type: "post"
 ---
 # Laravel AJAX Tutorial Using HTML5's FormData
 

@@ -2,6 +2,7 @@
 title: "Creating an ebook (planning phase)"
 date: "2019-02-08"
 coverImage: "jonas-jacobsson-545909-unsplash.jpg"
+type: "post"
 ---
 
 I've got this thing in my mind where I want to build something that gives value but also makes me some income. Mainly so I can just get out of debt. Also so I can never figure out what it is I want to do and I always get so overwhelmed and stressed. I put this pressure on myself and think...

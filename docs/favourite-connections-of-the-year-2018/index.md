@@ -2,6 +2,7 @@
 title: "Favourite connections of the year 2018"
 date: "2018-11-16"
 coverImage: "Association_Membership_Networking_Connections.jpg"
+type: "post"
 ---
 
 I feel like I've made so many connections this year and for that alone makes me truly grateful for 2018. 

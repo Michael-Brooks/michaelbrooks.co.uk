@@ -1,6 +1,7 @@
 ---
 title: "The demise of social networks"
 date: "2019-01-04"
+type: "post"
 ---
 
 ## Creating my own social network

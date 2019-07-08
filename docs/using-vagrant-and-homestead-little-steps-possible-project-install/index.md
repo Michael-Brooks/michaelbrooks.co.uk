@@ -1,6 +1,7 @@
 ---
 title: "Using Vagrant and Homestead In as Little Steps as Possible (Per Project Install)"
 date: "2016-01-20"
+type: "post"
 ---
 
 I want to show you guys just how quick and easy it easy to get a Laravel project up and running alongside Vagrant/Homestead.

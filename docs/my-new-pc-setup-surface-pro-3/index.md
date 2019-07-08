@@ -2,6 +2,7 @@
 title: "My new PC setup (Surface Pro 3)"
 date: "2019-01-27"
 coverImage: "IMG_20190127_163858.jpg"
+type: "post"
 ---
 
 My desktop PC is playing funny buggers, so I've had to switch it out. I'm now using my Surface Pro 3 which I've had for a few years and used it on and off. My wife was very reluctant for the switch, because of the Pro 3 having such a small screen. After reassuring her that we can still use our two monitors, I went and purchased the correct cables. Two mini display-ports to HDMI that are purchased on [Amazon by Rankie](https://amzn.to/2UnKRJA).

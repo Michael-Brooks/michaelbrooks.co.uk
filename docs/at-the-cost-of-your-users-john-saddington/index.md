@@ -2,6 +2,7 @@
 title: "At the Cost of Your Users — John Saddington"
 date: "2018-11-15"
 coverImage: "pardon-interruption.png"
+type: "post"
 ---
 
 I just read this blog post by John Saddington, and I have to say, I 100% agree. Medium is a terrible user experience. When you visit the site, you get bombarded with signup/login modals and banners.

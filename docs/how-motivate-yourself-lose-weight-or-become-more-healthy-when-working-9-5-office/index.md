@@ -1,6 +1,7 @@
 ---
 title: "How to motivate yourself to lose weight or become more healthy when working 9-5 in an office"
 date: "2017-01-08"
+type: "post"
 ---
 
 We are now into the new year (Happy New Year everyone) and usually at this time, everyone is looking to either lose weight, or become more healthy or even a combination of the two. As a Web Developer who has been in the field for just shy of 4 years, I think I have found a good way to keep myself motivated to becoming fit and healthy and would like to share it with you in the hopes you too can become more healthy.

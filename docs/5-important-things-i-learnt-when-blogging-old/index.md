@@ -1,6 +1,7 @@
 ---
 title: "5 important things I learnt when Blogging"
 date: "2017-05-18"
+type: "post"
 ---
 
 1\. ## Don't just rely on your blog's RSS feed This is probably the most important lesson I learnt when creating my blog and it could be yours as well. Firstly, I used a tool which generates an RSS feed for me, once I did this, I thought I was done and little did I know just how wrong I was. You see, when you have an RSS feed, you don't have any analytics on who is subscribing and no one can easily subscribe to you, no matter what tool they're using.

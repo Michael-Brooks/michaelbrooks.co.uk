@@ -1,6 +1,7 @@
 ---
 title: "Thoughts on my social networking site and what has changed"
 date: "2014-08-11"
+type: "post"
 ---
 
 ## Carrying on with my social networking website

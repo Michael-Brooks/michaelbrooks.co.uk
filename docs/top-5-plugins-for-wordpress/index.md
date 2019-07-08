@@ -1,6 +1,7 @@
 ---
 title: "Top 5 plugins for WordPress"
 date: "2019-01-25"
+type: "post"
 ---
 
 These are my top 5 plugins which I think most people should have, especially if you're a blogger looking to make connections and/or your site as fast as possible.

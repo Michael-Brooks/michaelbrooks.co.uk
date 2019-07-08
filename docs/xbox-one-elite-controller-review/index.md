@@ -1,6 +1,7 @@
 ---
 title: "Xbox One Elite Controller Review"
 date: "2017-05-21"
+type: "post"
 ---
 
 I recently had this given to me as a Christmas present and I think it's time to give it a review. This controller is a beast and I doubt I have yet to use this controller to it's full potential. It has so many knobs and triggers that you feel a bit lost when using it for the first time.

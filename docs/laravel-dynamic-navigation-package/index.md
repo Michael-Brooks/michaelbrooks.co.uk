@@ -2,6 +2,7 @@
 title: "Laravel Dynamic Navigation Package"
 date: "2014-05-28"
 coverImage: "1-OGCE-B4onkKZyAzf1Ge0Ew.png"
+type: "post"
 ---
 
 I have managed to create a dynamic navigation package for Laravel which can be seen in my previous post. If you go to [Packagist](https://packagist.org/packages/checkeredmichael/navigation) you will be able to find my package under checkeredmichael/navigation.

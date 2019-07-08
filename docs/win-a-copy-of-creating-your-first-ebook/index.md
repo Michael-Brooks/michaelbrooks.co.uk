@@ -1,6 +1,7 @@
 ---
 title: "Win a copy of Creating your first eBook"
 date: "2019-02-19"
+type: "post"
 ---
 
 To celebrate the creation of "Creating your first eBook". I have decided to give a copy to 5 lucky winners. All you have to do is add your email address below and you will be notified after March 31st.

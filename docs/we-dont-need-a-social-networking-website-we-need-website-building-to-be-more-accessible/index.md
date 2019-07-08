@@ -1,6 +1,7 @@
 ---
 title: "We don't need a social networking website. We need building websites to be more accessible."
 date: "2018-04-25"
+type: "post"
 ---
 
 Some may know that I've been wanting to build an open source social networking website for a long time. The trouble with building a social networking site is there is so much to do. Especially if you want to build something that's on par with the likes of Facebook.

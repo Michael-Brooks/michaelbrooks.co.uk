@@ -2,6 +2,7 @@
 title: "My 2 year journey at Lightfoot"
 date: "2019-01-02"
 coverImage: "IMG_20181221_210405_1.jpg"
+type: "post"
 ---
 
 ## A little back story

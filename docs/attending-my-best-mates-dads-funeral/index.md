@@ -1,6 +1,7 @@
 ---
 title: "Attending my best mate's dad's funeral"
 date: "2019-01-23"
+type: "post"
 ---
 
 I've spent most of today at my best mate's dad's funeral. It was a lovely funeral which went over all of Ron's highlights, from farming to fishing and karting, and being a fantastic father. He had many issues like many, but he lived an overall happy and eventful life and spent a lot of time with his wife and kids.

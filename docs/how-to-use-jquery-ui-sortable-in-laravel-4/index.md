@@ -1,6 +1,7 @@
 ---
 title: "Laravel 4: How To Use Jquery UI Sortable"
 date: "2014-09-03"
+type: "post"
 ---
 # Laravel 4: How To Use Jquery UI Sortable
 

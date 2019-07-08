@@ -1,6 +1,7 @@
 ---
 title: "Local OAUTH - Curl: (60) SSL certificate : Unable to get local issuer certificate"
 date: "2015-03-28"
+type: "post"
 ---
 
 I've seen a couple of questions regarding the error "Curl: (60) SSL certificate : Unable to get local issuer certificate" and thought I would post some steps on the best way of setting it up locally.

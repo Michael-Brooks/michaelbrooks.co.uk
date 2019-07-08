@@ -1,6 +1,7 @@
 ---
 title: "Laracon US - Laravel 5.3 overview"
 date: "2016-07-29"
+type: "post"
 ---
 
 The last two days I have been keeping an eye on the Laracon US live stream shown on [StreamACon](https://streamacon.com) and while the first day of the stream didn't go too well, the second days stream has been phenomenal (Review will be coming soon).

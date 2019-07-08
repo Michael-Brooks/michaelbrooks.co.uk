@@ -2,6 +2,7 @@
 title: "My cat Squiggle is not well ?"
 date: "2019-01-10"
 coverImage: "IMG_20190106_214032.jpg"
+type: "post"
 ---
 
 My cat has gone to the vets twice because he has a pain in his back. He is constantly licking surfaces, himself and also scratching, digging, and biting himself. It's definitely a discomfort, but the vets can't find the answer, and it's so frustrating. If you stroke the lower part of his back, he will start to lick and/or bite you to tell you it's hurting. His hair looks dandruffy and is falling out easily, yet it doesn't look like he has mites or fleas.

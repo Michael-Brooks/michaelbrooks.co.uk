@@ -2,6 +2,7 @@
 title: "Blue Monday and National Hug Day"
 date: "2019-01-21"
 coverImage: "50412338_2154778984590024_582290637831798784_o.jpg"
+type: "post"
 ---
 
 Today is apparently blue Monday (I say apparently because of [this post](http://www.gizmodo.co.uk/2019/01/reminder-blue-monday-isnt-real/)). It is also National Hug Day which is a better thing to celebrate. Our workplace decided to celebrate both days anyway, and we came in wearing blue and ready to hug anyone who was willing. ?

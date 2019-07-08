@@ -2,6 +2,7 @@
 title: "Watching Aquaman with my wife"
 date: "2019-01-19"
 coverImage: "cristian-palmer-716726-unsplash.jpg"
+type: "post"
 ---
 
 This blog post is uber late today due to a late night showing of Aquaman. We were going to watch Glass but instead voted on Aquaman due to availability and other priorities. Overall, we were very impressed with the movie. Without going into too much detail and creating potential spoilers for those who have yet to see it.

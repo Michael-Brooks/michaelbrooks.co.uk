@@ -1,6 +1,7 @@
 ---
 title: "Some background to mine and my wife's life"
 date: "2019-02-09"
+type: "post"
 ---
 
 ## You might want to grab yourself a coffee…

@@ -1,6 +1,7 @@
 ---
 title: "Laravel Localhost removing /public/index.php"
 date: "2014-05-29"
+type: "post"
 ---
 
 I have been in the Laravel chats for quite a while now and one question which I see regularly is how to remove the public/index.php directory on Localhost. The easiest way to do this (and the way I always use) is to open up your Command prompt or Terminal and cd into the main directory of your project then run "php artisan serve". That's it. You're done. Don't believe me? Check out \`https://localhost:8000\` and admire your Laravel work.

@@ -2,6 +2,7 @@
 title: "The best vegan meal so far"
 date: "2019-01-24"
 coverImage: "sweet-potato-curry.jpg"
+type: "post"
 ---
 
 I've only been a vegan for 4 days, so don't take this as an official best vegan meal. This meal really filled me up and tasted amazing. It takes around an hour (15min prep and 45min cooking), but the wait is well worth it in my opinion.

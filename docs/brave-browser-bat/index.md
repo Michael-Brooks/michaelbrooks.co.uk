@@ -2,6 +2,7 @@
 title: "Brave Browser and Basic Attention Tokens (BAT)"
 date: "2018-02-15"
 coverImage: "daniel-jensen-363755.jpg"
+type: "post"
 ---
 
 ## Brave Browser, a new era in browsing

@@ -2,6 +2,7 @@
 title: "Crossfit Home Workout"
 date: "2018-04-05"
 coverImage: "victor-freitas-546919-unsplash.jpg"
+type: "post"
 ---
 
 This is a bit of a late post and one I had on my mind after completing my home crossfit workout on Monday.

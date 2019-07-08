@@ -1,6 +1,7 @@
 ---
 title: "Social Network API update"
 date: "2016-08-30"
+type: "post"
 ---
 
 Last time I updated you guys on this, I only had a list of ideas and how it would initially pan out. I have now started the project and published the repo onto GitHub (which can be [found here](https://github.com/Michael-Brooks/social-api)).

@@ -2,6 +2,7 @@
 title: "A brave new world"
 date: "2018-04-16"
 coverImage: "montylov-206776-unsplash.jpg"
+type: "post"
 ---
 
 ## The beginning of a new chapter

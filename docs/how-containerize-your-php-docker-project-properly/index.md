@@ -1,6 +1,7 @@
 ---
 title: "How to containerize your PHP/NGINX docker project properly"
 date: "2016-04-11"
+type: "post"
 ---
 
 This evening, I had myself a little challenge. I would turn my two containers (MariaDB and my own built container) into more containers, but using the power of Docker's official container repos. E.g. I would have 3 containers in total PHP7-FPM, NGINX and my already created MariaDB.

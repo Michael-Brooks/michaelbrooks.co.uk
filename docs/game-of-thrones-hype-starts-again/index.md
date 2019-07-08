@@ -1,6 +1,7 @@
 ---
 title: "Game of Thrones hype starts again"
 date: "2019-01-14"
+type: "post"
 ---
 
 I must admit, it took my wife and I a while to get into Game of Thrones. So many people were hyping it up and saying "YOU HAVE TO WATCH IT!!" that it didn't quite appeal to us. However, once the dust had settled, we finally decided to take a look. Wow, we couldn't believe it took us so long to actually get into it, the whole series has just been amazing.

@@ -1,6 +1,7 @@
 ---
 title: "Thinking of self-hosting your Blog?"
 date: "2019-01-08"
+type: "post"
 ---
 
 I've self-hosted my blog for a long time now and I've just migrated my wife's website from [Weebly](https://www.weebly.com) to self-hosted. For general purpose WordPress websites, I've found the best hosting is through [SiteGround](https://www.siteground.co.uk/index.htm?afcode=69eb60ca183b5e801f806be97490c807). They offer great solutions for exactly what you need. E.g. they have optimised hosting for Wordpress, WooCommerce or general cloud hosting. You can go from hosting one site or upgrade to host multiple sites.

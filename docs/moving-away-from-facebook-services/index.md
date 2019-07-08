@@ -2,6 +2,7 @@
 title: "Moving away from Facebook services"
 date: "2019-01-30"
 coverImage: "facebook-research-vpn-project-atlas.jpg"
+type: "post"
 ---
 
 To start, this isn't a "we must all move away from Facebook, now!". This is me feeling like I want to move away from Facebook and their services. Facebook plans to merge all their messaging services to allow all their users to connect through either Messenger, Instagram or WhatApp. Some of my friends think this is good news as you'll only need one app. However, I'm starting to feel a little uneasy in this situation.

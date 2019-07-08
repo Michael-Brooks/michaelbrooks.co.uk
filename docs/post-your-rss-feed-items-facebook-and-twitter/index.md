@@ -1,6 +1,7 @@
 ---
 title: "Post your RSS feed items to Facebook and Twitter"
 date: "2017-06-19"
+type: "post"
 ---
 
 If you have a Blog in a CMS which isn't Wordpress, Drupal or Joomla, then you will likely not have some automated way to post your new blog posts over to Twitter or Facebook.

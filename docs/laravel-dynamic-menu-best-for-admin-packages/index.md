@@ -1,6 +1,7 @@
 ---
 title: "Laravel Dynamic Menu Tutorial (Best for Admin packages)"
 date: "2014-05-20"
+type: "post"
 ---
 # Laravel Dynamic Menu Tutorial (Best for Admin packages)
 

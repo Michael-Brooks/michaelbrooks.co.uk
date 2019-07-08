@@ -1,6 +1,7 @@
 ---
 title: "Hosting your site With Digital Ocean and Docker"
 date: "2016-03-27"
+type: "post"
 ---
 
 I want to share with you how I am hosting my website with [Digital Ocean](https://m.do.co/c/d5aca73b366f) (hosting company) and [Docker](https://docker.com) (places your app in containers).
