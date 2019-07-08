@@ -4,9 +4,9 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: "images"
+media_folder: "/docs/public/images"
 
-public_folder: "/docs/public"
+public_folder: "images"
 
 collections:
   - name: "Page"
