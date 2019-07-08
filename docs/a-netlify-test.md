@@ -3,6 +3,8 @@ title: A Netlify Test
 date: 2019-07-08T10:56:06.722Z
 type: post
 ---
+![Netlify Logo](/docs/public/netlify-image.jpg)
+
 Last week I signed into my WordPress blog and found I had errors. These errors seemed to have occurred through my Neve theme which may have been caused by an upgrade somewhere along the lines. I tried to trace the errors back through my daily backups, but it seemed no matter what I did, I still had errors.
 
 Because of this, and because it's seemingly not my fault, I decided to move away from WordPress. I'm now using [VuePress](http://vuepress.vuejs.org/) which is based on VueJS and generates markdown files into the correct HTML format. It's not initially meant for blogging, which meant I had to tweak it a little, but I'm liking the change.
