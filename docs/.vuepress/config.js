@@ -50,4 +50,16 @@ module.exports = {
             { text: 'Blog', link: '/blog/' },
         ],
     },
+    plugins: [
+        [
+            'vuepress-plugin-rss',
+            {
+                base_url: '/', // required
+                site_url: 'http://localhost:8080', // required
+                copyright: '2019 Michael Brooks', // optional
+                filter: (frontmatter) => { return [true] },
+                count: 20
+            }
+        ]
+    ]
 };

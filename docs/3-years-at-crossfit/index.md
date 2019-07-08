@@ -2,6 +2,7 @@
 title: "3 years at Crossfit"
 date: "2019-01-05"
 coverImage: "49650751_10156980479792710_1400954697719742464_n.jpg"
+type: "post"
 ---
 
 >   
