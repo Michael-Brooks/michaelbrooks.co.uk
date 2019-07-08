@@ -11,9 +11,9 @@ public_folder: "images"
 collections:
   - name: "Page"
     label: "Page"
-    folder: "docs"
+    folder: "docs/{{slug}}"
     create: true
-    slug: "{{slug}}/index"
+    slug: "index"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
