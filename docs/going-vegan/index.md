@@ -1,7 +1,7 @@
 ---
 title: "Going Vegan"
 date: "2019-01-20"
-coverImage: "deryn-macey-648345-unsplash.jpg"
+coverImage: "deryn-macey-648345-unsplash.webp"
 type: "post"
 ---
 

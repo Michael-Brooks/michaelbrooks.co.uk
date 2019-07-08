@@ -1,7 +1,7 @@
 ---
 title: "Composer Private Repository Problems"
 date: "2014-04-08"
-coverImage: "composer-400x267.png"
+coverImage: "composer-400x267.webp"
 type: "post"
 ---
 

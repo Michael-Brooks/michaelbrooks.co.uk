@@ -1,7 +1,7 @@
 ---
 title: "At the Cost of Your Users — John Saddington"
 date: "2018-11-15"
-coverImage: "pardon-interruption.png"
+coverImage: "pardon-interruption.webp"
 type: "post"
 ---
 

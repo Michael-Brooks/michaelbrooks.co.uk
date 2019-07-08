@@ -1,7 +1,7 @@
 ---
 title: "Play Pick My Postcode (free)"
 date: "2019-02-03"
-coverImage: "dylan-nolte-559758-unsplash.jpg"
+coverImage: "dylan-nolte-559758-unsplash.webp"
 type: "post"
 ---
 

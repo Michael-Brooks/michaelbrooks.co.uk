@@ -1,7 +1,7 @@
 ---
 title: "Pet Sitting these beautiful girly Dalmatians"
 date: "2019-02-10"
-coverImage: "IMG_20190209_112928.jpg"
+coverImage: "IMG_20190209_112928.webp"
 type: "post"
 ---
 

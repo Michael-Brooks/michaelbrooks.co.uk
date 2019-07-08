@@ -1,7 +1,7 @@
 ---
 title: "Saying goodbye to January and Hello to February 2019"
 date: "2019-01-31"
-coverImage: "damian-mccoig-527817-unsplash.jpg"
+coverImage: "damian-mccoig-527817-unsplash.webp"
 type: "post"
 ---
 

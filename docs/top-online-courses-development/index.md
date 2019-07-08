@@ -1,7 +1,7 @@
 ---
 title: "Top Online Courses in Development"
 date: "2017-06-27"
-coverImage: "595643191edad724102986.png"
+coverImage: "595643191edad724102986.webp"
 type: "post"
 ---
 

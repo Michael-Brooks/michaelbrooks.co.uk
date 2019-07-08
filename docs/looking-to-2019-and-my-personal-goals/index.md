@@ -1,7 +1,7 @@
 ---
 title: "Looking to 2019 and my personal goals"
 date: "2018-12-27"
-coverImage: "roven-images-601197-unsplash-min.jpg"
+coverImage: "roven-images-601197-unsplash-min.webp"
 type: "post"
 ---
 

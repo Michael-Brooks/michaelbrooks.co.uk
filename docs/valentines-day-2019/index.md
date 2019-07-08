@@ -1,7 +1,7 @@
 ---
 title: "Valentine's Day - 2019"
 date: "2019-02-14"
-coverImage: "Blog-header-image-1.jpg"
+coverImage: "Blog-header-image-1.webp"
 type: "post"
 ---
 

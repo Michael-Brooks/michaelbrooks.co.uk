@@ -1,7 +1,7 @@
 ---
 title: "Best Hip Stretches to do while at Work"
 date: "2019-01-16"
-coverImage: "rawpixel-284730-unsplash.jpg"
+coverImage: "rawpixel-284730-unsplash.webp"
 type: "post"
 ---
 

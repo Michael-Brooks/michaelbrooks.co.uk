@@ -1,7 +1,7 @@
 ---
 title: "Roller Coaster of a workout"
 date: "2019-02-07"
-coverImage: "jr-korpa-1132682-unsplash.jpg"
+coverImage: "jr-korpa-1132682-unsplash.webp"
 type: "post"
 ---
 

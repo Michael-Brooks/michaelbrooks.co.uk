@@ -1,7 +1,7 @@
 ---
 title: "My fundraiser for Mental Health has started"
 date: "2019-01-06"
-coverImage: "prottoy-hassan-283028-unsplash.jpg"
+coverImage: "prottoy-hassan-283028-unsplash.webp"
 type: "post"
 ---
 

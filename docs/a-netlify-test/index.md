@@ -1,7 +1,7 @@
 ---
 title: "A Netlify Test"
 date: "2019-07-08"
-coverImage: "netlify-image.jpg"
+coverImage: "netlify-image.webp"
 type: "post"
 ---
 # A Netlify Test

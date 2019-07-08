@@ -1,7 +1,7 @@
 ---
 title: "Gaining confidence to start a blog"
 date: "2019-02-11"
-coverImage: "Copy-of-Gaining-confidence-to-start-blogging.jpg"
+coverImage: "Copy-of-Gaining-confidence-to-start-blogging.webp"
 type: "post"
 ---
 

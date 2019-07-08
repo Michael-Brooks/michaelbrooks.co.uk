@@ -1,7 +1,7 @@
 ---
 title: "On 27/04/2018 I entered my first CrossFit Competition"
 date: "2018-05-15"
-coverImage: "FB_IMG_1524544170682.jpg"
+coverImage: "FB_IMG_1524544170682.webp"
 type: "post"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Moving away from Facebook services"
 date: "2019-01-30"
-coverImage: "facebook-research-vpn-project-atlas.jpg"
+coverImage: "facebook-research-vpn-project-atlas.webp"
 type: "post"
 ---
 

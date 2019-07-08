@@ -1,7 +1,7 @@
 ---
 title: "? Wodemocracy ?"
 date: "2018-06-09"
-coverImage: "zoltan-tasi-319208-unsplash.jpg"
+coverImage: "zoltan-tasi-319208-unsplash.webp"
 type: "post"
 ---
 

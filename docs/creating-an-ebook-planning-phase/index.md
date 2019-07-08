@@ -1,7 +1,7 @@
 ---
 title: "Creating an ebook (planning phase)"
 date: "2019-02-08"
-coverImage: "jonas-jacobsson-545909-unsplash.jpg"
+coverImage: "jonas-jacobsson-545909-unsplash.webp"
 type: "post"
 ---
 

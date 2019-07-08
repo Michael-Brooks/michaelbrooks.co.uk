@@ -1,7 +1,7 @@
 ---
 title: "Favourite books of 2018"
 date: "2018-12-26"
-coverImage: "jaredd-craig-744902-unsplash-min.jpg"
+coverImage: "jaredd-craig-744902-unsplash-min.webp"
 type: "post"
 ---
 

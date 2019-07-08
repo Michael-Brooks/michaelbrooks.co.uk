@@ -1,7 +1,7 @@
 ---
 title: "Biggest achievement of the year 2018"
 date: "2018-12-11"
-coverImage: "paula-may-540833-unsplash-min.jpg"
+coverImage: "paula-may-540833-unsplash-min.webp"
 type: "post"
 ---
 

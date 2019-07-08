@@ -1,7 +1,7 @@
 ---
 title: "Smol Laundry tablet review"
 date: "2019-01-26"
-coverImage: "smol.png.jpg"
+coverImage: "smol.png.webp"
 type: "post"
 ---
 

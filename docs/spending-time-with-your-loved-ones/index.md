@@ -1,7 +1,7 @@
 ---
 title: "Spending time with your loved ones"
 date: "2019-02-21"
-coverImage: "Blog-header-image-2.jpg"
+coverImage: "Blog-header-image-2.webp"
 type: "post"
 ---
 

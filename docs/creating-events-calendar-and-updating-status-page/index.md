@@ -1,7 +1,7 @@
 ---
 title: "Creating events calendar and updating status page"
 date: "2019-01-29"
-coverImage: "rawpixel-633847-unsplash.jpg"
+coverImage: "rawpixel-633847-unsplash.webp"
 type: "post"
 ---
 

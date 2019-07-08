@@ -1,7 +1,7 @@
 ---
 title: "75% of target reached for the Macmillan Mighty Hike"
 date: "2019-06-07"
-coverImage: "9624bf7d-7293-4a71-bb19-290aa2fdb0ff.jpg"
+coverImage: "9624bf7d-7293-4a71-bb19-290aa2fdb0ff.webp"
 type: "post"
 ---
 

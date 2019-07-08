@@ -1,7 +1,7 @@
 ---
 title: "Dealing with death"
 date: "2019-01-11"
-coverImage: "mike-labrum-151765-unsplash.jpg"
+coverImage: "mike-labrum-151765-unsplash.webp"
 type: "post"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Plant trees and stay focused"
 date: "2018-05-23"
-coverImage: "icon.png"
+coverImage: "icon.webp"
 type: "post"
 ---
 

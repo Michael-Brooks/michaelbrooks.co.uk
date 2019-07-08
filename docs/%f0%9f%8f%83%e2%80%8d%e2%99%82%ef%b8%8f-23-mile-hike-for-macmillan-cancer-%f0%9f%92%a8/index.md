@@ -1,7 +1,7 @@
 ---
 title: "?‍♂️ 23-mile hike for Macmillan Cancer ?"
 date: "2019-01-03"
-coverImage: "david-marcu-69433-unsplash-min.jpg"
+coverImage: "david-marcu-69433-unsplash-min.webp"
 type: "post"
 ---
 

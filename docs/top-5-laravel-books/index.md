@@ -1,7 +1,7 @@
 ---
 title: "5 of the best Laravel books"
 date: "2017-06-12"
-coverImage: "janko-ferlic-174927.jpg"
+coverImage: "janko-ferlic-174927.webp"
 type: "post"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Blue Monday and National Hug Day"
 date: "2019-01-21"
-coverImage: "50412338_2154778984590024_582290637831798784_o.jpg"
+coverImage: "50412338_2154778984590024_582290637831798784_o.webp"
 type: "post"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Excited for the new Spider-Man movie"
 date: "2019-01-15"
-coverImage: "Spider-Man-Far-From-Home-Trailer-Breakdown.jpg"
+coverImage: "Spider-Man-Far-From-Home-Trailer-Breakdown.webp"
 type: "post"
 ---
 

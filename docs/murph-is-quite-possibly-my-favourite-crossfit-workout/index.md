@@ -1,7 +1,7 @@
 ---
 title: "Murph is quite possibly my favourite CrossFit Workout"
 date: "2018-05-29"
-coverImage: "b2cad5_d5fe5e4e923344a19404dfeffbdf24d2mv2.png"
+coverImage: "b2cad5_d5fe5e4e923344a19404dfeffbdf24d2mv2.webp"
 type: "post"
 ---
 

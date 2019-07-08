@@ -1,7 +1,7 @@
 ---
 title: "I went to Total Ninja (Manchester)"
 date: "2018-11-05"
-coverImage: "FB_IMG_1541251697077.jpg"
+coverImage: "FB_IMG_1541251697077.webp"
 type: "post"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Laravel Dynamic Navigation Package"
 date: "2014-05-28"
-coverImage: "1-OGCE-B4onkKZyAzf1Ge0Ew.png"
+coverImage: "1-OGCE-B4onkKZyAzf1Ge0Ew.webp"
 type: "post"
 ---
 

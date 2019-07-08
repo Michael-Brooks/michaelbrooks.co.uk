@@ -1,7 +1,7 @@
 ---
 title: "(UK) How to become a contract web developer"
 date: "2019-05-29"
-coverImage: "MBD_medium.png"
+coverImage: "MBD_medium.webp"
 type: "post"
 ---
 

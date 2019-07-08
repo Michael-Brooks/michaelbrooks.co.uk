@@ -1,7 +1,7 @@
 ---
 title: "A full week of work starts ?"
 date: "2019-01-07"
-coverImage: "alexandra-gorn-471463-unsplash.jpg"
+coverImage: "alexandra-gorn-471463-unsplash.webp"
 type: "post"
 ---
 

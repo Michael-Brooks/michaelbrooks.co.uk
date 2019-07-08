@@ -1,7 +1,7 @@
 ---
 title: "Roarfit (Newton Abbot Crossfit) Review"
 date: "2019-02-05"
-coverImage: "IMG_20180821_070032.jpg"
+coverImage: "IMG_20180821_070032.webp"
 type: "post"
 ---
 

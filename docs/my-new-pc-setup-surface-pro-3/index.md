@@ -1,7 +1,7 @@
 ---
 title: "My new PC setup (Surface Pro 3)"
 date: "2019-01-27"
-coverImage: "IMG_20190127_163858.jpg"
+coverImage: "IMG_20190127_163858.webp"
 type: "post"
 ---
 

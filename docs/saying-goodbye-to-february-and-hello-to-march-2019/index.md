@@ -1,7 +1,7 @@
 ---
 title: "Saying goodbye to February and Hello to March 2019"
 date: "2019-02-28"
-coverImage: "Blog-header-image-1-1.jpg"
+coverImage: "Blog-header-image-1-1.webp"
 type: "post"
 ---
 

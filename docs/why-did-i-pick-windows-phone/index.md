@@ -1,7 +1,7 @@
 ---
 title: "Why did I pick a Windows Phone?"
 date: "2014-06-10"
-coverImage: "wp81-review-hero-2014-1024x576.jpg"
+coverImage: "wp81-review-hero-2014-1024x576.webp"
 type: "post"
 ---
 
