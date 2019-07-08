@@ -55,9 +55,9 @@ module.exports = {
             'vuepress-plugin-rss',
             {
                 base_url: '/', // required
-                site_url: 'http://localhost:8080', // required
+                site_url: 'https://michaelbrooks.co.uk', // required
                 copyright: '2019 Michael Brooks', // optional
-                filter: (frontmatter) => { return [true] },
+                filter: (frontmatter) => { return [true|false] },
                 count: 20
             }
         ]
