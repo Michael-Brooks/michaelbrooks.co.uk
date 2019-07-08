@@ -1,9 +1,10 @@
 ---
 title: A Netlify Test
 date: 2019-07-08T10:56:06.722Z
+coverImage: "netlify-image.jpg"
 type: post
 ---
-![Netlify Logo](/images/netlify-image.jpg)
+# A Netlify Test
 
 Last week I signed into my WordPress blog and found I had errors. These errors seemed to have occurred through my Neve theme which may have been caused by an upgrade somewhere along the lines. I tried to trace the errors back through my daily backups, but it seemed no matter what I did, I still had errors.
 
