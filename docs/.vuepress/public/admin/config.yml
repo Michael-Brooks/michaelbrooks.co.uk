@@ -11,7 +11,7 @@ public_folder: "images"
 collections:
   - name: "Page"
     label: "Page"
-    folder: "docs/{{slug}}"
+    folder: "docs/{{field.slug}}"
     create: true
     slug: "index"
     fields:
