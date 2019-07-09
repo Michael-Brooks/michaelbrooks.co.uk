@@ -54,11 +54,15 @@ module.exports = {
         [
             'vuepress-plugin-rss',
             {
-                base_url: '/', // required
-                site_url: 'https://michaelbrooks.co.uk', // required
-                copyright: '2019 Michael Brooks', // optional
+                base_url: '/',
+                site_url: 'https://michaelbrooks.co.uk',
+                copyright: '2019 Michael Brooks',
                 filter: (frontmatter) => { return [true|false] },
                 count: 20
+            },
+            '@vuepress/google-analytics',
+            {
+                'ga': 'UA-49521345-1'
             }
         ]
     ]
