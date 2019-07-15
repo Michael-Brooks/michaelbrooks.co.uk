@@ -19,7 +19,7 @@
   "homepage": "https://michaelbrooks.co.uk",
   "dependencies": {
     "moment": "^2.24.0",
-    "netlify-cms": "^2.9.5",
+    "netlify-cms": "^2.9.6",
     "vuepress": "^1.0.2",
     "yaml-front-matter": "^4.0.0"
   },
