@@ -16,7 +16,4 @@ Of course, my original challenge is still ongoing. All of this is an ongoing jou
 
 P.s. thank you to this motivational tweet!
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dude, last year you did not make the time... Next year is too late... You have an awesome idea, start now, act now and achieve your dream now... I promise it will be the best thing ever. Best of luck!</p>— Sean_RGCI (@Sean_RGCI) <a href="https://twitter.com/Sean_RGCI/status/1085997638678392832?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Comment away!
+>Dude, last year you did not make the time... Next year is too late... You have an awesome idea, start now, act now and achieve your dream now... I promise it will be the best thing ever. Best of luck!</p>— Sean_RGCI (@Sean_RGCI) <a href="https://twitter.com/Sean_RGCI/status/1085997638678392832?ref_src=twsrc%5Etfw">January 17, 2019</a>

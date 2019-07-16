@@ -16,7 +16,7 @@ What really breaks my heart is the fact him and his wife wanted kids, and now th
 I've asked my Twitter followers to show him some love and support and I hope they are doing. I would like to ask my readers to do the same. Please head on over to [his channel](https://www.youtube.com/channel/UCspJ-h5Mw9_zeEhJDzMpkkA) and show him some love.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Someone I'm subbed to on YouTube has discovered he has testicular cancer, he is going in for surgery and won't be able to have kids. He's a great guy and deserves love and support, please check his video and send him as much love and support as you can. ♥ <a href="https://t.co/lUW8ny8ZG7">https://t.co/lUW8ny8ZG7</a></p>— Michael Brooks ? (@Mike_D_Brooks) <a href="https://twitter.com/Mike_D_Brooks/status/1086358999514128384?ref_src=twsrc%5Etfw">January 18, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## Check yourself before you wreck yourself...
 
