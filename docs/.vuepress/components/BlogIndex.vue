@@ -11,6 +11,7 @@
             <p>{{ post.frontmatter.excerpt }}</p>
             <p><router-link :to="post.path">Read More >>></router-link></p>
         </div>
+        <a rel="alternate" type="application/rss+xml" href="/rss.xml">RSS</a>
     </div>
 </template>
 <script>
