@@ -46,28 +46,38 @@ module.exports = {
     dest: 'pages',
     themeConfig: {
         nav: [
-            { text: 'Home', link: '/' },
-            { text: 'My CV', link: 'https://www.visualcv.com/michael-brooks/'},
-            { text: 'Blog', link: '/blog/' },
-            { text: 'Let\'s Talk', items: [
-                    { text: 'GitHub', link: 'https://github.com/michael-brooks'},
-                    { text: 'Twitter', link: 'https://twtiter.com/mike_d_brooks'},
-                    { text: 'Facebook', link: 'https://www.facebook.com/MBrooksDeveloper/'},
-                    { text: 'Email', link: 'mailto:me@michaelbrooks.co.uk'}
-                ] }
+            {text: 'Home', link: '/'},
+            {text: 'My CV', link: 'https://www.visualcv.com/michael-brooks/'},
+            {text: 'Blog', link: '/blog/'},
+            {
+                text: 'Let\'s Talk', items: [
+                    {text: 'GitHub', link: 'https://github.com/michael-brooks'},
+                    {text: 'Twitter', link: 'https://twtiter.com/mike_d_brooks'},
+                    {text: 'Facebook', link: 'https://www.facebook.com/MBrooksDeveloper/'},
+                    {text: 'Email', link: 'mailto:me@michaelbrooks.co.uk'}
+                ]
+            }
         ],
     },
-    plugins: [
-        [
-            'vuepress-plugin-rss',
-            {
-                base_url: '/',
-                site_url: 'https://michaelbrooks.co.uk',
-                copyright: '2019 Michael Brooks',
-                filter: (frontmatter) => { return [true|false] },
-                count: 20
+    plugins: {
+        'vuepress-plugin-rss': {
+            base_url: '/',
+            site_url: 'https://michaelbrooks.co.uk',
+            copyright: '2019 Michael Brooks',
+            filter: (frontmatter) => {
+                return [true | false]
             },
-            '@vuepress/pwa'
-        ]
-    ]
+            count: 20
+        },
+        '@vuepress/google-analytics': {
+            'ga': 'UA-49521345-1'
+        },
+        '@vuepress/pwa': {
+            serviceWorker: true,
+            updatePopup: {
+                message: "New content is available.",
+                buttonText: "Refresh"
+            }
+        }
+    },
 };
