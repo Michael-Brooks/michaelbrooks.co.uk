@@ -67,10 +67,7 @@ module.exports = {
                 filter: (frontmatter) => { return [true|false] },
                 count: 20
             },
-            '@vuepress/google-analytics',
-            {
-                'ga': 'UA-49521345-1'
-            }
+            '@vuepress/pwa'
         ]
     ]
 };
