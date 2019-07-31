@@ -3,7 +3,7 @@
         <div v-for="post in posts">
             <router-link :to="post.path">
                 <div v-if="typeof post.frontmatter.coverImage !== 'undefined'" >
-                    <img :src="coverImage(post.regularPath, post.frontmatter.coverImage)" alt="" />
+                    <img :src="post.frontmatter.coverImage" alt="" />
                 </div>
             </router-link>
             <h3><router-link :to="post.path">{{ post.frontmatter.title }}</router-link></h3>
@@ -24,9 +24,6 @@
         methods: {
             formateDate(date, format = 'MMM D, YY') {
                 return moment(date).format(format)
-            },
-            coverImage(path, image) {
-                return '/images/' + image;
             }
         },
         computed: {
