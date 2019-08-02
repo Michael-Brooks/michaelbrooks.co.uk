@@ -1,17 +1,21 @@
 ---
-title: "(UK) How to become a contract web developer"
-date: "2019-05-29"
-coverImage: "MBD_medium.webp"
-type: "post"
+title: (UK) How to become a contract web developer
+date: '2019-05-29'
+type: post
+excerpt: >-
+  So, you want to get into contract development, but you don't know where to
+  start? Let me explain how to get started, and what you need in order to begin
+  contracting. Strap in, because this is going to be a long one.
+coverImage: MBD_medium.webp
 ---
 
 So, you want to get into contract development, but you don't know where to start? Let me explain how to get started, and what you need in order to begin contracting. Strap in, because this is going to be a long one.
 
 ## Setting up your business
 
-- ![](/blog/wp-content/uploads/2019/05/MBD_medium-1.png)
+- ![](/images/MBD_medium-1.webp)
     
-- ![](/blog/wp-content/uploads/2019/05/robot_medium.png)
+- ![](/images/robot_medium.webp)
     
 
 First off, you will need to either set up your own limited company or find a service which offers an umbrella company. There are multiple ways to set up a limited company. You can create the company yourself, or use a service to do it for you. I was personally recommended a company myself called "[The Company Warehouse](https://www.thecompanywarehouse.co.uk)". They also offer accountancy packages which may suit your needs.
@@ -40,9 +44,15 @@ Another great step would be to set up your own website to advertise your work an
 
 Hang out at conferences by using [MeetUp.com](https://www.meetup.com/) to your advantage while learning new skills. I recommend you go when there are interesting topics, otherwise, you might not have any luck. You may also want to create some business cards which you can hand out to people you meet.
 
+## Finding a suitable accountant
+
+Finding a suitable accountant is something else you will need to consider, especially if you're not sure how to handle the money side of things. I personally used a local accountant which was recommended to me by a friend and you may want to do the same. However, a company I keep seeing and has been recommended by a lot of people is [Crunch](https://www.crunch.co.uk). These guys seem great and I would definitely recommend you check them out.
+
+They also made a great article on [starting up your own LTD company](https://www.crunch.co.uk/knowledge/company-structure/setting-up-a-limited-company/) which you should definitely read.
+
 ## Optional: Work Equipment
 
-![](/blog/wp-content/uploads/2019/05/IMG_20190528_074537-1024x768.jpg)
+![](/images/IMG_20190528_074537-1024x768.webp)
 
 This one depends on your circumstances. If you have got a working laptop and all the gear for working elsewhere, then you can skip this. Otherwise, you will need to find a laptop. You may also need some dongles, a mouse and keyboard, earphones or headphones, or monitor cables.
 
@@ -54,4 +64,4 @@ It came with Windows 10 pre-installed, but I chose to install the latest Ubuntu 
 
 As far as starting out with contracting, that's pretty much it. You may also need to learn to invoice your clients although my agency does that for me. However, I still have to fill in timesheets every week in order for them to keep track and I create invoices that never go to them.
 
-[Read my story on how I got start with contracting...](/blog/this-month-has-been-weird-for-me/)
+[Read my story on how I got start with contracting...](/this-month-has-been-weird-for-me.html)
