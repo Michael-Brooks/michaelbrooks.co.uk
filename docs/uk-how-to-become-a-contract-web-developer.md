@@ -52,7 +52,7 @@ They also made a great article on [starting up your own LTD company](https://www
 
 ## Optional: Work Equipment
 
-![](/images/IMG_20190528_074537-1024x768.webp)
+![](/images/IMG_20190528_074537.webp)
 
 This one depends on your circumstances. If you have got a working laptop and all the gear for working elsewhere, then you can skip this. Otherwise, you will need to find a laptop. You may also need some dongles, a mouse and keyboard, earphones or headphones, or monitor cables.
 
