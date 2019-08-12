@@ -1,7 +1,7 @@
 ---
 title: "Laravel Development with Vessel (Docker)"
 date: "2018-06-19"
-coverImage: "subsea_vessels.webp"
+coverImage: "/images/subsea_vessels.webp"
 type: "post"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "My first ebook will be about creating your first ebook"
 date: "2019-02-13"
-coverImage: "michaelbrooks.co_.uk_.webp"
+coverImage: "/images/michaelbrooks.co_.uk_.webp"
 type: "post"
 ---
 

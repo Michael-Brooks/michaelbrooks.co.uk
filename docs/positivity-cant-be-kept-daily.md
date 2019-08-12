@@ -1,7 +1,7 @@
 ---
 title: "Positivity can't be kept daily"
 date: "2019-02-01"
-coverImage: "alex-block-678438-unsplash.webp"
+coverImage: "/images/alex-block-678438-unsplash.webp"
 type: "post"
 ---
 

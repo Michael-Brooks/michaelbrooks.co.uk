@@ -1,7 +1,7 @@
 ---
 title: "Watching Aquaman with my wife"
 date: "2019-01-19"
-coverImage: "cristian-palmer-716726-unsplash.webp"
+coverImage: "/images/cristian-palmer-716726-unsplash.webp"
 type: "post"
 ---
 

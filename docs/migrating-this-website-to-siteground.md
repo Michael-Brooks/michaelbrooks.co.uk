@@ -1,7 +1,7 @@
 ---
 title: "Migrating this website to SiteGround"
 date: "2019-01-09"
-coverImage: "kelly-sikkema-450719-unsplash.webp"
+coverImage: "/images/kelly-sikkema-450719-unsplash.webp"
 type: "post"
 ---
 

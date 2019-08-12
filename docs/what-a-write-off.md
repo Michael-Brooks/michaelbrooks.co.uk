@@ -1,7 +1,7 @@
 ---
 title: "What a write off"
 date: "2019-02-16"
-coverImage: "IMG_20190216_124930.webp"
+coverImage: "/images/IMG_20190216_124930.webp"
 type: "post"
 ---
 

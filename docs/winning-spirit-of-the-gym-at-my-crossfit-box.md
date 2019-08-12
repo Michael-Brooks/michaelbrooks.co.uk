@@ -1,7 +1,7 @@
 ---
 title: "Winning Spirit of the gym at my CrossFit box"
 date: "2019-02-02"
-coverImage: "IMG_-u0d8fv.webp"
+coverImage: "/images/IMG_-u0d8fv.webp"
 type: "post"
 ---
 

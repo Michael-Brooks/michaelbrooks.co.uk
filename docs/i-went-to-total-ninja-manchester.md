@@ -1,25 +1,25 @@
 ---
 title: "I went to Total Ninja (Manchester)"
 date: "2018-11-05"
-coverImage: "FB_IMG_1541251697077.webp"
+coverImage: "/images/FB_IMG_1541251697077.webp"
 type: "post"
 ---
 
-- ![](/blog/wp-content/uploads/2018/11/FB_IMG_1541251697077.jpg)
+- ![](/images/FB_IMG_1541251697077.webp)
     
-- ![](/blog/wp-content/uploads/2018/11/FB_IMG_1541251703045.jpg)
+- ![](/images/FB_IMG_1541251703045.webp)
     
-- ![](/blog/wp-content/uploads/2018/11/IMG_20181103_104028.jpg)
+- ![](/images/IMG_20181103_104028.webp)
     
-- ![](/blog/wp-content/uploads/2018/11/IMG_20181103_104042.jpg)
+- ![](/images/IMG_20181103_104042.webp)
     
-- ![](/blog/wp-content/uploads/2018/11/IMG_20181103_104129.jpg)
+- ![](/images/IMG_20181103_104129.webp)
     
-- ![](/blog/wp-content/uploads/2018/11/IMG_20181103_104200.jpg)
+- ![](/images/IMG_20181103_104200.webp)
     
-- ![](/blog/wp-content/uploads/2018/11/MVIMG_20181103_103826.jpg)
+- ![](/images/MVIMG_20181103_103826.webp)
     
-- ![](/blog/wp-content/uploads/2018/11/MVIMG_20181103_104058.jpg)
+- ![](/images/MVIMG_20181103_104058.webp)
     
 
 My nephew, wife and I went up to Oldham last weekend to visit my mum. While we were up there, my wife decided to book an hour of Total Ninja in Manchester which was [booked online](http://www.totalninja.co.uk/).
@@ -32,11 +32,7 @@ Overall, the experience was fantastic and I would love to go again. If you're in
 
 Follow my IG for more photos/videos.
 
-> [
-> 
-> View this post on Instagram
-> 
-> ](https://www.instagram.com/p/BpvGI-mDxXc/?utm_source=ig_embed&utm_medium=loading)
+> [View this post on Instagram](https://www.instagram.com/p/BpvGI-mDxXc/?utm_source=ig_embed&utm_medium=loading)
 > 
 > [Really enjoyed trying out ninja warrior and I think my CrossFit training really helped me out. ? First time I failed, but I came back again and completed it. ?](https://www.instagram.com/p/BpvGI-mDxXc/?utm_source=ig_embed&utm_medium=loading)
 > 

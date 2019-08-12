@@ -1,7 +1,7 @@
 ---
 title: "A brave new world"
 date: "2018-04-16"
-coverImage: "montylov-206776-unsplash.webp"
+coverImage: "/images/montylov-206776-unsplash.webp"
 type: "post"
 ---
 

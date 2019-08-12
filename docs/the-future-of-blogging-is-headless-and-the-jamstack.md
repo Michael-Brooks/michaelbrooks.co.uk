@@ -2,7 +2,7 @@
 title: The future of blogging is Headless and the JAMStack
 date: 2019-07-29T13:19:29.370Z
 type: post
-excerpt: Find out why I think Headless and the JAMStack is the future of blogs
+description: Find out why I think Headless and the JAMStack is the future of blogs
 coverImage: /images/daniel-jensen-363755.webp
 ---
 I haven't made a blog post in a while, but as some of you may know, I migrated my website from WordPress to VuePress and moved hosting from SiteGround to Netlify. I am super happy with the results and everything just works and won't break randomly. My site can't get hacked because everything is completely static and I also get an added benifit of speed.

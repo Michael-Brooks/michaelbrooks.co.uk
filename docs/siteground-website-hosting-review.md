@@ -1,7 +1,7 @@
 ---
 title: "SiteGround website hosting review"
 date: "2019-02-20"
-coverImage: "hosting-review.webp"
+coverImage: "/images/hosting-review.webp"
 type: "post"
 ---
 

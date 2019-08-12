@@ -1,7 +1,7 @@
 ---
 title: "Docker: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"
 date: "2019-07-05"
-excerpt: How to overcome this annoying error.
+description: How to overcome this annoying error.
 type: "post"
 ---
 

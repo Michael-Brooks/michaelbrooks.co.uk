@@ -2,9 +2,7 @@
 title: Most helpful GIT command...
 date: '2017-05-23'
 type: post
-excerpt: >-
-  This little command is a lifesaver and will save you so much time when
-  switching and merging previous branches in your GIT workflow.
+description: This little command is a lifesaver and will save you so much time when switching and merging previous branches in your GIT workflow.
 coverImage: /images/5926e71d25254371682964.webp
 ---
 This little command is a lifesaver and will save you so much time when switching and merging previous branches in your GIT workflow.

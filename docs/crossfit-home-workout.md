@@ -1,7 +1,7 @@
 ---
 title: "Crossfit Home Workout"
 date: "2018-04-05"
-coverImage: "victor-freitas-546919-unsplash.webp"
+coverImage: "/images/victor-freitas-546919-unsplash.webp"
 type: "post"
 ---
 

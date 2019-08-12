@@ -1,7 +1,7 @@
 ---
 title: "I managed 14 unbroken Double-Unders"
 date: "2018-08-29"
-coverImage: "charlotte-karlsen-585717-unsplash.webp"
+coverImage: "/images/charlotte-karlsen-585717-unsplash.webp"
 type: "post"
 ---
 

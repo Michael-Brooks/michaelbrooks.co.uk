@@ -1,7 +1,7 @@
 ---
 title: "A year of Fitbit statistics..."
 date: "2019-01-22"
-coverImage: "DxfiTFrWkAAJLSm.webp"
+coverImage: "/images/DxfiTFrWkAAJLSm.webp"
 type: "post"
 ---
 

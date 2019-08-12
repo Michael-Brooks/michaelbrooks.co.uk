@@ -1,7 +1,7 @@
 ---
 title: "In Spite of Fear"
 date: "2019-02-15"
-coverImage: "inspiteofeverything-1.webp"
+coverImage: "/images/inspiteofeverything-1.webp"
 type: "post"
 ---
 

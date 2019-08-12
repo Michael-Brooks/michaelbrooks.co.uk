@@ -1,7 +1,7 @@
 ---
 title: "This man found out he has cancer, give him some love."
 date: "2019-01-18"
-coverImage: "faye-cornish-512491-unsplash.webp"
+coverImage: "/images/faye-cornish-512491-unsplash.webp"
 type: "post"
 ---
 

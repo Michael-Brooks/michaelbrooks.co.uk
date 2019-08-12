@@ -1,7 +1,7 @@
 ---
 title: "Creating kick ass graphics"
 date: "2019-02-18"
-coverImage: "kick-ass.webp"
+coverImage: "/images/kick-ass.webp"
 type: "post"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The best vegan meal so far"
 date: "2019-01-24"
-coverImage: "sweet-potato-curry.webp"
+coverImage: "/images/sweet-potato-curry.webp"
 type: "post"
 ---
 

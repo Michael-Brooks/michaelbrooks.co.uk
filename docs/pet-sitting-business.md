@@ -1,7 +1,7 @@
 ---
 title: "Pet Sitting Business for my wife"
 date: "2018-02-11"
-coverImage: "25791204_2056620984570852_7600985875555926743_o.webp"
+coverImage: "/images/25791204_2056620984570852_7600985875555926743_o.webp"
 type: "post"
 ---
 

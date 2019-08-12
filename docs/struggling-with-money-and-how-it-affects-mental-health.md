@@ -1,7 +1,7 @@
 ---
 title: "Struggling with money and how it affects Mental Health"
 date: "2019-01-12"
-coverImage: "marc-szeglat-524009-unsplash.webp"
+coverImage: "/images/marc-szeglat-524009-unsplash.webp"
 type: "post"
 ---
 

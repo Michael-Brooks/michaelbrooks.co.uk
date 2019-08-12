@@ -1,7 +1,7 @@
 ---
 title: "The vegan challenge"
 date: "2019-02-12"
-coverImage: "Blog-header-image.webp"
+coverImage: "/images/Blog-header-image.webp"
 type: "post"
 ---
 

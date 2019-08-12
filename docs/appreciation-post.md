@@ -1,7 +1,7 @@
 ---
 title: "Appreciation Post"
 date: "2019-02-04"
-coverImage: "caleb-white-1343009-unsplash.webp"
+coverImage: "/images/caleb-white-1343009-unsplash.webp"
 type: "post"
 ---
 

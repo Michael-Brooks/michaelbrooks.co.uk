@@ -1,7 +1,7 @@
 ---
 title: "Crossfit Open 2019"
 date: "2019-02-17"
-coverImage: "crossfit-open-2019.webp"
+coverImage: "/images/crossfit-open-2019.webp"
 type: "post"
 ---
 

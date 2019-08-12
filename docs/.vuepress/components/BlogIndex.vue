@@ -8,7 +8,7 @@
             </router-link>
             <h3><router-link :to="post.path">{{ post.frontmatter.title }}</router-link></h3>
             <p>Posted On: {{ formateDate(post.frontmatter.date) }}</p>
-            <p>{{ post.frontmatter.excerpt }}</p>
+            <p>{{ post.frontmatter.description }}</p>
             <p><router-link :to="post.path">Read More >>></router-link></p>
         </div>
         <a rel="alternate" type="application/rss+xml" href="/rss.xml">RSS</a>

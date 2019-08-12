@@ -1,7 +1,7 @@
 ---
 title: "Favourite album of the year 2018"
 date: "2018-11-16"
-coverImage: "Mike-Shinoda-of-Linkin-Park_-Post-Traumatic.webp"
+coverImage: "/images/Mike-Shinoda-of-Linkin-Park_-Post-Traumatic.webp"
 type: "post"
 ---
 

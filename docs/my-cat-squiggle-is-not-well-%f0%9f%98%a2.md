@@ -1,7 +1,7 @@
 ---
 title: "My cat Squiggle is not well ?"
 date: "2019-01-10"
-coverImage: "IMG_20190106_214032.webp"
+coverImage: "/images/IMG_20190106_214032.webp"
 type: "post"
 ---
 

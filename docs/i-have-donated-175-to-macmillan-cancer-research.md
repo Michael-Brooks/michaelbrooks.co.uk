@@ -1,7 +1,7 @@
 ---
 title: "I have donated £175 to Macmillan Cancer Research"
 date: "2018-11-01"
-coverImage: "donation.webp"
+coverImage: "/images/donation.webp"
 type: "post"
 ---
 

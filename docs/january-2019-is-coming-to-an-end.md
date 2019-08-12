@@ -1,7 +1,7 @@
 ---
 title: "January 2019 is coming to an end"
 date: "2019-01-28"
-coverImage: "maddi-bazzocco-1178337-unsplash.webp"
+coverImage: "/images/maddi-bazzocco-1178337-unsplash.webp"
 type: "post"
 ---
 

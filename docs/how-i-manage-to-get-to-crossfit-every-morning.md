@@ -1,7 +1,7 @@
 ---
 title: "How I manage to get to Crossfit every morning"
 date: "2019-01-13"
-coverImage: "nathan-dumlao-608718-unsplash.webp"
+coverImage: "/images/nathan-dumlao-608718-unsplash.webp"
 type: "post"
 ---
 
