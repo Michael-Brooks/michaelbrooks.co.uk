@@ -42,19 +42,18 @@ let blogPosts = generateSidebar(blogPaths, true, 5);
 
 module.exports = {
     title: "Michael Brooks",
-    description: "Freelance Website Developer",
+    description: "Freelance Website Developer in Newton Abbot",
     dest: 'pages',
     themeConfig: {
         nav: [
             {text: 'Home', link: '/'},
+            {text: 'Blog', link: '/blog.html'},
             {text: 'My CV', link: 'https://www.visualcv.com/michael-brooks/'},
-            {text: 'Blog', link: '/blog/'},
             {
                 text: 'Let\'s Talk', items: [
                     {text: 'GitHub', link: 'https://github.com/michael-brooks'},
                     {text: 'Twitter', link: 'https://twtiter.com/mike_d_brooks'},
                     {text: 'Facebook', link: 'https://www.facebook.com/MBrooksDeveloper/'},
-                    {text: 'Email', link: 'mailto:me@michaelbrooks.co.uk'}
                 ]
             }
         ],
