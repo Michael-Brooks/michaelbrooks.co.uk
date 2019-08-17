@@ -14,3 +14,5 @@ You may be wondering how I'm adding content which is another interesting thing. 
 It's well and truly amazing, and if you want to know how I got started using VuePress as my blog, you can check out this lovely [blog post by Howar31](https://blog.howar31.com/vuepress-blog-tutorial).
 
 I hope you enjoyed this blog post and I will try to get back to more of a schedule very soon. I will also be constantly updating this site as there are lots of improvements to be made. Such as lazy loading images, a better RSS feed, and possibly a custom VuePress theme.
+
+<Comments />
