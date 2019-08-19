@@ -15,4 +15,5 @@ It's well and truly amazing, and if you want to know how I got started using Vue
 
 I hope you enjoyed this blog post and I will try to get back to more of a schedule very soon. I will also be constantly updating this site as there are lots of improvements to be made. Such as lazy loading images, a better RSS feed, and possibly a custom VuePress theme.
 
-<Comments />
+<div id="commento"></div>
+<script src="https://cdn.commento.io/js/commento.js"></script>
