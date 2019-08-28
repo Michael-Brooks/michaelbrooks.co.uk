@@ -52,7 +52,7 @@ module.exports = {
             {
                 text: 'Let\'s Talk', items: [
                     {text: 'GitHub', link: 'https://github.com/michael-brooks'},
-                    {text: 'Twitter', link: 'https://twtiter.com/mike_d_brooks'},
+                    {text: 'Twitter', link: 'https://twtiter.com/__MichaelBrooks'},
                     {text: 'Facebook', link: 'https://www.facebook.com/MBrooksDeveloper/'},
                 ]
             }
