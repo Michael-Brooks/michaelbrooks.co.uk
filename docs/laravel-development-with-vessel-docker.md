@@ -1,8 +1,9 @@
 ---
-title: "Laravel Development with Vessel (Docker)"
-date: "2018-06-19"
-coverImage: "/images/subsea_vessels.webp"
-type: "post"
+title: Laravel Development with Vessel (Docker)
+date: '2018-06-19'
+type: post
+description: Learn how to get started with Vessel
+coverImage: /images/subsea_vessels.webp
 ---
 
 # Getting started with Vessel
@@ -23,6 +24,4 @@ Vessel is a bash file and allows you to run any artisan, yarn or npm command of 
 
 It has fantastic documentation and should allow you to get running within 10 minutes. The only downside to Vessel is that it's only for development work and not production. So don't expect Lets Encrypt certificates or deployment strategies with this.
 
-# Want to learn more about going from Development to Deployment? I will be live streaming a learning event [Laravel: from development to deployment](/dev-to-deploy)
-
-### If you enjoyed this article, please follow for more. Alternatively, you can [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg)Buy me a coffee](https://www.buymeacoffee.com/michaelbrooks)
+### If you enjoyed this article, please follow for more. Alternatively, you can [become a patron](https://www.patreon.com/MichaelBrooks)
