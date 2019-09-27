@@ -11,6 +11,8 @@ The information below was taken from my [Just Giving page](/mind), if you would 
 
 We will be performing a Crossfit workout named Becky on the 12th of October. Anyone can participate and all donations will be greatly appreciated. If you do perform the workout, a video of your performance will also be greatly appreciated too, in order to help spread and raise awareness for mental health. You can use the hashtag #FitnessForMentalHealth on all your favourite social networks to help spread awareness.
 
+<!-- more -->
+
 I'm doing this because my wife and I have both suffered from severe mental health. I've had major anxieties due to work, to a point where I would throw up constantly if I took a day off work. My wife has had severe depression because of struggles within her life. We also know so many people who either suffer or have had suffered from mental health in one way or another.
 
 I want to give something back to everyone who suffers through life and doesn't want to wake up in the morning for work or to see friends. This is why I'm fundraising and all donations received will be going to Mind Charity because they do some amazing work for those that suffer from mental health.
