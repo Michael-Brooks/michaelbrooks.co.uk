@@ -7,7 +7,9 @@ type: post
 description: A post on mental health
 coverImage: /images/img_20190912_064703.jpg
 ---
-We will be performing a Crossfit workout named Becky on the 12th of October. Anyone can participate and all donations will be greatly appreciated. If you do perform the workout, a video of your performance will also be greatly appreciated too, in order to help spread and raise awareness for mental health.
+The information below was taken from my [Just Giving page](/mind), if you would like to donate then please head over to [this link](/mind) where your donation will be hugely appreciated. Also, if you would like to buy some ["Fitness for Mental Health" merch](/mental-health), head over [to here](mental-health) where 90% of all profits will be doanted to Mind Charity.
+
+We will be performing a Crossfit workout named Becky on the 12th of October. Anyone can participate and all donations will be greatly appreciated. If you do perform the workout, a video of your performance will also be greatly appreciated too, in order to help spread and raise awareness for mental health. You can use the hashtag #FitnessForMentalHealth on all your favourite social networks to help spread awareness.
 
 I'm doing this because my wife and I have both suffered from severe mental health. I've had major anxieties due to work, to a point where I would throw up constantly if I took a day off work. My wife has had severe depression because of struggles within her life. We also know so many people who either suffer or have had suffered from mental health in one way or another.
 
@@ -29,7 +31,6 @@ For Time
 * 30 Pull-Ups
 
 A little background behind the Crossfit workout called Becky...
-                    
 
 “Becky” Rebecca Sefscik, a coach at Crossfit The Tracks (Erlanger, KY) and US military veteran, created this workout herself in 2012. Becky Sefscik took her own life on August 31, 2015, after a battle with PTSD.
 
