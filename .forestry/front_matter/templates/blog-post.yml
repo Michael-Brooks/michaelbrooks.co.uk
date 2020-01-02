@@ -38,5 +38,3 @@ fields:
   config:
     maxSize: 250
   label: Featured Image
-pages:
-- docs/forestry-test.md
