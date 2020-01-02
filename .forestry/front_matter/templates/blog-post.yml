@@ -38,14 +38,5 @@ fields:
   config:
     maxSize: 250
   label: Featured Image
-- name: body
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Body
 pages:
 - docs/forestry-test.md
