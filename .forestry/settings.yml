@@ -4,10 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
+- type: directory
   path: docs
   label: Posts
-  read_only: false
+  create: documents
+  match: "**/*"
 upload_dir: docs/.vuepress/public/images
 public_path: "/images"
 front_matter_path: ''
