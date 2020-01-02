@@ -38,3 +38,5 @@ fields:
   config:
     maxSize: 250
   label: Featured Image
+pages:
+- docs/2020-new-year-new-decade-new-goals.md
