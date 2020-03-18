@@ -92,6 +92,10 @@ module.exports = {
                 message: "New content is available.",
                 buttonText: "Refresh"
             }
-        }
+        },
+        "vuepress-plugin-matomo": {
+                'siteId': 3,
+                'trackerUrl': "https://analytics.michaelbrooks.dev/"
+            }
     },
 };
