@@ -1,7 +1,7 @@
 <template>
     <div class="content">
         <hr>
-        <h3>15 Comments</h3>
+        <h3>{{ comments.length }} Comments</h3>
         <div>
             <label for="display_name">Name: </label>
             <input required placeholder="Display Name" id="display_name" type="text">
@@ -15,35 +15,27 @@
                 <a href="#" class="button">Save Comment</a>
             </p>
         </div>
-        <div id="comment-section" class="mt-16">
-            <div>
-                <div class="name">
-                    <p><strong>Michael Brooks</strong></p>
-                </div>
-                <div class="comment mb-64">
-                    <p>This is a comment I made</p>
-                </div>
+        <div id="comment-section" class="mt-16" v-for="comment in comments">
+            <div class="name">
+                <p><strong>{{ comment.name }}</strong></p>
             </div>
-            <div>
-                <div class="name">
-                    <p><strong>Michael Brooks</strong></p>
-                </div>
-                <div class="comment mb-64">
-                    <p>This is a comment I made</p>
-                </div>
+            <div class="comment mb-64">
+                <p>{{ comment.comment }}</p>
             </div>
         </div>
     </div>
 </template>
 <script>
     export default {
-        data () {
+        data() {
             return {
-                comments: {},
+                comments: "Loading comments...",
             }
         },
         mounted() {
             fetch('https://comments.michaelbrooks.co.uk/api/comments' + window.location.pathname)
+                .then(response => response.json())
+                .then(response => (this.comments = response))
         }
     }
 </script>
@@ -52,9 +44,11 @@
     .mt-16 {
         margin-top: 16px;
     }
+
     .mb-64 {
         margin-bottom: 64px;
     }
+
     textarea, input[type=text] {
         -webkit-border-radius: 5px;
         -moz-border-radius: 5px;
@@ -62,6 +56,7 @@
         padding: 10px;
         width: 97%;
     }
+
     .content a.button {
         font-size: 0.9em;
         color: #fff;
@@ -72,10 +67,12 @@
         display: inline-block;
         vertical-align: middle;
     }
+
     .content a {
         color: #42b983;
         font-weight: 600;
     }
+
     a.button, input.button {
         padding: 0.75em 2em;
         border-radius: 2em;
@@ -86,10 +83,12 @@
         box-sizing: border-box;
         border: 1px solid #4fc08d;
     }
+
     a {
         text-decoration: none;
         color: #304455;
     }
+
     .content p, .content ul, .content ol {
         line-height: 1.6em;
     }
