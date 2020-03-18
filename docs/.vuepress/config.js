@@ -35,11 +35,6 @@ function generateSidebar(markdownPaths, sort = true, limit = 0) {
     return renderedPosts;
 }
 
-const glob = require('glob');
-const basePath = 'docs';
-let blogPaths = glob.sync(basePath + '/*/*.md');
-let blogPosts = generateSidebar(blogPaths, true, 5);
-
 module.exports = {
     title: "Michael Brooks",
     description: "Freelance Website Developer in Newton Abbot",
@@ -94,8 +89,9 @@ module.exports = {
             }
         },
         "vuepress-plugin-matomo": {
-                'siteId': 3,
-                'trackerUrl': "https://analytics.michaelbrooks.dev/"
-            }
+            'siteId': 3,
+            'trackerUrl': "https://analytics.michaelbrooks.dev/",
+            'requireConsent': true,
+        }
     },
 };
