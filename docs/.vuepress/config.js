@@ -91,7 +91,6 @@ module.exports = {
         "vuepress-plugin-matomo": {
             'siteId': 3,
             'trackerUrl': "https://analytics.michaelbrooks.dev/",
-            'requireConsent': true,
         }
     },
 };
