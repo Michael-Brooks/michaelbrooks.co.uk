@@ -17,6 +17,7 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+    export_format: YYYY-MM-DD
   default: now
 - name: published
   type: text
