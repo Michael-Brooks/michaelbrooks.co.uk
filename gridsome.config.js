@@ -15,6 +15,13 @@ module.exports = {
 
   plugins: [
     {
+      use: 'gridsome-plugin-matomo',
+      options: {
+        host: 'https://analytics.michaelbrooks.dev',
+        siteId: 3
+      }
+    },
+    {
       // Create posts from markdown files
       use: '@gridsome/source-filesystem',
       options: {
