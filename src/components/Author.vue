@@ -17,7 +17,7 @@
 		</p>
 
 		<div style="text-align: center">
-			<iframe src="https://michaelbrooks.substack.com/embed" width="480" height="320"
+			<iframe src="https://michaelbrooks.substack.com/embed" class="newsletter-widget"
 					style="border:1px solid #EEE; background:white; margin-bottom: 30px;" frameborder="0"
 					scrolling="no"></iframe>
 		</div>
