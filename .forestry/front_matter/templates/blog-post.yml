@@ -14,9 +14,10 @@ fields:
   description: ''
   config:
     required: true
-    date_format: 
+    date_format: DD/MM/YYYY
     time_format: 
     display_utc: false
+    export_format: YYYY-MM-DD
   default: now
 - name: published
   type: text
