@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url:
+webhook_url: 
 sections:
 - type: directory
   path: content/posts
@@ -15,7 +15,7 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
-  preview_output_directory: "dist"
+  preview_output_directory: dist
   install_dependencies_command: npm install
   preview_docker_image: node:10
   mount_path: "/srv"

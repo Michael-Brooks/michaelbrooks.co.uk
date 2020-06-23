@@ -18,12 +18,26 @@ fields:
     time_format: 
     display_utc: false
   default: now
-- name: type
+- name: published
   type: text
   config:
     required: false
-  label: Type
-  default: post
+  label: Published
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: cover_image
+  type: file
+  config:
+    maxSize: 64
+  label: Cover Image
+- name: canonical_url
+  type: text
+  config:
+    required: false
+  label: Canonical Url
+  default: 'false'
 - name: description
   type: textarea
   default: ''
@@ -33,8 +47,3 @@ fields:
     schema:
       format: markdown
   label: Description
-- name: coverImage
-  type: file
-  config:
-    maxSize: 64
-  label: Featured Image
