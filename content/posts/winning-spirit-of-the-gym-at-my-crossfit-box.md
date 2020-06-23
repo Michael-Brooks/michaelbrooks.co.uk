@@ -1,0 +1,20 @@
+---
+title: Winning Spirit of the gym at my CrossFit box
+date: 2019-02-02
+published: true
+tags: ['Markdown','Test files']
+cover_image: ./images/IMG_-u0d8fv.webp
+canonical_url: false
+description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+---
+
+>   
+> Newton Abbot Crossfit is like a family to me, it's not just another gym. It's a place that feels like a home from home.
+> 
+> \- Michael Brooks
+
+Coming into my Crossfit box this morning for a workout and thinking nothing of it. That's until my coach, Matt announced that someone had one the "Spirit of the gym" award who didn't turn up for last night's social. He announced my name, and I was actually shocked! Honestly, I couldn't believe that all my Crossfit friends would vote for me. It's truly an honour to win, and it made me incredibly happy to win.
+
+I work very hard, going into Crossfit daily either 5:30 or 6:00 in the morning. I don't expect anything, just greeting my buddies and getting results from the workouts. To gain a little something, a little bit of recognition is amazing, and I want to thank everyone at the box who voted for me. I am honestly grateful and honoured. [Newton Abbot Crossfit/Roarfit](https://www.newtonabbotcrossfit.com/) is like a family to me, it's not just another gym. It's a place that feels like a home from home.
+
+Thank you, I will be wearing my new t-shirt with pride. If only I could wear it everyday of the week.
