@@ -48,26 +48,13 @@ module.exports = {
         feedItemOptions: node => ({
           title: node.title,
           description: node.description,
-          url: 'https://michaelbrooks.co.uk/' + node.slug,
+          url: 'https://michaelbrooks.co.uk/' + node.title,
           author: 'Michael Brooks'
         }),
         output: {
           dir: './static',
           name: 'rss.xml'
         }
-      }
-    },
-    {
-      use: 'gridsome-plugin-flexsearch',
-      options: {
-        searchFields: ['title'],
-        collections: [
-          {
-            typeName: 'Post',
-            indexName: 'Post',
-            fields: ['title', 'handle', 'description']
-          }
-        ]
       }
     }
   ],
