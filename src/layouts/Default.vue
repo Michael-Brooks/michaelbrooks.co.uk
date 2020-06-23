@@ -6,6 +6,24 @@
                 <Logo />
             </div>
 
+            <div class="header__center">
+                <input
+                        id="search"
+                        v-model="searchTerm"
+                        class="input"
+                        type="text"
+                        placeholder="Search">
+                <div class="search-results">
+                    <g-link
+                            v-for="result in searchResults"
+                            :key="result.id"
+                            :to="result.path"
+                            class="navbar-item">
+                        {{ result.title }}
+                    </g-link>
+                </div>
+            </div>
+
             <div class="header__right">
                 <nav>
                     <g-link to="/blog">Blog</g-link>
@@ -30,6 +48,16 @@
     import ToggleTheme from '~/components/ToggleTheme.vue'
 
     export default {
+        data: () => ({
+            searchTerm: ''
+        }),
+        computed: {
+            searchResults () {
+                const searchTerm = this.searchTerm
+                if (searchTerm.length < 3) return []
+                return this.$search.search({ query: searchTerm, limit: 5 })
+            }
+        },
         props: {
             showLogo: {default: true}
         },
