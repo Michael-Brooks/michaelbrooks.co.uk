@@ -35,6 +35,27 @@ module.exports = {
           }
         }
       }
+    },
+    {
+      use: 'gridsome-plugin-rss',
+      options: {
+        contentTypeName: 'Post',
+        feedOptions: {
+          title: 'Michael Brooks Blog',
+          feed_url: 'https://michaelbrooks.co.uk/rss.xml',
+          site_url: 'https://michaelbrooks.co.uk'
+        },
+        feedItemOptions: node => ({
+          title: node.title,
+          description: node.description,
+          url: 'https://michaelbrooks.co.uk/' + node.slug,
+          author: 'Michael Brooks'
+        }),
+        output: {
+          dir: './static',
+          name: 'rss.xml'
+        }
+      }
     }
   ],
 
