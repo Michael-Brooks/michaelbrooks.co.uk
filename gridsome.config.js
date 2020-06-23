@@ -56,6 +56,19 @@ module.exports = {
           name: 'rss.xml'
         }
       }
+    },
+    {
+      use: 'gridsome-plugin-flexsearch',
+      options: {
+        searchFields: ['title', 'tags'],
+        collections: [
+          {
+            typeName: 'Post',
+            indexName: 'Post',
+            fields: ['id', 'title', 'path', 'image']
+          }
+        ]
+      }
     }
   ],
 
