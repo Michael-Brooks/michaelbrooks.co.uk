@@ -1,31 +1,20 @@
 {
-  "name": "michaelbrooks",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "gridsome",
+  "private": true,
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Michael-Brooks/michaelbrooks.co.uk.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Michael-Brooks/michaelbrooks.co.uk/issues"
-  },
-  "homepage": "https://michaelbrooks.co.uk",
   "dependencies": {
-    "@vuepress/plugin-pwa": "^1.0.3",
-    "moment": "^2.24.0",
-    "netlify-cms": "^2.9.7",
-    "vuepress": "^1.0.3",
-    "vuepress-plugin-matomo": "^1.0.2",
-    "yaml-front-matter": "^4.0.0"
+    "@gridsome/plugin-google-analytics": "^0.1.0",
+    "@gridsome/remark-prismjs": "^0.2.0",
+    "@gridsome/source-filesystem": "^0.6.0",
+    "@gridsome/transformer-remark": "^0.3.0",
+    "gridsome": "^0.7.0"
   },
   "devDependencies": {
-    "vuepress-plugin-rss": "^2.0.0"
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0"
   }
 }
