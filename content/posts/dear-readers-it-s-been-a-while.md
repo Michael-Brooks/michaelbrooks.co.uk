@@ -1,6 +1,6 @@
 ---
 title: Dear readers, it's been a while
-date: 2020-06-10 08:11:29 +0000
+date: 2020-06-10
 published: true
 tags: ['ReactPHP','Symfony','PHP']
 cover_image: ./images/blog-header-image.png

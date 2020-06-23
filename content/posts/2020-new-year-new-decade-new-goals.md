@@ -1,6 +1,6 @@
 ---
 title: 2020 - New Year - New Decade - New Goals
-date: 2020-01-02 12:04:31 +0000
+date: 2020-01-02
 published: true
 tags: ['ReactPHP','Symfony','PHP']
 cover_image: ./images/kelly-sikkema-PXl_S152jNM-unsplash.jpg
