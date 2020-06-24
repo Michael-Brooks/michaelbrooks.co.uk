@@ -24,11 +24,9 @@ Another positive side-effect is that it's really helped with my anxieties. I fee
     
 Competition in Plymouth
     
-![](./images/received_254984908497029-1024x768.webp)
     
 Raising money for cancer
     
-![](./images/IMG_20181105_102545_272.webp)
     
 Local Crossfit competition at Newton Abbot Crossfit
     
