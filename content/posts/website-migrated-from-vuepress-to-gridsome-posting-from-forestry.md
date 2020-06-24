@@ -6,9 +6,9 @@ tags:
 - vuepress
 - website refresh
 - update
-canonical_url: 'false'
+canonical_url: false
 title: Website migrated from VuePress to Gridsome posting from Forestry
-published: 'true'
+published: true
 cover_image: "./images/sebastian-unrau-sp-p7uut0tw-unsplash.jpg"
 description: This is the first blog post I am creating from my Forestry dashboard.
   If you see this on my website, then it has been a success.
