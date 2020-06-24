@@ -5,7 +5,7 @@ published: true
 tags: ['personal','fitness','Fitbit']
 cover_image: ./images/DxfiTFrWkAAJLSm.webp
 canonical_url: false
-description: "This morning I decided to take a look at my Fitbit stats, and I thought... "I wonder what my yearly stats are like". Taking a look, and I am really surprised by these stats. You can see what they are below, and as you can see, I have accomplished a lot."
+description: "This morning I decided to take a look at my Fitbit stats, and I thought... I wonder what my yearly stats are like. Taking a look, and I am really surprised by these stats. You can see what they are below, and as you can see, I have accomplished a lot."
 ---
 
 This morning I decided to take a look at my Fitbit stats, and I thought... "I wonder what my yearly stats are like". Taking a look, and I am really surprised by these stats. You can see what they are below, and as you can see, I have accomplished a lot.
