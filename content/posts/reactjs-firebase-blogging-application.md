@@ -2,9 +2,9 @@
 title: ReactJS Firebase Blogging Application
 date: 2017-02-04
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['ReactJS','development','Javascript']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "I have just released a dev branch of my first ReactJS application which utilises Firebase database. If you are looking to build ReactJS application, then I encourage you to clone my repo and create any PRs which you think will be helpful towards the project. You can also preview my ReactJS blogging app here and please let me know what you think of it."
 ---
 
 I have just released a dev branch of my first ReactJS application which utilises Firebase database. If you are looking to build ReactJS application, then I encourage you to clone my repo and create any PRs which you think will be helpful towards the project. You can also preview my ReactJS blogging app here and please let me know what you think of it.

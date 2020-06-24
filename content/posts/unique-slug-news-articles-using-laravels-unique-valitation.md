@@ -2,9 +2,9 @@
 title: Unique slug for news articles using Laravel's unique valitation
 date: 2015-01-27
 published: true
-tags: ['Markdown','Test files']
+tags: ['Laravel','PHP','tutorial']
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "Just recently at work, I had to change the way my news articles worked. We have a client who has Holiday Homes, and they have news articles per park. When I redeveloped the website in Laravel, I created a one to many relationship based on one park has many news articles."
 ---
 
 Just recently at work, I had to change the way my news articles worked. We have a client who has Holiday Homes, and they have news articles per park. When I redeveloped the website in Laravel, I created a one to many relationship based on one park has many news articles.

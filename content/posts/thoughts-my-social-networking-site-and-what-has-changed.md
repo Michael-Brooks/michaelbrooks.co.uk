@@ -2,7 +2,7 @@
 title: Thoughts on my social networking site and what has changed
 date: 2014-08-11
 published: true
-tags: ['Markdown','Test files']
+tags: ['social network','Laravel','update']
 canonical_url: false
 description: "I've had a lot to think about when it comes to the where I want to take my website. Firstly, do I really want to take on such a big task of trying to beat Facebook on my own, when they have a huge team? The answer to that is no, no I don't. I have always had some great ideas with what I wanted to do, but the fact is, I couldn't carry this out on my own."
 ---

@@ -2,9 +2,9 @@
 title: We don't need a social networking website. We need building websites to be more accessible.
 date: 2018-04-25
 published: true
-tags: ['Markdown','Test files']
+tags: ['social networking','personal']
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "Some may know that I've been wanting to build an open source social networking website for a long time. The trouble with building a social networking site is there is so much to do. Especially if you want to build something that's on par with the likes of Facebook."
 ---
 Some may know that I've been wanting to build an open source social networking website for a long time. The trouble with building a social networking site is there is so much to do. Especially if you want to build something that's on par with the likes of Facebook.
 

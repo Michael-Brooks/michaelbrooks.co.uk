@@ -2,9 +2,9 @@
 title: Post your RSS feed items to Facebook and Twitter
 date: 2017-06-19
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['IFTTT','tutorial']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "If you have a Blog in a CMS which isn't Wordpress, Drupal or Joomla, then you will likely not have some automated way to post your new blog posts over to Twitter or Facebook."
 ---
 
 If you have a Blog in a CMS which isn't Wordpress, Drupal or Joomla, then you will likely not have some automated way to post your new blog posts over to Twitter or Facebook.

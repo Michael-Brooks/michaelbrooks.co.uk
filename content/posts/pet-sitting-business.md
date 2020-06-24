@@ -2,10 +2,10 @@
 title: Pet Sitting Business for my wife
 date: 2018-02-11
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['pet sitting','business','personal','update']
 cover_image: ./images/25791204_2056620984570852_7600985875555926743_o.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "Last year, I wanted to help my wife start a pet sitting business but had no idea where to start. I started looking at ideas on how to get started and found some basics that needed to be fulfilled."
 ---
 
 ## This year is our year and we want to start pet sitting

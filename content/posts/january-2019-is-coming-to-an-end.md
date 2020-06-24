@@ -12,9 +12,9 @@ This is our final week of January, and we only have 3 days left until it's offic
 
 ## The Bad:
 
-- [Best friend's dad's passing](/blog/attending-my-best-mates-dads-funeral/)
-- [PC gave up](/blog/my-new-pc-setup-surface-pro-3/)
-- [Squiggle became poorly](/blog/my-cat-squiggle-is-not-well-%f0%9f%98%a2/)
+- [Best friend's dad's passing](/attending-my-best-mates-dads-funeral/)
+- [PC gave up](/my-new-pc-setup-surface-pro-3/)
+- [Squiggle became poorly](/my-cat-squiggle-is-not-well-%f0%9f%98%a2/)
 
 ## The Good:
 

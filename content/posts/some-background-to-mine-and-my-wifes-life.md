@@ -2,9 +2,9 @@
 title: Some background to mine and my wife's life
 date: 2019-02-09
 published: true
-tags: ['Markdown','Test files']
+tags: ['personal','update']
 canonical_url: false
-description: "After two weeks of not really seeing each other, I'm thankful that I can spend some time with my wife. She's been very busy pet sitting, and I've been helping her where I can. Due to this, we have had some time away. Although it's nice to spend some time apart, it's also nice to spend quality time together."
+description: "Around 8-9 years ago, my wife (then girlfriend) and I moved out of my mum’s 2-bedroom council house into our very own 1-bedroom council flat. Like everyone else, we had to go on the waiting list and bid for flats/houses. We were expecting to find a place in between 1-2 years, but my mum thought it would take a lot longer."
 ---
 
 ## You might want to grab yourself a coffee…

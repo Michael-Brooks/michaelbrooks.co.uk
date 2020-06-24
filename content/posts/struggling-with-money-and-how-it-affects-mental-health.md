@@ -2,7 +2,7 @@
 title: Struggling with money and how it affects Mental Health
 date: 2019-01-12
 published: true
-tags: ['Markdown','Test files']
+tags: ['personal','update','money']
 cover_image: ./images/marc-szeglat-524009-unsplash.webp
 canonical_url: false
 description: "Money is always a taboo that often gets swept under the carpet, much like mental health. It's a topic that should be talked about more, again like mental health. When you suffer from both, then it can be a volcano ready to explode at any moment."

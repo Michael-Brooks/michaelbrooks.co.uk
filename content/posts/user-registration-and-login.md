@@ -2,9 +2,9 @@
 title: Laravel user Registration and Login
 date: 2014-08-23
 published: true
-tags: ['Markdown','Test files']
+tags: ['Laravel','PHP','tutorial']
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "This will be a fairly simple tutorial as I'm not re-creating the wheel here. I started by developing a login/registration system by myself until I start talking to people in Laravel's IRC. There is a package which did everything I needed it to do which was as follows..."
 ---
 
 ## Using Laravel packages to help us

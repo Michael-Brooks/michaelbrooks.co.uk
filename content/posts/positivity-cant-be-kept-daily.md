@@ -2,10 +2,10 @@
 title: Positivity can't be kept daily
 date: 2019-02-01
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['self-help','motivation']
 cover_image: ./images/alex-block-678438-unsplash.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "This one may seem like a bit of a downer. Positivity can't be kept 100% of the time, and today is like this for me. I felt a bit down and I can't figure out why. It could be because I had to go to work during a snow day. It could also be the fact that there wasn't much snow here. I absolutely love the snow, and I love playing in it. Call me a big kid, ask me if I'm going to grow up. The truth is, it's a magical time that I don't experience enough."
 ---
 
 This one may seem like a bit of a downer. Positivity can't be kept 100% of the time, and today is like this for me. I felt a bit down and I can't figure out why. It could be because I had to go to work during a snow day. It could also be the fact that there wasn't much snow here. I absolutely love the snow, and I love playing in it. Call me a big kid, ask me if I'm going to grow up. The truth is, it's a magical time that I don't experience enough.

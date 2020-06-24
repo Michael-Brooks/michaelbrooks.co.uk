@@ -2,7 +2,7 @@
 title: Roller Coaster of a workout
 date: 2019-02-07
 published: true
-tags: ['Markdown','Test files']
+tags: ['Crossfit','fitness']
 cover_image: ./images/jr-korpa-1132682-unsplash.webp
 canonical_url: false
 description: "This morning's Crossfit workout was a roller-coaster."

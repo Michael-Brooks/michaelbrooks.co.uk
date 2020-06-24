@@ -2,9 +2,9 @@
 title: Oauth Tutorial - Part 1 - Setting up Facebook
 date: 2015-04-05
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['oauth','Facebook','Laravel',PHP','tutorial']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "Last week I promised that I will be creating some tutorials regarding Oauth and Laravel's Socialite plugin. Today, we will start with setting up each website and creating an app on these sites to accept our OAuth requests."
 ---
 
 Last week I promised that I will be creating some tutorials regarding Oauth and Laravel's Socialite plugin. Today, we will start with setting up each website and creating an app on these sites to accept our OAuth requests.

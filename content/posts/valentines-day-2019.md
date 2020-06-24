@@ -2,10 +2,10 @@
 title: Valentine's Day - 2019
 date: 2019-02-14
 published: true
-tags: ['Markdown','Test files']
+tags: ['personal','update']
 cover_image: ./images/Blog-header-image-1.webp
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "Today is Valentine's Day which means couples will be spending time together. Maybe they'll spoil each, or maybe they'll chill with some Netflix. However they spend Valentine's, it can be a wonderful day."
 ---
 
 Today is Valentine's Day which means couples will be spending time together. Maybe they'll spoil each, or maybe they'll chill with some Netflix. However they spend Valentine's, it can be a wonderful day.

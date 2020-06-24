@@ -2,10 +2,10 @@
 title: Why did I pick a Windows Phone?
 date: 2016-10-29
 published: true
-tags: ['Markdown','Test files']
+tags: ['Microsoft','Windows']
 cover_image: ./images/wp81-review-hero-2014-1024x576.webp
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "In my office, I'm the only one who fully supports Windows Phone as an operating system. My fellow colleagues disagree with me and would rather have either an Android phone or iPhone. I would like to make a quick post on why I chose Windows over Android and Apple and why I think Windows phones are the winners."
 ---
 ## Forever alone...
 

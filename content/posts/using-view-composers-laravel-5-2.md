@@ -2,7 +2,7 @@
 title: Using View Composers in Laravel 5.2
 date: 2016-02-03
 published: true
-tags: ['Markdown','Test files']
+tags: ['Laravel','PHP','tutorial']
 canonical_url: false
 description: "I have started using Laravel's View Composers which come in handy when you have a navigation bar that constantly needs
               certain data. For example, you have an e-commerce store and you need to poll how many items a user has in their basket

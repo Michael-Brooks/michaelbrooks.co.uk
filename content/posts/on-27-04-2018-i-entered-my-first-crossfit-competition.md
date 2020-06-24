@@ -2,10 +2,10 @@
 title: On 27/04/2018 I entered my first CrossFit Competition
 date: 2018-05-15
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Crossfit','fitness','personal','update','competition']
 cover_image: ./images/FB_IMG_1524544170682.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "I know that date has pretty much long gone, but I want to get into the habit of updating my blog more often with what I'm doing, so thought I would add this while I still can."
 ---
 
 # My first CrossFit competition outside of my own box

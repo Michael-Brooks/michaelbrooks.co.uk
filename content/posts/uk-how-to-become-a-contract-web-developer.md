@@ -2,10 +2,10 @@
 title: (UK) How to become a contract web developer
 date: 2019-05-29
 published: true
-tags: ['Markdown','Test files']
+tags: ['contracting','business']
 cover_image: ./images/MBD_medium.webp
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "So, you want to get into contract development, but you don't know where to start? Let me explain how to get started, and what you need in order to begin contracting. Strap in, because this is going to be a long one."
 ---
 
 So, you want to get into contract development, but you don't know where to start? Let me explain how to get started, and what you need in order to begin contracting. Strap in, because this is going to be a long one.

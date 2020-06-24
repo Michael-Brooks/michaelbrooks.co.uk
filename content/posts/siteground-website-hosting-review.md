@@ -2,7 +2,7 @@
 title: SiteGround website hosting review
 date: 2019-02-20
 published: true
-tags: ['Markdown','Test files']
+tags: ['SiteGround','hosting','review']
 cover_image: ./images/hosting-review.webp
 canonical_url: false
 description: "I've been using SiteGround for almost 2 months now and so I thought it was time for a review."

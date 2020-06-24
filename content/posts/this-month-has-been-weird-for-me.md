@@ -2,7 +2,7 @@
 title: This month has been weird for me...
 date: 2019-05-22
 published: true
-tags: ['Markdown','Test files']
+tags: ['personal','update','month review']
 canonical_url: false
 description: "This month has been so weird for me. I walked into my workplace on the first of May to find out I'm being made redundant with a few colleagues due to targets not being hit. It didn't shock me, and I wasn't upset by this. I understood the company was hitting a rocky patch. However, I didn't expect this to happen, especially at the time it did."
 ---

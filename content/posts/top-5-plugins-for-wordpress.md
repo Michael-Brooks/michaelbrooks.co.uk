@@ -2,9 +2,9 @@
 title: Top 5 plugins for WordPress
 date: 2019-01-25
 published: true
-tags: ['Markdown','Test files']
+tags: ['Wordpress','top 5']
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "My personal top 5 Wordpress plugins"
 ---
 
 These are my top 5 plugins which I think most people should have, especially if you're a blogger looking to make connections and/or your site as fast as possible.

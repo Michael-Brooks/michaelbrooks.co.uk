@@ -2,7 +2,7 @@
 title: Saying goodbye to January and Hello to February 2019
 date: 2019-01-31
 published: true
-tags: ['Markdown','Test files']
+tags: ['month review','personal','update']
 cover_image: ./images/damian-mccoig-527817-unsplash.webp
 canonical_url: false
 description: "Today is our final day in January for 2019, and I have to say, it's been an okay start to the year. I've made more connections on the internet. Removed Facebook from my phone, posted to my blog every day, and even turned vegan. I felt positive about money, only for that to crash and have anxiety over money. It was okay though, because this eventually went away, and now I'm positive again."

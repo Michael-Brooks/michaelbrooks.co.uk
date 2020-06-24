@@ -2,7 +2,7 @@
 title: The demise of social networks
 date: 2019-01-04
 published: true
-tags: ['Markdown','Test files']
+tags: ['social networks','Facebook','Twitter']
 canonical_url: false
 description: "For what seems like forever, I wanted to create my very own social networking site. At first, it was going to compete with Facebook, have reactions (before they invented it), and use open technologies. I started creating something with my custom PHP, I created the ability to register, log in and add friends. It was going great and my friends were playing around with it. A few bugs were being reported which I would try to fix, and a few months later, I got bored."
 ---

@@ -2,9 +2,9 @@
 title: Quick Update
 date: 2015-03-08
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "Lots have been going on recently, so I do apologise for not writing a post as of late. I had to be made redundant by my previous employee due to lack of funds and not being able to push enough work my way. Luckily, the guys there are pretty cool and was happy to be my reference for any future employment. I was really lucky to find a new workplace and as soon as I left, I started my new position with Pulse8 Broadband."
 ---
 
 Lots have been going on recently, so I do apologise for not writing a post as of late. I had to be made redundant by my previous employee due to lack of funds and not being able to push enough work my way. Luckily, the guys there are pretty cool and was happy to be my reference for any future employment. I was really lucky to find a new workplace and as soon as I left, I started my new position with [Pulse8 Broadband](https://pulse8broadband.co.uk).

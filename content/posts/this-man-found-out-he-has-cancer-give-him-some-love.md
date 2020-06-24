@@ -2,10 +2,10 @@
 title: This man found out he has cancer, give him some love.
 date: 2019-01-18
 published: true
-tags: ['Markdown','Test files']
+tags: ['charity','cancer']
 cover_image: ./images/faye-cornish-512491-unsplash.webp
 canonical_url: false
-description: "This month has been so weird for me. I walked into my workplace on the first of May to find out I'm being made redundant with a few colleagues due to targets not being hit. It didn't shock me, and I wasn't upset by this. I understood the company was hitting a rocky patch. However, I didn't expect this to happen, especially at the time it did."
+description: "Today I went onto YouTube and found a video from someone I'm subscribed to. I haven't watched his videos in a while, but this one caught my eye as it was titled Well this sucks. Curiosity got the better of me, and I had to take a look. He talks about recently opening up with mental health and struggles to find tell us his news. He gets to a point where he tells us, and it's testicular cancer. Fuck."
 ---
 
 Today I went onto YouTube and found a video from someone I'm subscribed to. I haven't watched his videos in a while, but this one caught my eye as it was titled "Well this sucks". Curiosity got the better of me, and I had to take a look. He talks about recently opening up with mental health and struggles to find tell us his news. He gets to a point where he tells us, and it's testicular cancer. Fuck.

@@ -2,10 +2,10 @@
 title: Plant trees and stay focused
 date: 2018-05-23
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['self-help','productivity','apps']
 cover_image: ./images/icon.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "I have recently been trying to find some apps that will help me with my focus. I used an app called [impulse blocker](https://addons.mozilla.org/en-US/firefox/addon/impulse-blocker/) which would block any website that you would add to the list. You can enable and disable it whenever you liked, but I often found I would just disable it for a large duration of time and then become easily distracted."
 ---
 
 # Stay focused, be present

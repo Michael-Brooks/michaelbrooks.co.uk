@@ -2,9 +2,9 @@
 title: 5 of the best programming books
 date: 2017-06-10
 published: true
-tags: ['Markdown','Test files']
+tags: ['programming','top 5']
 canonical_url: false
-description: "This is a test for the If This Then That service for my Blog feed."
+description: "My personal top 5 PHP books"
 ---
 
 ## Working Effectively with Legacy Code [Amazon.com](https://www.amazon.com/gp/product/0131177052/ref=as_li_tl?ie=UTF8&tag=michaelbrooks-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0131177052&linkId=141de70c0206cc75b09a62a95d0679e7) | [Amazon.co.uk](https://www.amazon.co.uk/gp/product/B005OYHF0A/ref=as_li_tl?ie=UTF8&tag=wedeuk05-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=B005OYHF0A&linkId=649ae44575d09f6754decf1da6e0b0aa)

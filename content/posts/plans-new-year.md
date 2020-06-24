@@ -2,9 +2,9 @@
 title: Plans for the new year
 date: 2016-12-26
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['year review','personal','update']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "I never do the New year, New me bullshit, I have always believed that the end of the year is a time to reflect what we have done over the past few years and what we can improve upon for the new year to come."
 ---
 
 I never do the "New year, New me" bullshit, I have always believed that the end of the year is a time to reflect what we have done over the past few years and what we can improve upon for the new year to come.

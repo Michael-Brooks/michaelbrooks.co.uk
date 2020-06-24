@@ -2,9 +2,9 @@
 title: Virgin Media Calling and Asking for Password
 date: 2014-08-08
 published: true
-tags: ['Markdown','Test files']
+tags: ['personal','update']
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "Last week some time, I received a phone call from Virgin Media. The caller said he would like to talk to me regarding my account, which at first seemed fairly legit. I asked him what the problem was and to his response, I was shocked."
 ---
 
 ## Receiving a phone call from Virgin Media

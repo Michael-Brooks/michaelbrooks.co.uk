@@ -2,9 +2,9 @@
 title: Website Update
 date: 2015-01-23
 published: true
-tags: ['Markdown','Test files']
+tags: ['personal','update','website refresh']
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "As you can see, it has been a while since my last post, but I have been busy trying to push updates over to my website to help strengthen the relationships between you and I."
 ---
 
 As you can see, it has been a while since my last post, but I have been busy trying to push updates over to my website to help strengthen the relationships between you and I.

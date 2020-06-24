@@ -2,7 +2,7 @@
 title: Silencing your anxieties
 date: 2018-11-12
 published: true
-tags: ['Markdown','Test files']
+tags: ['anxiety','self-help','mental health']
 cover_image: ./images/sean-do-782269-unsplash.webp
 canonical_url: false
 description: "A few days ago, I wrote a Tweet on the best ways to silence your anxiety/depression. When I was going through terrible anxiety due to work (talking about throwing up). I found gaming was the most helpful thing for me. I could game for hours and because my mind was so focused, nothing else mattered."

@@ -2,9 +2,9 @@
 title: Social Networking site - Starting point
 date: 2016-07-27
 published: true
-tags: ['Markdown','Test files']
+tags: ['personal','update','social network','Laravel','PHP']
 canonical_url: false
-description: "After two weeks of not really seeing each other, I'm thankful that I can spend some time with my wife. She's been very busy pet sitting, and I've been helping her where I can. Due to this, we have had some time away. Although it's nice to spend some time apart, it's also nice to spend quality time together."
+description: "In my last post, I said how I would create a new open sourced social networking website and I would start out on the API."
 ---
 
 In my last post, I said how I would create a new open sourced social networking website and I would start out on the API.

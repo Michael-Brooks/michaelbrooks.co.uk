@@ -2,7 +2,7 @@
 title: ReactPHP and Symfony
 date: 2016-07-18
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['ReactPHP','Symfony','PHP','podcast']
 canonical_url: false
 description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
 ---

@@ -2,7 +2,7 @@
 title: Watching Aquaman with my wife
 date: 2019-01-19
 published: true
-tags: ['Markdown','Test files']
+tags: ['personal','update','movie']
 cover_image: ./images/cristian-palmer-716726-unsplash.webp
 canonical_url: false
 description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."

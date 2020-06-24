@@ -2,7 +2,7 @@
 title: Social Network API update
 date: 2016-08-30
 published: true
-tags: ['Markdown','Test files']
+tags: ['personal','update','social network']
 canonical_url: false
 description: "Last time I updated you guys on this, I only had a list of ideas and how it would initially pan out. I have now started the project and published the repo onto GitHub."
 ---
