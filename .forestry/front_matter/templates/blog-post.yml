@@ -48,3 +48,5 @@ fields:
     schema:
       format: markdown
   label: Description
+pages:
+- content/posts/website-migrated-from-vuepress-to-gridsome-posting-from-forestry.md
