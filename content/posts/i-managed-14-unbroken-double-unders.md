@@ -2,10 +2,10 @@
 title: I managed 14 unbroken Double-Unders
 date: 2018-08-29
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','fitness','Crossfit']
 cover_image: ./images/charlotte-karlsen-585717-unsplash.webp
 canonical_url: false
-description: "I watched a video today by the lovely Anna Reel where she says \"In spite of fear, do it anyway\". This pretty much goes along with what I've read. A book called Feel the Fear and do it anyway explains it in much better detail. However, the basics of it are, if you fear something, you should do it anyway. Usually the best outcomes in life are because you faced fear head on."
+description: "I know this isn't a massive achievement, but I have a goal to get to 50 unbroken DUs by the end of the year. The other week, I managed to get 14 unbroken which is the most I have done so far. I'll keep you updated with my progress, but for now you can check the video below and follow me for more Crossfit updates."
 ---
 
 I know this isn't a massive achievement, but I have a goal to get to 50 unbroken DUs by the end of the year. The other week, I managed to get 14 unbroken which is the most I have done so far. I'll keep you updated with my progress, but for now you can check the video below and follow me for more Crossfit updates.

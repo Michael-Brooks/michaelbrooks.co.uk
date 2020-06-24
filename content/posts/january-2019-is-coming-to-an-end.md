@@ -2,7 +2,7 @@
 title: January 2019 is coming to an end
 date: 2019-01-28
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update','end of month review']
 cover_image: ./images/maddi-bazzocco-1178337-unsplash.webp
 canonical_url: false
 description: "This is our final week of January, and we only have 3 days left until it's officially over. I've already had a few surprises, some bad and some good, and I wanted to share with you both my good and bad for this month."
@@ -20,7 +20,7 @@ This is our final week of January, and we only have 3 days left until it's offic
 
 - Posted every day this month to my Blog
 - Transferred my blog from [Digital Ocean](https://m.do.co/c/d5aca73b366f) to [SiteGround](https://www.siteground.com/web-hosting.htm?afbannercode=6e1bd936b39f2c5d99b5e9c12f3db762)
-- Transferred my [wife's website](/blog/thinking-of-self-hosting-your-blog/) to [SiteGround](https://www.siteground.com/web-hosting.htm?afbannercode=6e1bd936b39f2c5d99b5e9c12f3db762)
+- Transferred my [wife's website](/thinking-of-self-hosting-your-blog/) to [SiteGround](https://www.siteground.com/web-hosting.htm?afbannercode=6e1bd936b39f2c5d99b5e9c12f3db762)
 - Setup MailChimp for [email newsletters](http://eepurl.com/c2yygP)
 - Became a vegan
 - My wife gained 3 new pet sitting clients

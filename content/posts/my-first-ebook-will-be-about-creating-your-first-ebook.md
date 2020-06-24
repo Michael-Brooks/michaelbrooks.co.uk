@@ -2,10 +2,10 @@
 title: My first ebook will be about creating your first ebook
 date: 2019-02-13
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['ebook','merch','personal']
 cover_image: ./images/michaelbrooks.co_.uk_.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "You heard right, the first ebook I will be creating will about how to write your first ebook. I've been thinking about how I would love to create an ebook, but I didn't know what to write about. Researching how to create an ebook leads to people explaining you should use Canva, Google Docs or something completely different, but they don't explain how or why."
 ---
 
 You heard right, the first ebook I will be creating will about how to write your first ebook. I've been thinking about how I would love to create an ebook, but I didn't know what to write about. Researching how to create an ebook leads to people explaining you should use Canva, Google Docs or something completely different, but they don't explain how or why.

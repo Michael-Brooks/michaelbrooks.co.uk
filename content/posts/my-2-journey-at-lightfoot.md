@@ -2,10 +2,10 @@
 title: My 2 year journey at Lightfoot
 date: 2019-01-02
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update','Lightfoot']
 cover_image: ./images/IMG_20181221_210405_1.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "My journey at Lightfoot all started because of my struggles with a previous company. I had been given a 3-month trial and during this trial, my work was struggling. The company really liked me as a person and wanted to see me succeed there. They extended my trial by another 3 months and by the end of it, I was still struggling to keep up. I then had to start looking for a position elsewhere, and that's where I found Lightfoot."
 ---
 
 ## A little back story

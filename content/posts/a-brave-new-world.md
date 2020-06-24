@@ -2,10 +2,10 @@
 title: A brave new world
 date: 2018-04-16
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['pet sitting','work','general']
 cover_image: ./images/montylov-206776-unsplash.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "My wife will be leaving her place of work this week to go on her own adventure and creating her own pet sitting business. She is very scared and nervous, but I keep reassuring her that everything will be okay and if it doesn't work out, we can move on to something else."
 ---
 
 ## The beginning of a new chapter

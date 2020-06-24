@@ -2,9 +2,9 @@
 title: New Year, New Blog, New something?
 date: 2016-02-27
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update','year review']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "I am really stoked to show you guys my brand new Blog built with October CMS. For my hosting, I have used Digital Ocean (click the link for $10 free). Digital Ocean is a fantastic hosting company which I just love to use as they give you complete control over your VPS, and they even give you One-click apps to help you get started."
 ---
 
 I am really stoked to show you guys my brand new Blog built with [October CMS](https://octobercms.com). For my hosting, I have used [Digital Ocean](https://m.do.co/c/d5aca73b366f) (click the link for $10 free). Digital Ocean is a fantastic hosting company which I just love to use as they give you complete control over your VPS, and they even give you One-click apps to help you get started.

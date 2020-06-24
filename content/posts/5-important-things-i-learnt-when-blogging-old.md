@@ -2,9 +2,9 @@
 title: 5 important things I learnt when Blogging Old
 date: 2017-05-18
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['blogging','general','tutorial']
 canonical_url: false
-description: It's been over a week since my colleagues and I completed the Jurassic Hike for Macmillan cancer support. I'm happy to announce that I finished the 26-mile hike and raised a total of £253.44 which is 101% of my target. Together as a team, we all managed to succeed our targets and in total reached 117% of our goal which amounts to £2,045.87.
+description: "Read more on what I learned about blogging"
 ---
 
 ## 1. Don't just rely on your blog's RSS feed This is probably the most important lesson I learnt when creating my blog and it could be yours as well. Firstly, I used a tool which generates an RSS feed for me, once I did this, I thought I was done and little did I know just how wrong I was. You see, when you have an RSS feed, you don't have any analytics on who is subscribing and no one can easily subscribe to you, no matter what tool they're using.

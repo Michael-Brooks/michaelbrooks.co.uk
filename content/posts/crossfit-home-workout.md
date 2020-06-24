@@ -2,12 +2,10 @@
 title: Crossfit Home Workout
 date: 2018-04-05
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Crossfit','fitness','home workout']
 cover_image: ./images/victor-freitas-546919-unsplash.webp
 canonical_url: false
-description: Hello to anyone that visits my blog post, whether it's your first time
-               or your 100th. You all mean the so much to me and I appreciate you taking the time
-               to read any of my posts.
+description: "This is a bit of a late post and one I had on my mind after completing my home crossfit workout on Monday."
 ---
 
 This is a bit of a late post and one I had on my mind after completing my home crossfit workout on Monday.

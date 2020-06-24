@@ -2,9 +2,9 @@
 title: Xbox One Elite Controller Review
 date: 2017-05-21
 published: true
-tags: ['Markdown','Test files']
+tags: ['Xbox','Review','Microsoft']
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "I recently had this given to me as a Christmas present and I think it's time to give it a review. This controller is a beast and I doubt I have yet to use this controller to it's full potential. It has so many knobs and triggers that you feel a bit lost when using it for the first time."
 ---
 
 I recently had this given to me as a Christmas present and I think it's time to give it a review. This controller is a beast and I doubt I have yet to use this controller to it's full potential. It has so many knobs and triggers that you feel a bit lost when using it for the first time.

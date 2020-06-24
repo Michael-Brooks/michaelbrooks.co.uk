@@ -2,10 +2,10 @@
 title: Looking to 2019 and my personal goals
 date: 2018-12-27
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update','yearly review']
 cover_image: ./images/roven-images-601197-unsplash-min.webp
 canonical_url: false
-description: "This little command is a lifesaver and will save you so much time when switching and merging previous branches in your GIT workflow."
+description: "2018 has been massive for my wife and I. I helped her start her business Brooks Pet Sitters, and although it's been tough, she's loved every second. Our goal was to have 20 clients this year, and we now have 45. Some have been incredibly supportive, while others not so much. We learnt how to pick our clients and separate the good from the bad."
 ---
 
 ## Looking back this year

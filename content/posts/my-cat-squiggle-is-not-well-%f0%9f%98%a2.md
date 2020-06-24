@@ -2,10 +2,10 @@
 title: My cat Squiggle is not well
 date: 2019-01-10
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update','cat']
 cover_image: ./images/IMG_20190106_214032.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "My cat has gone to the vets twice because he has a pain in his back. He is constantly licking surfaces, himself and also scratching, digging, and biting himself. It's definitely a discomfort, but the vets can't find the answer, and it's so frustrating. If you stroke the lower part of his back, he will start to lick and/or bite you to tell you it's hurting. His hair looks dandruffy and is falling out easily, yet it doesn't look like he has mites or fleas."
 ---
 
 My cat has gone to the vets twice because he has a pain in his back. He is constantly licking surfaces, himself and also scratching, digging, and biting himself. It's definitely a discomfort, but the vets can't find the answer, and it's so frustrating. If you stroke the lower part of his back, he will start to lick and/or bite you to tell you it's hurting. His hair looks dandruffy and is falling out easily, yet it doesn't look like he has mites or fleas.

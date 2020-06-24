@@ -2,9 +2,9 @@
 title: Hosting your site With Digital Ocean and Docker
 date: 2016-03-27
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Docker','Digital Ocean','tutorial']
 canonical_url: false
-description: "On Saturday the 20th of October, I competed at Battle Cancer alongside 3 of my CrossFit friends; Pete, Phil and Matt. The event had somewhere around 1,000 people attending to watch a range of CrossFit teams compete with one another."
+description: "I want to share with you how I am hosting my website with Digital Ocean (hosting company) and Docker (places your app in containers)."
 ---
 
 I want to share with you how I am hosting my website with [Digital Ocean](https://m.do.co/c/d5aca73b366f) (hosting company) and [Docker](https://docker.com) (places your app in containers).

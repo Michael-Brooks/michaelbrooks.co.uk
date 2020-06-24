@@ -2,10 +2,10 @@
 title: How I manage to get to Crossfit every morning
 date: 2019-01-13
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Crossfit','personal','fitness','motivation']
 cover_image: ./images/nathan-dumlao-608718-unsplash.webp
 canonical_url: false
-description: "On Saturday the 20th of October, I competed at Battle Cancer alongside 3 of my CrossFit friends; Pete, Phil and Matt. The event had somewhere around 1,000 people attending to watch a range of CrossFit teams compete with one another."
+description: "Some days I wake up at 4:30, others at 5 on weekdays then on Saturday I get up at 7 in the morning. How do I do this you ask?"
 ---
 
 Some days I wake up at 4:30, others at 5 on weekdays then on Saturday I get up at 7 in the morning. How do I do this you ask?

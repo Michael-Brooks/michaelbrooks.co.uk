@@ -2,12 +2,10 @@
 title: Dealing with death
 date: 2019-01-11
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update']
 cover_image: ./images/mike-labrum-151765-unsplash.webp
 canonical_url: false
-description: Hello to anyone that visits my blog post, whether it's your first time
-               or your 100th. You all mean the so much to me and I appreciate you taking the time
-               to read any of my posts.
+description: "Death is a terrible part of living. We all worry about death, and most of us aren't ready for it when it comes around. If someone passes then those close friends/family feel sadness and mourning and have to deal with so much. Funerals, funding, banking services are just to name a few of the things that have to be dealt with, and it's a terrible situation to go through."
 ---
 
 Death is a terrible part of living. We all worry about death, and most of us aren't ready for it when it comes around. If someone passes then those close friends/family feel sadness and mourning and have to deal with so much. Funerals, funding, banking services are just to name a few of the things that have to be dealt with, and it's a terrible situation to go through.

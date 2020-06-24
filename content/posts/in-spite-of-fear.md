@@ -2,7 +2,7 @@
 title: In Spite of Fear
 date: 2019-02-15
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','anxiety','mental health']
 cover_image: ./images/inspiteofeverything-1.webp
 canonical_url: false
 description: "I watched a video today by the lovely Anna Reel where she says \"In spite of fear, do it anyway\". This pretty much goes along with what I've read. A book called Feel the Fear and do it anyway explains it in much better detail. However, the basics of it are, if you fear something, you should do it anyway. Usually the best outcomes in life are because you faced fear head on."

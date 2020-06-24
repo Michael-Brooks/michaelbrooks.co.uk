@@ -2,10 +2,10 @@
 title: At the Cost of Your Users — John Saddington
 date: 2018-11-15
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Medium','blogging']
 cover_image: ./images/pardon-interruption.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "I just read this blog post by John Saddington, and I have to say, I 100% agree. Medium is a terrible user experience. When you visit the site, you get bombarded with signup/login modals and banners."
 ---
 
 I just read this blog post by John Saddington, and I have to say, I 100% agree. Medium is a terrible user experience. When you visit the site, you get bombarded with signup/login modals and banners.

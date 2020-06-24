@@ -2,9 +2,9 @@
 title: "Local OAUTH - Curl: (60) SSL certificate : Unable to get local issuer certificate"
 date: 2015-03-28
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Xampp','tutorial','PHP']
 canonical_url: false
-description: "This little command is a lifesaver and will save you so much time when switching and merging previous branches in your GIT workflow."
+description: "I've seen a couple of questions regarding the error Curl: (60) SSL certificate : Unable to get local issuer certificate and thought I would post some steps on the best way of setting it up locally."
 ---
 
 I've seen a couple of questions regarding the error "Curl: (60) SSL certificate : Unable to get local issuer certificate" and thought I would post some steps on the best way of setting it up locally.

@@ -2,10 +2,10 @@
 title: My new PC setup (Surface Pro 3)
 date: 2019-01-27
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update','Microsoft']
 cover_image: ./images/IMG_20190127_163858.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "My desktop PC is playing funny buggers, so I've had to switch it out. I'm now using my Surface Pro 3 which I've had for a few years and used it on and off. My wife was very reluctant for the switch, because of the Pro 3 having such a small screen. After reassuring her that we can still use our two monitors, I went and purchased the correct cables. Two mini display-ports to HDMI that are purchased on Amazon by Rankie."
 ---
 
 My desktop PC is playing funny buggers, so I've had to switch it out. I'm now using my Surface Pro 3 which I've had for a few years and used it on and off. My wife was very reluctant for the switch, because of the Pro 3 having such a small screen. After reassuring her that we can still use our two monitors, I went and purchased the correct cables. Two mini display-ports to HDMI that are purchased on [Amazon by Rankie](https://amzn.to/2UnKRJA).

@@ -2,12 +2,12 @@
 title: A year review 2018
 date: 2018-12-29
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','year review','Tim Ferriss']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "After reading Tim Ferriss' year review, I decided to do something similar. I couldn't go through my calendar as I never use one for events (maybe I should start next year)."
 ---
 
-After reading [Tim Ferris' year review](https://tim.blog/2018/12/28/past-year-review/), I decided to do something similar. I couldn't go through my calendar as I never use one for events (maybe I should start next year).
+After reading [Tim Ferriss' year review](https://tim.blog/2018/12/28/past-year-review/), I decided to do something similar. I couldn't go through my calendar as I never use one for events (maybe I should start next year).
 
 You can see below my results which will also be typed up in case you can't see the image.
 

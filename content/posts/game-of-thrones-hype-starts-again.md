@@ -2,9 +2,9 @@
 title: Game of Thrones hype starts again
 date: 2019-01-14
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Game of Thrones','television','series']
 canonical_url: false
-description: "On Saturday the 20th of October, I competed at Battle Cancer alongside 3 of my CrossFit friends; Pete, Phil and Matt. The event had somewhere around 1,000 people attending to watch a range of CrossFit teams compete with one another."
+description: "I must admit, it took my wife and I a while to get into Game of Thrones. So many people were hyping it up and saying YOU HAVE TO WATCH IT!! that it didn't quite appeal to us. However, once the dust had settled, we finally decided to take a look. Wow, we couldn't believe it took us so long to actually get into it, the whole series has just been amazing."
 ---
 
 I must admit, it took my wife and I a while to get into Game of Thrones. So many people were hyping it up and saying "YOU HAVE TO WATCH IT!!" that it didn't quite appeal to us. However, once the dust had settled, we finally decided to take a look. Wow, we couldn't believe it took us so long to actually get into it, the whole series has just been amazing.

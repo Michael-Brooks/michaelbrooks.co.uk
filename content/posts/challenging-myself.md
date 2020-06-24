@@ -2,9 +2,9 @@
 title: Challenging myself
 date: 2018-11-11
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['challenge','general','update']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "Something I would like to try out for this month is post less on social media (excluding Instagram) and post more on WordPress. I rarely spend time posting to social anyway, but it could be interesting. Even if it's just comments on other people's blogs."
 ---
 
 Something I would like to try out for this month is post less on social media (excluding Instagram) and post more on WordPress. I rarely spend time posting to social anyway, but it could be interesting. Even if it's just comments on other people's blogs.

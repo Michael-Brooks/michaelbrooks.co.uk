@@ -2,9 +2,9 @@
 title: Mounting Volumes in Docker and Using Windows 10
 date: 2015-11-20
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Docker','tutorial']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "This is a quick post to details some issues I have found when trying to use Docker within a Mac or Windows environment."
 ---
 
 This is a quick post to details some issues I have found when trying to use Docker within a Mac or Windows environment.
@@ -25,7 +25,7 @@ docker-machine ssh docker-vm 'sudo mount -t vboxsf d/sites/laravel //d/sites/lar
 
 Now this has been done, you can mount your volume as needed.
 
-\-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 
 Next up is a Windows only issue, this one is quick and easy, but can be frustrating when you can't find the correct solution. If you are like me and run Docker using git bash, then you won't be able to mount your volume in the normal way which is usually something like this...
 
@@ -37,8 +37,8 @@ You will revieve an error...
 
 Instead you need to add a double forward slash at the beginning so it ends up like this...
 
-docker run -tid -p 80:80 -v //d/sites/laravel:/var/www nimmis/apache-php5
+`docker run -tid -p 80:80 -v //d/sites/laravel:/var/www nimmis/apache-php5`
 
-\-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 
 I hope you enjoyed this post and if you have anything you would like to add to it, please feel free to leave a comment below.

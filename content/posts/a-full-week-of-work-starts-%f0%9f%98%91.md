@@ -2,10 +2,10 @@
 title: A full week of work starts
 date: 2019-01-07
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['work','personal','update']
 cover_image: ./images/alexandra-gorn-471463-unsplash.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "For us office workers, today is our first full week back. Like many around this time of year, I felt pretty apprehensive about going back. It was so nice having a break from work and they always go way too fast. Christmas and New Year never last as long as you'd hope and everything just goes back to normal."
 ---
 
 For us office workers, today is our first full week back. Like many around this time of year, I felt pretty apprehensive about going back. It was so nice having a break from work and they always go way too fast. Christmas and New Year never last as long as you'd hope and everything just goes back to normal.

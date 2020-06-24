@@ -2,9 +2,9 @@
 title: "Laravel 4: How To Use Jquery UI Sortable"
 date: 2014-09-03
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Laravel','PHP','tutorial','JQuery','Javascript']
 canonical_url: false
-description: "On Saturday the 20th of October, I competed at Battle Cancer alongside 3 of my CrossFit friends; Pete, Phil and Matt. The event had somewhere around 1,000 people attending to watch a range of CrossFit teams compete with one another."
+description: "I needed a way to change the sort order of my data inside of an admin interface which I have created. After a little"
 ---
 
 # Laravel 4: How To Use Jquery UI Sortable
@@ -19,7 +19,7 @@ called [How To Use Jquery UI Sortable In Laravel 4](https://tutsglobal.com/discu
 
 The only trouble is, when you follow this tutorial, it could be tidied up a little, here is my version...
 
-```php
+```html
 // Place this inside your View
 
 @foreach($categories as $category)

@@ -2,9 +2,9 @@
 title: 101% Reached of my target for Macmillan Cancer Research
 date: 2019-06-26
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['fitness','charity']
 canonical_url: false
-description: It's been over a week since my colleagues and I completed the Jurassic Hike for Macmillan cancer support. I'm happy to announce that I finished the 26-mile hike and raised a total of £253.44 which is 101% of my target. Together as a team, we all managed to succeed our targets and in total reached 117% of our goal which amounts to £2,045.87.
+description: "It's been over a week since my colleagues and I completed the Jurassic Hike for Macmillan cancer support. I'm happy to announce that I finished the 26-mile hike and raised a total of £253.44 which is 101% of my target. Together as a team, we all managed to succeed our targets and in total reached 117% of our goal which amounts to £2,045.87."
 ---
 
 It's been over a week since my colleagues and I completed the Jurassic Hike for Macmillan cancer support. I'm happy to announce that I finished the 26-mile hike and raised a total of £253.44 which is 101% of my target. Together as a team, we all managed to succeed our targets and in total reached 117% of our goal which amounts to £2,045.87.

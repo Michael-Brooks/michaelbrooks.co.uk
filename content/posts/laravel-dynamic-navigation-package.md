@@ -2,10 +2,10 @@
 title: Laravel Dynamic Navigation Package
 date: 2014-05-28
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Laravel','tutorial','PHP']
 cover_image: ./images/1-OGCE-B4onkKZyAzf1Ge0Ew.webp
 canonical_url: false
-description: "This little command is a lifesaver and will save you so much time when switching and merging previous branches in your GIT workflow."
+description: "I have managed to create a dynamic navigation package for Laravel which can be seen in my previous post. If you go to Packagist you will be able to find my package under checkeredmichael/navigation."
 ---
 
 I have managed to create a dynamic navigation package for Laravel which can be seen in my previous post. If you go to [Packagist](https://packagist.org/packages/checkeredmichael/navigation) you will be able to find my package under checkeredmichael/navigation.

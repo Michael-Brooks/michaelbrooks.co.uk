@@ -2,10 +2,10 @@
 title: Gaining confidence to start a blog
 date: 2019-02-11
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Twitter','blogging','discussion']
 cover_image: ./images/Copy-of-Gaining-confidence-to-start-blogging.webp
 canonical_url: false
-description: A post on mental health
+description: "I had this discussion on my Twitter to which I said..."
 ---
 
 I had this discussion on [my Twitter](https://twitter.com/MBrooksUK) to which I said...

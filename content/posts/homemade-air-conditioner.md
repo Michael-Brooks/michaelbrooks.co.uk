@@ -2,9 +2,9 @@
 title: Homemade Air Conditioner
 date: 2017-06-20
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Raspberry Pi','tutorial']
 canonical_url: false
-description: "On Saturday the 20th of October, I competed at Battle Cancer alongside 3 of my CrossFit friends; Pete, Phil and Matt. The event had somewhere around 1,000 people attending to watch a range of CrossFit teams compete with one another."
+description: "After some time into the conversation, this article popped up, and as you can see he has made quite a mess of the copper piping, but it gives you a general idea for how to build your homemade air conditioner system. For much more improved designs, I recommend you check out this article that showcases a much tidier way of wrapping copper wire around a traditional fan."
 ---
 
 [MagPi's](https://twitter.com/TheMagP1/status/877082289850785793)'s Twitter account was asking if anyone has any good air conditioning Raspberry Pi projects, but so far no one has made one which is appalling in this UK heatwave (currently over 30C).

@@ -2,10 +2,10 @@
 title: 24 workouts in 24 hours - Help me raise money for The African Maternity Link
 date: 2017-06-12
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['fitness','charity','crossfit']
 cover_image: ./images/9624bf7d-7293-4a71-bb19-290aa2fdb0ff.webp
 canonical_url: false
-description: It's been over a week since my colleagues and I completed the Jurassic Hike for Macmillan cancer support. I'm happy to announce that I finished the 26-mile hike and raised a total of £253.44 which is 101% of my target. Together as a team, we all managed to succeed our targets and in total reached 117% of our goal which amounts to £2,045.87.
+description: "I am taking part in what seems like a crazy event, but I am super stoked and will be looking forward to taking part and"
 ---
 
 I am taking part in what seems like a crazy event, but I am super stoked and will be looking forward to taking part and

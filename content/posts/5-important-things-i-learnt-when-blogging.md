@@ -2,9 +2,9 @@
 title: 5 important things I learnt when Blogging
 date: 2018-11-15
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['blogging','general','tutorial']
 canonical_url: false
-description: It's been over a week since my colleagues and I completed the Jurassic Hike for Macmillan cancer support. I'm happy to announce that I finished the 26-mile hike and raised a total of £253.44 which is 101% of my target. Together as a team, we all managed to succeed our targets and in total reached 117% of our goal which amounts to £2,045.87.
+description: "Read more on what I learned about blogging"
 ---
 
 ## 1. Don't just rely on your blog's RSS feed

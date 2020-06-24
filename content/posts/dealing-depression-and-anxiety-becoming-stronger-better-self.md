@@ -2,12 +2,10 @@
 title: Dealing with Depression and Anxiety, becoming a stronger, better self
 date: 2016-07-21
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['depression','anxiety','mental health']
 cover_image: ./images/mike-labrum-151765-unsplash.webp
 canonical_url: false
-description: Hello to anyone that visits my blog post, whether it's your first time
-               or your 100th. You all mean the so much to me and I appreciate you taking the time
-               to read any of my posts.
+description: "As some of you readers may know me by now and possibly read my previous post. Which explained how I went through a hard time with work and built up a lot of anxiety with myself and felt as though I wasn't a good enough developer."
 ---
 
 As some of you readers may know me by now and possibly read my [previous post](/dealing-with-performance-anxiety-and-depression-as-a-web-developer). Which explained how I went through a hard time with work and built up a lot of anxiety with myself and felt as though I wasn't a good enough developer.

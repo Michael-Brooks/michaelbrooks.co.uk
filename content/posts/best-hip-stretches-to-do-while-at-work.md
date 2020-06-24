@@ -2,10 +2,10 @@
 title: Best Hip Stretches to do while at Work
 date: 2019-01-16
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','stretching','fitness']
 cover_image: ./images/rawpixel-284730-unsplash.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "Yesterday, my hips were very tight because of some heavy squats I did on Monday. My hips were very immobile, and today I'll talk you through some hip stretches you can do at work."
 ---
 
 Yesterday, my hips were very tight because of some heavy squats I did on Monday. My hips were very immobile, and today I'll talk you through some hip stretches you can do at work.

@@ -2,10 +2,10 @@
 title: Turn your WordPress Website into a Progressive Web App (PWA)
 date: 2018-07-03
 published: true
-tags: ['Markdown','Test files']
+tags: ['Wordpress','PWA','tutorial']
 cover_image: ./images/36569497_10156029434123935_5932628146892308480_n.webp
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "Some of you may be wondering what a PWA actually is, allow me to explain. It's a JavaScript file that uses Web Sockets that performs various tasks. Tasks such as caching your files for faster page loads. Caching also allows a user to view your website even when the user is offline. This means they can still view all of your wonderful content in mobile or broadband blackspots. This does however mean that it won't be up to date until they have an internet connection, but at least they can still view something."
 ---
 # What is a Progressive Web App?
  

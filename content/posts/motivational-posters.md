@@ -2,14 +2,14 @@
 title: Motivational Posters
 date: 2018-03-01
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['motivation','store','personal','update','merch']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "I have opened up an online store with Woocommerce and Printful and will be selling motivational posters. If you would like to take a look, then head over to this page and see for yourself. If you would like to give feedback, then please feel free to contact me through comments, Twitter or Facebook. I will reply back to you and will take all suggestions on board."
 ---
 
 ## Purchase some motivational posters
 
-I have opened up an online store with Woocommerce and Printful and will be selling motivational posters. If you would like to take a look, then head over to [this page](/blog/motivation/) and see for yourself. If you would like to give feedback, then please feel free to contact me through comments, [Twitter](https://twitter.com/MBrooksUK) or [Facebook](https://www.facebook.com/MBrooksDeveloper/). I will reply back to you and will take all suggestions on board.
+I have opened up an online store with Woocommerce and Printful and will be selling motivational posters. If you would like to take a look, then head over to [this page](/motivation/) and see for yourself. If you would like to give feedback, then please feel free to contact me through comments, [Twitter](https://twitter.com/MBrooksUK) or [Facebook](https://www.facebook.com/MBrooksDeveloper/). I will reply back to you and will take all suggestions on board.
 
 I am also looking to see if you have any issues when going through the checkout process, so if you do decide to purchase, let me know how your experience went. I would love to hear from you.
 

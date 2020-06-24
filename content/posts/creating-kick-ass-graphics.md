@@ -2,12 +2,10 @@
 title: Creating kick ass graphics
 date: 2019-02-18
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['graphics','images','Canva','Unsplash']
 cover_image: ./images/kick-ass.webp
 canonical_url: false
-description: Hello to anyone that visits my blog post, whether it's your first time
-               or your 100th. You all mean the so much to me and I appreciate you taking the time
-               to read any of my posts.
+description: "The latest round of graphics I've been using are a mix of Canva and Unsplash. These are great resources for any blogger or creator out there. With Canva, you have so many templates and styles to choose from. You can literally pick a design that will suit almost any blog."
 ---
 
 The latest round of graphics I've been using are a mix of [Canva](https://www.canva.com/) and [Unsplash](https://unsplash.com/). These are great resources for any blogger or creator out there. With Canva, you have so many templates and styles to choose from. You can literally pick a design that will suit almost any blog.

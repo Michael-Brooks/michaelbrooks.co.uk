@@ -2,9 +2,9 @@
 title: Facebook IFTTT Test
 date: 2017-06-07
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['IFTTT','test','Facebook']
 canonical_url: false
-description: A post on mental health
+description: "Testing for Facebook's IFTTT applet."
 ---
 
 Testing for Facebook's IFTTT applet.

@@ -2,9 +2,9 @@
 title: Attending my best mate's dad's funeral
 date: 2019-01-23
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "I've spent most of today at my best mate's dad's funeral. It was a lovely funeral which went over all of Ron's highlights, from farming to fishing and karting, and being a fantastic father. He had many issues like many, but he lived an overall happy and eventful life and spent a lot of time with his wife and kids."
 ---
 
 I've spent most of today at my best mate's dad's funeral. It was a lovely funeral which went over all of Ron's highlights, from farming to fishing and karting, and being a fantastic father. He had many issues like many, but he lived an overall happy and eventful life and spent a lot of time with his wife and kids.

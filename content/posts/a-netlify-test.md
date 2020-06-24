@@ -2,10 +2,10 @@
 title: A Netlify Test
 date: 2019-07-08
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update','Wordpress','VuePress','Netlify']
 cover_image: ./images/netlify-image.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "Last week I signed into my WordPress blog and found I had errors. These errors seemed to have occurred through my Neve theme which may have been caused by an upgrade somewhere along the lines. I tried to trace the errors back through my daily backups, but it seemed no matter what I did, I still had errors."
 ---
 
 # A Netlify Test

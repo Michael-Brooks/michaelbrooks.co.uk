@@ -2,10 +2,10 @@
 title: Favourite connections of the year 2018
 date: 2018-11-16
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['network','friends','personal']
 cover_image: ./images/Association_Membership_Networking_Connections.webp
 canonical_url: false
-description: A post on mental health
+description: "I feel like I've made so many connections this year and for that alone makes me truly grateful for 2018."
 ---
 
 I feel like I've made so many connections this year and for that alone makes me truly grateful for 2018. 

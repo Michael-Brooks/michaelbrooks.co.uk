@@ -2,9 +2,9 @@
 title: My Protein - Impact Whey Protein Review
 date: 2017-01-22
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['fitness','protein','review']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "I use MyProtein all the time for my protein powders because I feel they can't be beaten on price or on quality. They have a whole range of flavours and I tend to mix and max between chocolate, strawberry and vanilla variants. They have so many flavours to choose from that makes you want to try them all!"
 ---
 
 ![Impact Whey Protein Ingredients](https://www.barbellsandbeards.com/wp-content/uploads/2015/12/MyProtein-Impact-Whey-Amino-Acids.jpg)

@@ -2,10 +2,10 @@
 title: Appreciation Post
 date: 2019-02-04
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['mental health','personal']
 cover_image: ./images/caleb-white-1343009-unsplash.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "As it's a Monday, and Monday's can usually bring us down. I thought I would use this post as a way of appreciation. I want to thank all of my blog, email, Twitter followers, friends and family. Without you reading my blog and the support you give, I probably wouldn't have created so many posts in such a short time-span."
 ---
 
 As it's a Monday, and Monday's can usually bring us down. I thought I would use this post as a way of appreciation. I want to thank all of my blog, email, Twitter followers, friends and family. Without you reading my blog and the support you give, I probably wouldn't have created so many posts in such a short time-span.
@@ -14,4 +14,4 @@ I managed to kick my anxiety which would tell me not to post because no one woul
 
 If this is the first post you've read, then please take a look at my past posts. I'm hoping you will like my content and stick around. You can even follow my RSS feed, or you can subscribe to my newsletter using the sidebar. I have [Twitter](https://twitter.com/MBrooksUK) and [Facebook](https://www.facebook.com/MBrooksDeveloper/) if that's more your thing.
 
-What are you grateful or appreciative of this month? Let me know in the comments below. ?
+What are you grateful or appreciative of this month? Let me know in the comments below.

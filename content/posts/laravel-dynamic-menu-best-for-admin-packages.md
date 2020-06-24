@@ -2,16 +2,14 @@
 title: Laravel Dynamic Menu Tutorial (Best for Admin packages)
 date: 2014-05-20
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Laravel','tutorial','PHP']
 canonical_url: false
-description: "This little command is a lifesaver and will save you so much time when switching and merging previous branches in your GIT workflow."
+description: "Thanks to this very Laravel topic over at Laravel.io and Josh Benham I managed to find out how to make my very own"
 ---
 
 # Laravel Dynamic Menu Tutorial (Best for Admin packages)
 
-[Learn more Laravel](/blog/top-5-laravel-books/)
-
- 
+[Learn more Laravel](/top-5-laravel-books/)
 
 ## Creating a dynamic menu
 
@@ -20,7 +18,7 @@ dynamic menu (which is great if you would like to make a reusable admin package)
 exactly how it's done and hopefully, you will now be able to make amazing admin packages for Laravel.
 
 For those that just want the package then you can download it the
-[Laravel dynamic navigation package](/blog/laravel-dynamic-menu-best-for-admin-packages/).
+[Laravel dynamic navigation package](/laravel-dynamic-menu-best-for-admin-packages/).
 Otherwise, continue below.
 
 First off, I am doing this in my very own package, so my directory structure will look pretty much like anyone else file

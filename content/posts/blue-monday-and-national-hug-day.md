@@ -2,10 +2,10 @@
 title: Blue Monday and National Hug Day
 date: 2019-01-21
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['work','blue monday','general']
 cover_image: ./images/50412338_2154778984590024_582290637831798784_o.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "Today is apparently blue Monday (I say apparently because of this post). It is also National Hug Day which is a better thing to celebrate. Our workplace decided to celebrate both days anyway, and we came in wearing blue and ready to hug anyone who was willing."
 ---
 
 Today is apparently blue Monday (I say apparently because of [this post](http://www.gizmodo.co.uk/2019/01/reminder-blue-monday-isnt-real/)). It is also National Hug Day which is a better thing to celebrate. Our workplace decided to celebrate both days anyway, and we came in wearing blue and ready to hug anyone who was willing. ?

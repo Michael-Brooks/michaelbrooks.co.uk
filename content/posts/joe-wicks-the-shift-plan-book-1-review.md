@@ -2,7 +2,7 @@
 title: Joe Wicks - The Shift Plan (Book 1) review
 date: 2016-10-21
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Joe Wicks','book review']
 canonical_url: false
 description: "Joe Wicks has become a loveable character with his charm and witty banter. When I first saw him on Channel 4 Joe Wicks: The Body Coach, I couldn't help but think how annoying he was, but wow did his food look amazing..."
 ---

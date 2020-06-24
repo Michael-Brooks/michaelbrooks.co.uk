@@ -2,7 +2,7 @@
 title: I Competed at Battle Cancer
 date: 2018-10-24
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Battle Cancer','charity','Crossfit']
 cover_image: ./images/FB_IMG_1540153300600.webp
 canonical_url: false
 description: "On Saturday the 20th of October, I competed at Battle Cancer alongside 3 of my CrossFit friends; Pete, Phil and Matt. The event had somewhere around 1,000 people attending to watch a range of CrossFit teams compete with one another."

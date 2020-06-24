@@ -2,9 +2,9 @@
 title: Barclays has fixed Windows 10 - Creators Update app issues
 date: 2017-06-01
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Barclays','Windows']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "Today, Barclays fixed some major issues which it had with Windows 10 mobile devices running on the creators update. First issue it ran into when this update was released was a message saying Sorry, Barclays Mobile Banking is not supported on jailbroken devices."
 ---
 
 Today, Barclays fixed some major issues which it had with Windows 10 mobile devices running on the creators update. First issue it ran into when this update was released was a message saying "Sorry, Barclays Mobile Banking is not supported on jailbroken devices".

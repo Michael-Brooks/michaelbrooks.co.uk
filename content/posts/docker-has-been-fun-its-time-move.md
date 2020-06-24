@@ -2,9 +2,9 @@
 title: Docker has been fun, but it's time to move on...
 date: 2016-07-13
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Docker','general','personal','update']
 canonical_url: false
-description: How to overcome this annoying error.
+description: "As a few of you may know, I have been using Docker for some time to deploy my site with. It's been a great learning experience for me and is something I wish to carry on with."
 ---
 
 As a few of you may know, I have been using [Docker](https://docker.com) for some time to deploy my site with. It's been a great learning experience for me and is something I wish to carry on with.

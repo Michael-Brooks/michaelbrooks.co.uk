@@ -2,10 +2,10 @@
 title: Moving away from Facebook services
 date: 2019-01-30
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Facebook','Whatsapp','Signal','Twitter','Vero']
 cover_image: ./images/facebook-research-vpn-project-atlas.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "To start, this isn't a we must all move away from Facebook, now!. This is me feeling like I want to move away from Facebook and their services. Facebook plans to merge all their messaging services to allow all their users to connect through either Messenger, Instagram or WhatApp. Some of my friends think this is good news as you'll only need one app. However, I'm starting to feel a little uneasy in this situation."
 ---
 
 To start, this isn't a "we must all move away from Facebook, now!". This is me feeling like I want to move away from Facebook and their services. Facebook plans to merge all their messaging services to allow all their users to connect through either Messenger, Instagram or WhatApp. Some of my friends think this is good news as you'll only need one app. However, I'm starting to feel a little uneasy in this situation.
@@ -18,4 +18,4 @@ I've moved from WhatsApp to Signal. Although I still have the app due to friends
 
 I could start with uninstalling them on my phone and only using the browser version. This is beneficial because I have addons which block ads and tracking. This means it will be harder for Facebook to track my data and I'll be in more control. I can announce on Facebook that I will hardly be using it in favour of my personal website. Personal websites are a much better place anyway as you have tons more control and people can get a much better insight of you.
 
-What are your thoughts on the situation? Have you moved away already? Are you in the process of moving away, or would you rather stay? Let me know in the comments below. ?
+What are your thoughts on the situation? Have you moved away already? Are you in the process of moving away, or would you rather stay? Let me know in the comments below.

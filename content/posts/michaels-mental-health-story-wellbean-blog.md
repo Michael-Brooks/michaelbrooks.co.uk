@@ -2,9 +2,9 @@
 title: Michael’s mental health story — Wellbean blog
 date: 2019-03-07
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['mental health','personal','update']
 canonical_url: false
-description: "This little command is a lifesaver and will save you so much time when switching and merging previous branches in your GIT workflow."
+description: "I'm happy to accounce that my mental health story has been published on WellBean's blog. If you would like to give it a read, then please head over to the link below. Thank you for taking your time to read it."
 ---
 
 I'm happy to accounce that my mental health story has been published on WellBean's blog. If you would like to give it a read, then please head over to the link below. Thank you for taking your time to read it.

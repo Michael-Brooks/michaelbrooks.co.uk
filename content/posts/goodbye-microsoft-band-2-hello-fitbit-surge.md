@@ -2,9 +2,9 @@
 title: Goodbye Microsoft Band 2, hello Fitbit Surge
 date: 2016-10-19
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Microsoft','fitness','Fitbit']
 canonical_url: false
-description: "On Saturday the 20th of October, I competed at Battle Cancer alongside 3 of my CrossFit friends; Pete, Phil and Matt. The event had somewhere around 1,000 people attending to watch a range of CrossFit teams compete with one another."
+description: "6 months ago, I had been given a Microsoft band 2 as a loving birthday present. I thought it was a great device which had so many great features, but unfortunately the wear and tear of the device eventually let it down."
 ---
 
 6 months ago, I had been given a Microsoft band 2 as a loving birthday present. I thought it was a great device which had so many great features, but unfortunately the wear and tear of the device eventually let it down.

@@ -2,10 +2,10 @@
 title: Favourite album of the year 2018
 date: 2018-11-16
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Mike Shinoda','music','personal']
 cover_image: ./images/Mike-Shinoda-of-Linkin-Park_-Post-Traumatic.webp
 canonical_url: false
-description: A post on mental health
+description: "This year has been a great year for music releases. We had a surprise album from the amazing Eminem. His album came with a bang and was a great listen for me. Unfortunately, the album was short lived for me, and I have only listened to it a couple of times."
 ---
 
 This year has been a great year for music releases. We had a surprise album from the amazing Eminem. His album came with a bang and was a great listen for me. Unfortunately, the album was short lived for me, and I have only listened to it a couple of times.

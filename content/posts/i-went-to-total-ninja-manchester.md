@@ -2,10 +2,10 @@
 title: I went to Total Ninja (Manchester)
 date: 2018-11-05
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['fitness','ninja warrior','personal']
 cover_image: ./images/FB_IMG_1541251697077.webp
 canonical_url: false
-description: "I watched a video today by the lovely Anna Reel where she says \"In spite of fear, do it anyway\". This pretty much goes along with what I've read. A book called Feel the Fear and do it anyway explains it in much better detail. However, the basics of it are, if you fear something, you should do it anyway. Usually the best outcomes in life are because you faced fear head on."
+description: "My nephew, wife and I went up to Oldham last weekend to visit my mum. While we were up there, my wife decided to book an hour of Total Ninja in Manchester which was booked online."
 ---
 
 My nephew, wife and I went up to Oldham last weekend to visit my mum. While we were up there, my wife decided to book an hour of Total Ninja in Manchester which was [booked online](http://www.totalninja.co.uk/).

@@ -2,9 +2,9 @@
 title: New Blog Design
 date: 2014-11-06
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update','website refresh']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "It's been a while since I've post and for that, I do appologise. My head has been loaded with ideas and new projects that I absolutely would love to get started on, but I tend to try and start 100 all at once and then get too agitated because none of them are working for me or just get pushed away."
 ---
 
 It's been a while since I've post and for that, I do appologise. My head has been loaded with ideas and new projects that I absolutely would love to get started on, but I tend to try and start 100 all at once and then get too agitated because none of them are working for me or just get pushed away.

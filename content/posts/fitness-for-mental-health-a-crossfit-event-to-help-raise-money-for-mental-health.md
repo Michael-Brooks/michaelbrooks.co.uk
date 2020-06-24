@@ -2,13 +2,13 @@
 title: Fitness for Mental Health a CrossFit event to help raise money for mental health
 date: 2019-09-27T07:58:50.717Z
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['mental health','charity','merch']
 cover_image: ./images/img_20190912_064703.jpg
 canonical_url: false
-description: A post on mental health
+description: "The information below was taken from my Just Giving page, if you would like to donate then please head over to this link where your donation will be hugely appreciated. Also, if you would like to buy some Fitness for Mental Health merch, head over to here where 90% of all profits will be doanted to Mind Charity."
 ---
 
-The information below was taken from my [Just Giving page](/mind), if you would like to donate then please head over to [this link](/mind) where your donation will be hugely appreciated. Also, if you would like to buy some ["Fitness for Mental Health" merch](/mental-health), head over [to here](mental-health) where 90% of all profits will be doanted to Mind Charity.
+The information below was taken from my [Just Giving page](/mind), if you would like to donate then please head over to [this link](/mind) where your donation will be hugely appreciated. Also, if you would like to buy some ["Fitness for Mental Health" merch](/mental-health), head over [to here](/mental-health) where 90% of all profits will be doanted to Mind Charity.
 
 We will be performing a Crossfit workout named Becky on the 12th of October. Anyone can participate and all donations will be greatly appreciated. If you do perform the workout, a video of your performance will also be greatly appreciated too, in order to help spread and raise awareness for mental health. You can use the hashtag #FitnessForMentalHealth on all your favourite social networks to help spread awareness.
 

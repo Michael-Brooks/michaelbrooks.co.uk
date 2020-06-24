@@ -2,10 +2,10 @@
 title: 75% of target reached for the Macmillan Mighty Hike
 date: 2019-06-07
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['charity','fitness']
 cover_image: ./images/9624bf7d-7293-4a71-bb19-290aa2fdb0ff.webp
 canonical_url: false
-description: It's been over a week since my colleagues and I completed the Jurassic Hike for Macmillan cancer support. I'm happy to announce that I finished the 26-mile hike and raised a total of £253.44 which is 101% of my target. Together as a team, we all managed to succeed our targets and in total reached 117% of our goal which amounts to £2,045.87.
+description: "For everyone who has donated and shared, I just wanted to say a massive thank you. The event starts next week and it's a gruelling 26-mile hike. We are now 75% towards our target, and I need your help to reach 100%. Please donate if you can, if not then please share this article so others can see."
 ---
 
 For everyone who has donated and shared, I just wanted to say a massive thank you. The event starts next week and it's a gruelling 26-mile hike. We are now 75% towards our target, and I need your help to reach 100%. Please donate if you can, if not then please share this article so others can see.

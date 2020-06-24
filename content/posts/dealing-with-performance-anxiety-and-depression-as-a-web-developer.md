@@ -2,12 +2,10 @@
 title: Dealing with Performance Anxiety and Depression as a Web Developer
 date: 2016-01-26
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['anxiety','depression','mental health']
 cover_image: ./images/Coping-With-Anxiety-and-Depression-722x406.webp
 canonical_url: false
-description: Hello to anyone that visits my blog post, whether it's your first time
-               or your 100th. You all mean the so much to me and I appreciate you taking the time
-               to read any of my posts.
+description: "It has been a year since I had been let go from previous employment and whilst the circumstances were understandable. It really did hit me. Performance anxiety was something which was unexpected and I really thought I was going somewhere with the company. I expected to be there for at least 3 years. When they told me the circumstances, I tried to fight my corner in order to carry on working for them. But because they were struggling themselves, there was nothing that they nor I could do."
 ---
 
 ## Performance anxiety sucks

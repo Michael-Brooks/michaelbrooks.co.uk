@@ -2,10 +2,10 @@
 title: A year of Fitbit statistics...
 date: 2019-01-22
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','fitness','Fitbit']
 cover_image: ./images/DxfiTFrWkAAJLSm.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "This morning I decided to take a look at my Fitbit stats, and I thought... "I wonder what my yearly stats are like". Taking a look, and I am really surprised by these stats. You can see what they are below, and as you can see, I have accomplished a lot."
 ---
 
 This morning I decided to take a look at my Fitbit stats, and I thought... "I wonder what my yearly stats are like". Taking a look, and I am really surprised by these stats. You can see what they are below, and as you can see, I have accomplished a lot.

@@ -2,9 +2,9 @@
 title: Moltin API
 date: 2016-04-13
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Moltin','API','PHP']
 canonical_url: false
-description: "This little command is a lifesaver and will save you so much time when switching and merging previous branches in your GIT workflow."
+description: "I want to introduce you guys to an awesome e-commerce API called Moltin. It takes out so much hard work when it comes to creating an e-commerce platform and I have been working with the API to try and create an open source Laravel e-commerce platform which utilises the Moltin API as the core part of the app."
 ---
 
 I want to introduce you guys to an awesome e-commerce API called [Moltin](https://moltin.com/). It takes out so much hard work when it comes to creating an e-commerce platform and I have been working with the API to try and create an open source [Laravel](https://laravel.com) e-commerce platform which utilises the [Moltin](https://moltin.com/) API as the core part of the app.

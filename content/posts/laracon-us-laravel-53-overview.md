@@ -2,9 +2,9 @@
 title: Laracon US - Laravel 5.3 overview
 date: 2016-07-29
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Laravel','Laracon','PHP']
 canonical_url: false
-description: "For this tutorial, I will show you guys how I managed to create an image uploader for your profile image. This is very similar to how Facebook's/Twitter's functionality."
+description: "The last two days I have been keeping an eye on the Laracon US live stream shown on StreamACon and while the first day of the stream didn't go too well, the second days stream has been phenomenal (Review will be coming soon)."
 ---
 
 The last two days I have been keeping an eye on the Laracon US live stream shown on [StreamACon](https://streamacon.com) and while the first day of the stream didn't go too well, the second days stream has been phenomenal (Review will be coming soon).

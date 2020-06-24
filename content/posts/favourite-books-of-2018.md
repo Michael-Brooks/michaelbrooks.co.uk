@@ -2,10 +2,10 @@
 title: Favourite books of 2018
 date: 2018-12-26
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['books','reading','personal']
 cover_image: ./images/jaredd-craig-744902-unsplash-min.webp
 canonical_url: false
-description: A post on mental health
+description: "I'm not sure about the number of books I read this year, but I read a good amount. They're mainly self-help books and a few on marketing, so if you're looking for something on web dev or graphic design, then I'm afraid you're out of luck."
 ---
 
 I'm not sure about the number of books I read this year, but I read a good amount. They're mainly self-help books and a few on marketing, so if you're looking for something on web dev or graphic design, then I'm afraid you're out of luck.

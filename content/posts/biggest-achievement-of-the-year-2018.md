@@ -2,10 +2,10 @@
 title: Biggest achievement of the year 2018
 date: 2018-12-11
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','journey','update']
 cover_image: ./images/paula-may-540833-unsplash-min.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "My biggest achievement for this year is staying with my current company for as long as I have. This may sound daft, but bare with me..."
 ---
 
 My biggest achievement for this year is staying with my current company for as long as I have. This may sound daft, but bare with me...

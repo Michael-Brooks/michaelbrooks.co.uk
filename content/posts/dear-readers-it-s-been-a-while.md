@@ -2,12 +2,10 @@
 title: Dear readers, it's been a while
 date: 2020-06-10
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','general','update']
 cover_image: ./images/blog-header-image.png
 canonical_url: false
-description: Hello to anyone that visits my blog post, whether it's your first time
-               or your 100th. You all mean the so much to me and I appreciate you taking the time
-               to read any of my posts.
+description: "Hello to anyone that visits my blog post, whether it's your first time or your 100th. You all mean the so much to me and I appreciate you taking the time to read any of my posts."
 ---
 
 Hello to anyone that visits my blog post, whether it's your first time or your 100th. You all mean the so much to me and I appreciate you taking the time to read any of my posts.

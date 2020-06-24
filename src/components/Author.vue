@@ -12,8 +12,8 @@
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/MBrooksUK">Follow on Twitter</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">GitHub</a>
+			<a href="https://twitter.com/MBrooksUK">Follow on Twitter</a>
+			<a href="https://github.com/Michael-Brooks">GitHub</a>
 		</p>
 
 		<div style="text-align: center">

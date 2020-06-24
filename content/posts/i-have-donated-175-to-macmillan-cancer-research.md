@@ -2,7 +2,7 @@
 title: I have donated £175 to Macmillan Cancer Research
 date: 2018-11-01
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Crossfit','personal','fitness','Battle Cancer','charity']
 cover_image: ./images/donation.webp
 canonical_url: false
 description: "A few weeks ago, I took part in a Crossfit event called Battle Cancer. This event was in aid of Macmillan Cancer Research, and it was a spectacular event."

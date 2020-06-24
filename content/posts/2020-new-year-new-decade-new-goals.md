@@ -2,20 +2,18 @@
 title: 2020 - New Year - New Decade - New Goals
 date: 2020-01-02
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update','goals']
 cover_image: ./images/kelly-sikkema-PXl_S152jNM-unsplash.jpg
 canonical_url: false
-description: Last year has been yet another rollercoaster. I wanted to stay working
+description: "Last year has been yet another rollercoaster. I wanted to stay working
                at Lightfoot for another year, but it didn't quite turn out as well as I had hoped.
                I started my own business to become a contractor, and my wife is still using pet-sitting
-               as a side hustle.
+               as a side hustle."
 ---
 
 ## Looking back at 2019
 
-Last year has been yet another big rollercoaster. I wanted to stay working at Lightfoot for another year, but it didn't quite turn out as well as I had hoped. I started my own business to become a contractor, and my wife is still using pet-sitting as a side hustle. 
-
-
+Last year has been yet another big rollercoaster. I wanted to stay working at Lightfoot for another year, but it didn't quite turn out as well as I had hoped. I started my own business to become a contractor, and my wife is still using pet-sitting as a side hustle.
 
 Lightfoot, unfortunately, had money issues after missing out on sales targets. This left them with the horrible misfortune of letting employees go. I was one of them, but I managed to bounce back almost straight away. I started my own limited company and began contracting with the University of Exeter.
 

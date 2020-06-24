@@ -2,10 +2,10 @@
 title: Excited for the new Spider-Man movie
 date: 2019-01-15
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Spiderman','movie','personal']
 cover_image: ./images/Spider-Man-Far-From-Home-Trailer-Breakdown.webp
 canonical_url: false
-description: If you haven't watched Avengers Infinity War and don't know the ending, I suggest you look away now. YOU HAVE BEEN WARNED!
+description: "If you haven't watched Avengers Infinity War and don't know the ending, I suggest you look away now. YOU HAVE BEEN WARNED!"
 ---
 
 ## POSSIBLE SPOILER ALERT!

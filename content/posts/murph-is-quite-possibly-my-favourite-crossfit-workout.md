@@ -2,10 +2,10 @@
 title: Murph is quite possibly my favourite CrossFit Workout
 date: 2018-05-29
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Crossfit','fitness','personal','Murph']
 cover_image: ./images/b2cad5_d5fe5e4e923344a19404dfeffbdf24d2mv2.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "It's not only to remind us of the great Michael Murphy who served for the US Navy, but it's also to remind us of friends and family who have served for our country (where ever you may be), it's to remind us of all our doctors, nurses, firefighters and police officers. It's also to remind us to be kind and help each other through tough times (e.g. this workout)."
 ---
 
 # And here's why...

@@ -2,10 +2,10 @@
 title: I did a tandem skydive at 15,000ft
 date: 2018-05-14
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['sky dive','personal','fitness']
 cover_image: ./images/IMG_20180512_181022.webp
 canonical_url: false
-description: "A few weeks ago, I took part in a Crossfit event called Battle Cancer. This event was in aid of Macmillan Cancer Research, and it was a spectacular event."
+description: "Last Saturday, I took a tandem skydive thanks to my lovely wife who bought it for my birthday present. I have to say, I wasn't nervous at all, calm as a cucumber in fact. I always try to never over think any situation and say to myself... It's been done a million times before, they are experts and I'm going to be fine."
 ---
 
 # Tandem skydives are an exhilarating experience.

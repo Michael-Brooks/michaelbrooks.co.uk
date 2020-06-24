@@ -2,12 +2,10 @@
 title: Crossfit Open 2019
 date: 2019-02-17
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Crossfit','Crossfit open','fitness']
 cover_image: ./images/crossfit-open-2019.webp
 canonical_url: false
-description: Hello to anyone that visits my blog post, whether it's your first time
-               or your 100th. You all mean the so much to me and I appreciate you taking the time
-               to read any of my posts.
+description: "In 4 to 5 days, we will be finding out what our first workout called 19.1 will be. This will be my third year going into the open, and I'm not nervous. The open workouts are just a way for me to see how I stack against my previous self and those within my box. It is nothing more than a benchmark, and I'm sure it's the same for a lot of people. It's always exciting to see athletes compete on top form and they always seem to make it look so easy. I used to think that I could do it like them, but I've learnt I'll never be as good as they are."
 ---
 
 In 4 to 5 days, we will be finding out what our first workout called 19.1 will be. This will be my third year going into the open, and I'm not nervous. The open workouts are just a way for me to see how I stack against my previous self and those within my box. It is nothing more than a benchmark, and I'm sure it's the same for a lot of people. It's always exciting to see athletes compete on top form and they always seem to make it look so easy. I used to think that I could do it like them, but I've learnt I'll never be as good as they are.

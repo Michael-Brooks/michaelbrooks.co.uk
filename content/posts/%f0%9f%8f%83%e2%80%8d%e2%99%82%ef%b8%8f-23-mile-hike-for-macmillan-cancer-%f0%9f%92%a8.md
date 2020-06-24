@@ -2,10 +2,10 @@
 title: 🏃‍♂️ 23-mile hike for Macmillan Cancer 💨
 date: 2019-01-03
 published: true
-tags: ['Markdown','Test files']
+tags: ['fitness','charity']
 cover_image: ./images/david-marcu-69433-unsplash-min.webp
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "On the 15th of June, I will be taking part in a 23-mile hike for Macmillan Cancer with a few colleagues from work, and I am super excited to be taking part in this. We will all be training together, but I'm not too worried. I've been doing CrossFit for over 3 years and feel I have it in the bag. 💪"
 ---
 
 On the 15th of June, I will be taking part in a 23-mile hike for Macmillan Cancer with a few colleagues from work, and I am super excited to be taking part in this. We will all be training together, but I'm not too worried. I've been doing CrossFit for over 3 years and feel I have it in the bag. 💪

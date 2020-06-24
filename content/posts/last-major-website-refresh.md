@@ -2,9 +2,9 @@
 title: Last major website refresh
 date: 2018-01-28
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['personal','update']
 canonical_url: false
-description: "This little command is a lifesaver and will save you so much time when switching and merging previous branches in your GIT workflow."
+description: "I have updated my website again and moved it from OctoberCMS to WordPress. The process was fairly easy and I am glad to have finally made the move. WordPress is a great blogging platform and although it gets a lot of bad rep, it is a great platform to be on. WordPress is hosted on over 80% of the internet and it's completely open source which means you simply can not go wrong with using it."
 ---
 
 <iframe width="300" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/390538164&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span></iframe>

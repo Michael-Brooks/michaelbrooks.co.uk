@@ -2,9 +2,9 @@
 title: Challenging myself continued...
 date: 2019-01-17
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['challenge','general','update']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "In November, I created a post on challenging myself and connecting with other bloggers (read here). Firstly, my mission was to start conversations with other blogs (or bloggers) that aren't on Medium (read why) I feel like the challenge is going well, and I've started to create stronger relationships with fellow bloggers. My friend Eric L Barnes shared his RSS list which gave me a good head start."
 ---
 
 In November, I created a post on challenging myself and connecting with other bloggers ([read here](/blog/challenging-myself/)). Firstly, my mission was to start conversations with other blogs (or bloggers) that aren't on Medium ([read why](/blog/at-the-cost-of-your-users-john-saddington/)). I feel like the challenge is going well, and I've started to create stronger relationships with fellow bloggers. My friend [Eric L Barnes](https://ericlbarnes.com/) shared his RSS list which gave me a good head start.

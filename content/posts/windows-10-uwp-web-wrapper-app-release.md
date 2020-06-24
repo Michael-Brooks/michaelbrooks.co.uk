@@ -2,9 +2,9 @@
 title: Windows 10 UWP Web Wrapper App Release
 date: 2016-04-09
 published: true
-tags: ['Markdown','Test files']
+tags: ['Windows','Microsoft','app development']
 canonical_url: false
-description: "Markdown is intended to be as easy-to-read and easy-to-write as is feasible. Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions."
+description: "At the beginning of this week, I had decided to give myself a little project of creating an app for the Windows 10 ecosystem. I wanted to my website to be a Windows 10 app and I wanted to create this with as little effort as possible."
 ---
 
 At the beginning of this week, I had decided to give myself a little project of creating an app for the Windows 10 ecosystem. I wanted to my website to be a Windows 10 app and I wanted to create this with as little effort as possible.

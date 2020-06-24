@@ -2,14 +2,14 @@
 title: How to containerize your PHP/NGINX docker project properly
 date: 2016-04-11
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Docker','PHP','NGINX','tutorial']
 canonical_url: false
-description: "On Saturday the 20th of October, I competed at Battle Cancer alongside 3 of my CrossFit friends; Pete, Phil and Matt. The event had somewhere around 1,000 people attending to watch a range of CrossFit teams compete with one another."
+description: "This evening, I had myself a little challenge. I would turn my two containers (MariaDB and my own built container) into more containers, but using the power of Docker's official container repos. E.g. I would have 3 containers in total PHP7-FPM, NGINX and my already created MariaDB."
 ---
 
 This evening, I had myself a little challenge. I would turn my two containers (MariaDB and my own built container) into more containers, but using the power of Docker's official container repos. E.g. I would have 3 containers in total PHP7-FPM, NGINX and my already created MariaDB.
 
-If you don't know my steps I previously created, you can check it out [here](/blog/post/hosting-your-site-digital-ocean-and-docker) and skip to MariaDB for your database container and settings.
+If you don't know my steps I previously created, you can check it out [here](/hosting-your-site-digital-ocean-and-docker) and skip to MariaDB for your database container and settings.
 
 First off, I used the PHP container and followed instructions to have a PHP7-FPM container. You can see below for the Docker file, just copy it and run the command below...
 

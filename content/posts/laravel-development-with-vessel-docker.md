@@ -2,7 +2,7 @@
 title: Laravel Development with Vessel (Docker)
 date: 2018-06-19
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Laravel','Vessel','PHP','Docker']
 cover_image: ./images/subsea_vessels.webp
 canonical_url: false
 description: "Learn how to get started with Vessel"

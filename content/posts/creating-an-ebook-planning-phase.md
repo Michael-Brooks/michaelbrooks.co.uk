@@ -2,12 +2,10 @@
 title: Creating an ebook (planning phase)
 date: 2019-02-08
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['ebook','for sale','update']
 cover_image: ./images/jonas-jacobsson-545909-unsplash.webp
 canonical_url: false
-description: Hello to anyone that visits my blog post, whether it's your first time
-               or your 100th. You all mean the so much to me and I appreciate you taking the time
-               to read any of my posts.
+description: "I've got this thing in my mind where I want to build something that gives value but also makes me some income. Mainly so I can just get out of debt. Also so I can never figure out what it is I want to do and I always get so overwhelmed and stressed. I put this pressure on myself and think..."
 ---
 
 I've got this thing in my mind where I want to build something that gives value but also makes me some income. Mainly so I can just get out of debt. Also so I can never figure out what it is I want to do and I always get so overwhelmed and stressed. I put this pressure on myself and think...

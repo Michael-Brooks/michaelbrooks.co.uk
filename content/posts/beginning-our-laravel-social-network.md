@@ -2,9 +2,9 @@
 title: The beginning of our Laravel social network
 date: 2016-07-22
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Laravel','social network','PHP']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "A long while back, I said I would love to create and document making a social networking website using the Laravel framework, well that hasn't happened, like at all."
 ---
 
 A long while back, I said I would love to create and document making a social networking website using the Laravel framework, well that hasn't happened, like at all.

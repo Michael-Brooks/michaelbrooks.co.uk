@@ -2,9 +2,9 @@
 title: Brand New Website, Brand New Start
 date: 2014-03-28
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['website refresh','personal','update','watchthisspace']
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "Of becoming a Web Master. It's been a while since I properly posted on my Blog. And so I wondered the best way to go about this. As I went back to my old site and old Blog. I looked at it and I couldn't help but think that the way of making templates on Blogger was a bit too tedious and slap-dashed and was in need of a new website."
 ---
 
 ## Here I go again, on my quest for a new website...

@@ -2,10 +2,10 @@
 title: Brave Browser and Basic Attention Tokens (BAT)
 date: 2018-02-15
 published: true
-tags: ['ReactPHP','Symfony','PHP']
+tags: ['Brave browser','ads','ad blocking']
 cover_image: ./images/daniel-jensen-363755.webp
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
+description: "I've installed a new web browser called Brave and it offers users the ability to transfer BAT coins to the browser. You can distribute those coins to creators/publishers and the Brave Browser will allocate the coins respectively based on watch/view time. You have full control over who gets what and you can delete specific creators."
 ---
 
 ## Brave Browser, a new era in browsing
