@@ -20,25 +20,33 @@ fields:
     export_format: YYYY-MM-DD
   default: now
 - name: published
-  type: text
+  type: select
+  default: []
   config:
     required: false
+    options:
+    - 'true'
+    - 'false'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: Published
 - name: tags
   type: tag_list
   default: []
   label: Tags
+- name: canonical_url
+  type: text
+  config:
+    required: false
+  label: Canonical URL
 - name: cover_image
   type: file
   config:
     maxSize: 64
   label: Cover Image
-- name: canonical_url
-  type: text
-  config:
-    required: false
-  label: Canonical Url
-  default: 'false'
 - name: description
   type: textarea
   default: ''
