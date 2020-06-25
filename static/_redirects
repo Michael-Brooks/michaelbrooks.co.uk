@@ -1,6 +1,13 @@
+# External redirects
 /mind  https://www.justgiving.com/fundraising/michaelbrooks-mind
 /mental-health  https://shop.spreadshirt.co.uk/fitness-for-mental-health/
+
+# Internal redirects
 /post/top-5-laravel-books.html /top-5-laravel-books
-/post/top-5-laravel-books /top-5-laravel-books
-/post/laravel-dynamic-menu-(best-for-admin-packages) https://michaelbrooks.co.uk/laravel-dynamic-menu-tutorial-best-for-admin-packages/
+/post/top-5-laravel-books /5-of-the-best-laravel-books/
+/post/laravel-dynamic-menu-(best-for-admin-packages) /laravel-dynamic-menu-tutorial-best-for-admin-packages/
+
+/top-5-laravel-books /5-of-the-best-laravel-books/
 /fitness-for-mental-health-a-crossfit-event-to-help-raise-money-for-mental-health.html /fitness-for-mental-health-a-cross-fit-event-to-help-raise-money-for-mental-health/
+/laravel-dynamic-menu-best-for-admin-packages /laravel-dynamic-menu-tutorial-best-for-admin-packages/
+/using-vagrant-and-homestead-little-steps-possible-project-install.html /using-vagrant-and-homestead-in-as-little-steps-as-possible-per-project-install/
