@@ -21,12 +21,12 @@ fields:
   default: now
 - name: published
   type: select
-  default: 'false'
+  default: false
   config:
     required: false
     options:
-    - 'true'
-    - 'false'
+    - true
+    - false
     source:
       type: simple
       section: 
