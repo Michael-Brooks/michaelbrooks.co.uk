@@ -20,27 +20,15 @@ fields:
     export_format: YYYY-MM-DD
   default: now
 - name: published
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - 'true'
-    - 'false'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+  type: boolean
   label: Published
+  description: Mark post as published
 - name: tags
   type: tag_list
   default: []
   label: Tags
 - name: canonical_url
-  type: text
-  config:
-    required: false
+  type: boolean
   label: Canonical URL
 - name: cover_image
   type: file
