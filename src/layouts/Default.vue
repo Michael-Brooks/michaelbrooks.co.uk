@@ -3,7 +3,7 @@
 
         <header>
             <nav class="flex items-center justify-between flex-wrap bg-black p-6">
-                <div class="flex items-center flex-shrink-0 text-white mr-6">
+                <div class="flex items-center flex-shrink-0 text-white lg:mr-6 mx-auto text-center">
                     <Logo />
                 </div>
                 <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
@@ -24,8 +24,8 @@
                             </g-link>
                         </div>
                     </div>
-                    <div>
-                        <g-link to="/blog" class="block px-6 py-2 mt-4 mr-16 lg:mt-0 marker text-2xl">Blog</g-link>
+                    <div class="text-center">
+                        <g-link to="/blog" class="block px-6 py-2 mt-4 lg:mr-16 lg:mt-0 marker text-2xl">Blog</g-link>
                     </div>
                 </div>
             </nav>

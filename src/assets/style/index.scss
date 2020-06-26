@@ -41,9 +41,6 @@ input {
 .search-results {
   left: 269px;
   top: 35px;
-}
-
-.search-results {
   z-index: 101;
   border: solid #FFF01A;
   a {
@@ -91,4 +88,115 @@ input {
 
 .dark-blue {
   background: #002F3C;
+}
+
+
+@media (max-width: 1080px) {
+  .latest-heading {
+    right: 155px;
+  }
+
+  .yellow-bg {
+    left: 70px;
+  }
+
+  .post-container {
+    height: 374px;
+  }
+
+  .search-results {
+    left: 113px;
+  }
+
+  .twitter {
+    bottom: 70px;
+  }
+
+  .facebook {
+    left: 350px;
+  }
+
+  .github {
+    top: 65px;
+    right: 350px;
+  }
+
+  .newsletter {
+    bottom: 80px;
+    right: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .latest-heading {
+    right: 155px;
+  }
+
+  .yellow-bg {
+    display: none;
+  }
+
+  .post-container {
+    height: 266px;
+  }
+
+  .search-results {
+    left: 180px;
+  }
+
+  .twitter {
+    bottom: 40px;
+  }
+
+  .facebook {
+    left: 250px;
+    bottom: 80px;
+  }
+
+  .github {
+    top: 140px;
+    right: 300px;
+  }
+
+  .newsletter {
+    bottom: 70px;
+    right: 60px;
+  }
+}
+
+@media (max-width: 414px) {
+  .hero {
+    margin-top: 125px;
+    height: 200px;
+  }
+
+  .post-container {
+    height: 266px;
+    background: #002F3C;
+  }
+
+  .search-results {
+    left: 0;
+    width: 100%;
+
+    a {
+      margin: 15px 0;
+    }
+  }
+
+  .twitter {
+    margin: 0 0 0 15px;
+  }
+
+  .facebook {
+    margin: 0 15px;
+  }
+
+  .github {
+    margin: 0 15px;
+  }
+
+  .newsletter {
+    margin: 0 15px 0 0;
+  }
 }
