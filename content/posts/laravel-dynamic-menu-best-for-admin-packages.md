@@ -2,11 +2,16 @@
 title: Laravel Dynamic Menu Tutorial (Best for Admin packages)
 date: 2014-05-20
 published: true
-tags: ['Laravel','tutorial','PHP']
+tags:
+- Laravel
+- tutorial
+- PHP
+- routes
 canonical_url: false
-description: "Thanks to this very Laravel topic over at Laravel.io and Josh Benham I managed to find out how to make my very own"
----
+description: Thanks to this very Laravel topic over at Laravel.io and Josh Benham
+  I managed to find out how to make my very own
 
+---
 # Laravel Dynamic Menu Tutorial (Best for Admin packages)
 
 [Learn more Laravel](/top-5-laravel-books/)

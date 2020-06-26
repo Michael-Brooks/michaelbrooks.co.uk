@@ -2,11 +2,17 @@
 title: First Laravel Tutorial - Controllers and Routes
 date: 2014-03-29
 published: true
-tags: ['Laravel','tutorial','PHP']
+tags:
+- Laravel
+- tutorial
+- PHP
+- routes
 canonical_url: false
-description: "Previously on a Laravel project, I had to have a slug within my routes which would point to two different tables within my database. I needed a controller which would do the thinking for me. And by this I mean, in my routes I would have..."
----
+description: Previously on a Laravel project, I had to have a slug within my routes
+  which would point to two different tables within my database. I needed a controller
+  which would do the thinking for me. And by this I mean, in my routes I would have...
 
+---
 ## Commence quick and helpful tutorial...
 
 Previously on a Laravel project, I had to have a slug within my routes which would point to two different tables within my database. I needed a controller which would do the thinking for me. And by this I mean, in my routes I would have...
