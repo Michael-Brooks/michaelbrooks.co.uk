@@ -1,12 +1,19 @@
 ---
-title: "Laravel 4: How To Use Jquery UI Sortable"
+title: 'Laravel 4: How To Use Jquery UI Sortable'
 date: 2014-09-03
 published: true
-tags: ['Laravel','PHP','tutorial','JQuery','Javascript']
+tags:
+- Laravel
+- PHP
+- tutorial
+- JQuery
+- Javascript
+- routes
 canonical_url: false
-description: "I needed a way to change the sort order of my data inside of an admin interface which I have created. After a little"
----
+description: I needed a way to change the sort order of my data inside of an admin
+  interface which I have created. After a little
 
+---
 # Laravel 4: How To Use Jquery UI Sortable
 
 ## Click and drag sorting
