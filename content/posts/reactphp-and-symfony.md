@@ -2,11 +2,18 @@
 title: ReactPHP and Symfony
 date: 2016-07-18
 published: true
-tags: ['ReactPHP','Symfony','PHP','podcast']
+tags:
+- ReactPHP
+- Symfony
+- PHP
+- podcast
+- routes
 canonical_url: false
-description: "I started listening to a great Podcast series which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about ReactPHP."
----
+description: I started listening to a great Podcast series which talks a lot about
+  different PHP and server technologies and on one of the later episodes, they talk
+  about ReactPHP.
 
+---
 I started listening to a [great Podcast series](https://phptownhall.com/episode-49-async/) which talks a lot about different PHP and server technologies and on one of the later episodes, they talk about [ReactPHP](https://reactphp.org/).
 
 [ReactPHP](https://reactphp.org/) is a great asynchronous solution for PHP and it offers non-blocking async which is fantastic and can be easily compared to NodeJS (although we won't be doing that here).
