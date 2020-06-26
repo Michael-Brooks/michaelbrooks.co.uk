@@ -2,11 +2,17 @@
 title: Laravel AJAX Tutorial Using HTML5's FormData
 date: 2014-08-28
 published: true
-tags: ['Laravel','tutorial','PHP']
+tags:
+- Laravel
+- tutorial
+- PHP
+- routes
 canonical_url: false
-description: "For this tutorial, I will show you guys how I managed to create an image uploader for your profile image. This is very similar to how Facebook's/Twitter's functionality."
----
+description: For this tutorial, I will show you guys how I managed to create an image
+  uploader for your profile image. This is very similar to how Facebook's/Twitter's
+  functionality.
 
+---
 # Laravel AJAX Tutorial Using HTML5's FormData
 
 For this tutorial, I will show you guys how I managed to create an image uploader for your profile image. This is very
