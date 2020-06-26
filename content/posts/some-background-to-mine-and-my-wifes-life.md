@@ -2,28 +2,34 @@
 title: Some background to mine and my wife's life
 date: 2019-02-09
 published: true
-tags: ['personal','update']
+tags:
+- personal
+- update
+- contract
 canonical_url: false
-description: "Around 8-9 years ago, my wife (then girlfriend) and I moved out of my mum’s 2-bedroom council house into our very own 1-bedroom council flat. Like everyone else, we had to go on the waiting list and bid for flats/houses. We were expecting to find a place in between 1-2 years, but my mum thought it would take a lot longer."
----
+description: Around 8-9 years ago, my wife (then girlfriend) and I moved out of my
+  mum’s 2-bedroom council house into our very own 1-bedroom council flat. Like everyone
+  else, we had to go on the waiting list and bid for flats/houses. We were expecting
+  to find a place in between 1-2 years, but my mum thought it would take a lot longer.
 
+---
 ## You might want to grab yourself a coffee…
 
 Around 8-9 years ago, my wife (then girlfriend) and I moved out of my mum’s 2-bedroom council house into our very own 1-bedroom council flat. Like everyone else, we had to go on the waiting list and bid for flats/houses. We were expecting to find a place in between 1-2 years, but my mum thought it would take a lot longer.
 
-We were very fortunate because we found a one bedroom flat just 6 months after being on the list. It was a block of flats converted from an old people’s home. Half of these flats were offered to locals of Looe, while the other half were offered to those outside. We were fortunate to be offered a flat, and we were ecstatic. Without a moments notice, we accepted and then began proceedings to move in.
+We were very fortunate because we found a one-bedroom flat just 6 months after being on the list. It was a block of flats converted from an old people’s home. Half of these flats were offered to locals of Looe, while the other half were offered to people outside of Looe. We were fortunate to be offered a flat, and we were ecstatic. Without a moments notice, we accepted and then began proceedings to move in.
 
 Once moved in, we were overjoyed, we had our very own place together. Then the bills started rolling in and at the time, it was just my wife who was working. I was still going to college to finish my higher national diploma. She would read these letters and start booing her eyes out. My mum would come over and explain how we manage bills. Due to me not working at the time, and looking for a job, we had to go on benefits.
 
 ## A council house and on benefits? Typical...
 
-I hear you tutting at those words, but we were in need and it’s also the worst feeling. EVER. I went on job seekers until I could find a job and we had to photo copy every wage slip my wife had and all future slips. Thankfully after a few long hard months (at least) I managed to get a job in Spar with my wife.
+I hear you tutting at those words, but we were in need and it’s also the worst feeling. EVER. I went on job seekers until I could find a job and we had to photocopy every wage slip my wife had and all future slips. Thankfully after a few long hard months (at least), I managed to get a job in Spar with my wife.
 
 This was amazing, but we still needed to be on benefits because of the lack of work and wages. This would carry on for a few years and we tried to handle the situation as best we could. There were times where we managed to pick up enough hours to not be on benefits, and there were other times when we needed it. After so much struggling, we thought that benefits were just such a pain, we would try to survive without it.
 
 ## Stopping benefits and struggling on
 
-We then stopped our benefits and carried on. Again, some weeks went extremely well, and other weeks were bad. I ended up getting a 0% interest credit card from Barclays with £500 limit to build my credit rating up. It was meant to be only for emergencies and only for small purchases. However, this didn’t last long at all. We started using it in emergencies, but we couldn’t pay it off in one go after the next month rolled over. I thought we were safe, because it was 0%, but that doesn’t last forever.
+We then stopped our benefits and carried on. Again, some weeks went extremely well, and other weeks were bad. I ended up getting a 0% interest credit card from Barclays with £500 limit to build my credit rating up. It was meant to be only for emergencies and only for small purchases. However, this didn’t last long at all. We started using it in emergencies, but we couldn’t pay it off in one go after the next month rolled over. I thought we were safe because it was 0%, but that doesn’t last forever.
 
 In the meantime, I was trying to find freelance clients to build websites for, but everyone wanted something for nothing. I offered sites for £300 which is nothing compared to most freelancers/agencies who charge anything from £1,000. People thought I was too expensive and would never get back to me.
 
@@ -31,7 +37,7 @@ I had one client who wanted a site where you could rent out wedding equipment wh
 
 ## Applying for web dev jobs
 
-Then it was time for me to apply for web dev jobs. I applied for everything, left right and centre. Until I managed to pick up my first ever job in web dev. It was in Bodmin, and I was super happy with getting this job. It was a junior salary which is perfectly fine for me being a junior. However, 2 weeks down the line, I was struggling, and I received very little help. It turns out they wanted a mid to senior level developer at a junior salary. In my third week, they took me to one side and had to let me go.
+Then it was time for me to apply for web dev jobs. I applied for everything, left right and centre. Until I managed to pick up my first ever job in web dev. It was in Bodmin, and I was super happy with getting this job. It was a junior salary which is perfectly fine for me being a junior. However, 2 weeks down the line, I was struggling, and I received very little help. It turns out they wanted a mid to senior-level developer at a junior salary. In my third week, they took me to one side and had to let me go.
 
 This was a huge blow to my confidence, but I wouldn’t let it get to me. I stayed strong and kept pushing. Thankfully my old employer let me have my job back and I carried on going until I could find something else. I applied for every single job I could find right up to Plymouth. I kept getting turned down due to those with more experience, a slight hit, but not the end of the world.
 
@@ -39,13 +45,13 @@ This was a huge blow to my confidence, but I wouldn’t let it get to me. I stay
 
 If I’m not experienced enough, then maybe I needed to try something else. How about an apprenticeship? I could get business experience while studying something I already knew a lot about. This could be the way to go, so I applied for a company near Exmouth in Devon. After a few weeks, they got back to me and I went for my interview. They were happy to employ me and said I could start before my apprenticeship started. Not wanting to waste any time, I accepted and started 6 months before my official start.
 
-Here’s the kicker though, the wages were at apprenticeship wages (under minimum wage) and it was under a freelance contract which is how they could get away with the low wages. Also, I needed to move away from my wife into my friend’s Houseshare and find ways to pay for myself and my flat expenses. It was hard, stressful and I wouldn’t recommend it to anyone, at all.
+Here’s the kicker though the wages were at apprenticeship wages (under minimum wage) and it was under a freelance contract which is how they could get away with the low wages. Also, I needed to move away from my wife into my friend’s Houseshare and find ways to pay for myself and my flat expenses. It was hard, stressful and I wouldn’t recommend it to anyone, at all.
 
 My wife would wonder why I’m going out when I feel like I’ve earnt it. She would be at home, alone and struggling to keep herself going. It was the worst 5 months of our lives, but somehow, we came out of the other side and we moved to Newton Abbot. Newton Abbot was half an hour from my workplace which made things a lot easier, and we were back together. A month later, a few days before my official start, I lost my job.
 
 ## Back to square one... Again...
 
-How did this happen? You may ask. Well, due to the stresses of earning very little and needing to find money. I would try to make my own business while at work. A terrible idea, I know. Never do this and I wish I hadn’t done this. My wife was furious. How could I move so far away from our friends and family just to have me lose my job?
+How did this happen? You may ask. Well, due to the stresses of earning very little and needing to find the money. I would try to make my own business while at work. A terrible idea, I know. Never do this and I wish I hadn’t done this. My wife was furious. How could I move so far away from our friends and family just to have me lose my job?
 
 ## Back to the drawing board
 
@@ -55,7 +61,7 @@ Then, we came off benefits again and obviously job seekers stopped due to findin
 
 ## Finding happiness
 
-Thankfully this new place went really well for over a year. I was really happy with the team, and my work until they started struggling with money. They had to let people go. Unfortunately, I was one of one of them. Another blow to my confidence and I didn't know what to do. Should I go to uni and get more education within the field? Can I even find another position in this field?
+Thankfully this new place went really well for over a year. I was really happy with the team, and my work until they started struggling with money. They had to let people go. Unfortunately, I was one of them. Another blow to my confidence and I didn't know what to do. Should I go to uni and get more education within the field? Can I even find another position in this field?
 
 ## Finding another happy place
 
