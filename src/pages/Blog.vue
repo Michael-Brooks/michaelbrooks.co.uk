@@ -16,7 +16,7 @@
             </div>
         </div>
 
-        <Pager :info="$page.posts.pageInfo"/>
+        <Pager class="yellow text-center text-3xl pagination my-10" :info="$page.posts.pageInfo"/>
     </Layout>
 </template>
 

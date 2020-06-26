@@ -90,6 +90,12 @@ input {
   background: #002F3C;
 }
 
+.pagination {
+  a {
+    margin: 0 45px;
+  }
+}
+
 
 @media (max-width: 1080px) {
   .latest-heading {
