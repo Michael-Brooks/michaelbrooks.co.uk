@@ -23,3 +23,5 @@ I now have a newsletter which you can subscribe to using the form at the bottom 
 There are a few more things I would like to add to my website such as comments that aren't by Disqus, social card metadata and an auto-generated sitemap. I should probably create a roadmap on my [GH repository](https://github.com/Michael-Brooks/michaelbrooks.co.uk "GitHub repository") for you to keep an eye on.
 
 That's pretty much it for this one, and if you like the new update please let me know on my [Twitter page](https://twitter.com/MBrooksUK).
+
+[Join the discussion here.](https://michaelbrooks.substack.com/p/website-migrated-from-vuepress-to)
