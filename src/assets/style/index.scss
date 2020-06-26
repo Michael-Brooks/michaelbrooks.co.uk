@@ -1,7 +1,9 @@
 .marker {
   font-family: Permanent Marker;
   color: #FFF01A;
+}
 
+a {
   &:hover {
     color: #002F3C;
   }
@@ -25,17 +27,24 @@ input {
 }
 
 .hero {
-  background: url('../images/top-bg.png') #000 bottom no-repeat;
+  background: url('../images/top-bg.svg') #000 bottom no-repeat;
+  background-size: 100%;
+  height: 345px;
+}
+
+.post-container {
+  background: url('../images/bottom-bg.svg') #000 bottom no-repeat;
   background-size: 100%;
   height: 345px;
 }
 
 .search-results {
-  left: 272px;
+  left: 269px;
   top: 35px;
 }
 
 .search-results {
+  z-index: 101;
   border: solid #FFF01A;
   a {
     &:hover {
@@ -62,4 +71,24 @@ input {
 .newsletter {
   bottom: 125px;
   right: 175px;
+}
+
+.yellow {
+  color: #FFF01A;
+}
+
+.yellow-bg {
+  top: 0;
+  left: 382px;
+}
+
+.latest-heading {
+  z-index: 100;
+  top: -60px;
+  right: 455px;
+  transform: rotate(-5deg);
+}
+
+.dark-blue {
+  background: #002F3C;
 }

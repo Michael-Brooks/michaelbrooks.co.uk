@@ -1,13 +1,14 @@
 <template>
-  <div class="post-card content-box" :class="{'post-card--has-poster' : post.poster}">
+  <div class="post-card content-box rounded bg-white mx-auto">
     <div class="post-card__header">
-      <g-image alt="Cover image" v-if="post.cover_image" class="post-card__image" :src="post.cover_image" />
+      <g-image alt="Cover image" v-if="post.cover_image" class="post-card__image rounded-t" :src="post.cover_image" />
     </div>
-    <div class="post-card__content">
-      <h2 class="post-card__title" v-html="post.title" />
-      <p class="post-card__description" v-html="post.description" />
+    <div class="post-card__content py-12 px-20">
+      <h2 class="text-3xl font-extrabold" v-html="post.title" />
+      <p class="post-card__description mt-8 text-xl" v-html="post.description" />
 
-      <PostMeta class="post-card__meta" :post="post" />
+      <PostMeta class="post-card__meta pt-8 text-gray-600" :post="post" />
+
       <PostTags class="post-card__tags" :post="post" />
 
       <g-link class="post-card__link" :to="post.path">Link</g-link>
@@ -30,8 +31,9 @@ export default {
 
 <style lang="scss">
 .post-card {
-  margin-bottom: var(--space);
+  min-height: 788px;
   position: relative;
+  max-width: 860px;
 
   &__header {
     margin-left: calc(var(--space) * -1);
@@ -54,11 +56,6 @@ export default {
     margin-top: 0;
   }
 
-  &:hover {
-    transform: translateY(-5px);
-    box-shadow: 1px 10px 30px 0 rgba(0,0,0,.1);
-  }
-
   &__tags {
     z-index: 1;
     position: relative;
@@ -74,6 +71,10 @@ export default {
     overflow: hidden;
     text-indent: -9999px;
     z-index: 0;
+  }
+
+  .post-tags__link {
+    background-color: #F3F7F9;
   }
 }
 </style>

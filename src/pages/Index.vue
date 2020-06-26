@@ -27,7 +27,7 @@
                 </svg>
             </a>
 
-            <a href="https://facebook.com/" class="facebook absolute">
+            <a href="https://www.facebook.com/MBrooksDeveloper" class="facebook absolute">
                 <svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M35 0C15.6713 0 0 15.6713 0 35C0 54.3288 15.6713 70 35 70C54.3288 70 70 54.3288 70 35C70 15.6713 54.3288 0 35 0ZM43.75 23.3333H39.8125C38.2433 23.3333 37.9167 23.9779 37.9167 25.6025V29.1667H43.75L43.1404 35H37.9167V55.4167H29.1667V35H23.3333V29.1667H29.1667V22.435C29.1667 17.2754 31.8821 14.5833 38.0013 14.5833H43.75V23.3333Z" fill="#FFF01A"/>
                 </svg>
@@ -45,11 +45,19 @@
                 </svg>
             </a>
         </div>
-        <!-- List posts -->
-        <!--<div class="posts">
-            <h2 class="text-center">Latest Post</h2>
-            <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
-        </div>-->
+        <div class="post-container relative">
+            <h2 class="absolute latest-heading text-5xl text-white">Latest Post</h2>
+            <svg class="absolute yellow-bg" width="938" height="872" viewBox="0 0 938 872" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect x="0.880157" y="76.4311" width="870" height="798" transform="rotate(-5 0.880157 76.4311)" fill="#FFF01A"/>
+            </svg>
+            <div class="container mx-auto">
+                <div class="posts rounded pt-10">
+                    <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
+                </div>
+            </div>
+        </div>
+
+        <div style="height: 750px"></div>
     </Layout>
 </template>
 

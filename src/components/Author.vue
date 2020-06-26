@@ -1,22 +1,24 @@
 <template>
-	<div class="author">
+	<div class="author container mx-auto text-center text-white">
 
-		<g-image alt="Author image" class="author__image" src="~/assets/images/author.jpg" width="180" height="180" blur="5"/>
+		<g-image alt="Author image" class="portrait author__image mx-auto" src="~/assets/images/author.jpg" width="180"
+				 height="180"
+				 blur="5"/>
 
-		<h1 v-if="showTitle" class="author__site-title">
+		<h1 v-if="showTitle" class="author__site-title mb-4">
 			{{ $static.metadata.siteName }}
 		</h1>
 
-		<p class="author__intro">
+		<p class="author__intro mb-6">
 			Freelance Website Developer & Blogger in Newton Abbot
 		</p>
 
-		<p class="author__links">
+		<p class="author__links mt-22">
 			<a href="https://twitter.com/MBrooksUK">Follow on Twitter</a>
 			<a href="https://github.com/Michael-Brooks">GitHub</a>
 		</p>
 
-		<div style="text-align: center">
+		<div class="mt-10 block mx-auto" style="width: 304px;">
 			<iframe src="https://michaelbrooks.substack.com/embed" class="newsletter-widget"
 					style="border:1px solid #EEE; background:white; margin-bottom: 30px;" frameborder="0"
 					scrolling="no"></iframe>
@@ -41,10 +43,6 @@ export default {
 
 <style lang="scss">
 .author {
-	margin: 0 auto;
-	max-width: 500px;
-	text-align: center;
-	padding: calc(var(--space) / 2) 0;
 
 	&__image {
 		border-radius: 100%;
@@ -65,6 +63,11 @@ export default {
 		margin-top: -.5em;
 		a {
 			margin: 0 .5em;
+			color: #FFF01A;
+
+			&:hover {
+				color: #002F3C;
+			}
 		}
 	}
 }

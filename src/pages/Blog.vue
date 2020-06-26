@@ -3,9 +3,17 @@
         <!-- Author intro -->
         <Author :show-title="true"/>
 
+        <div class="container mx-auto text-center">
+            <h1 class="yellow text-6xl mt-20 mb-6 marker">
+                Blog
+            </h1>
+        </div>
+
         <!-- List posts -->
-        <div class="posts">
-            <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
+        <div class="dark-blue py-1">
+            <div class="posts container mx-auto">
+                <PostCard class="my-20" v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
+            </div>
         </div>
 
         <Pager :info="$page.posts.pageInfo"/>

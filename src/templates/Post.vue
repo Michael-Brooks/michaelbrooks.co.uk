@@ -1,27 +1,32 @@
 <template>
   <Layout>
-    <div class="post-title">
-      <h1 class="post-title__text">
-        {{ $page.post.title }}
-      </h1>
+    <div class="dark-blue pb-12 mb-12">
+      <div class="container mx-auto mb-20 pt-10">
+        <div class="post-title">
+          <h1 class="post-title__text yellow text-4xl my-6 mx-10 marker">
+            {{ $page.post.title }}
+          </h1>
 
-      <PostMeta :post="$page.post" />
+          <PostMeta class="text-white mb-12" :post="$page.post" />
 
-    </div>
+        </div>
 
-    <div class="post content-box">
-      <div class="post__header">
-        <g-image alt="Cover image" v-if="$page.post.cover_image" :src="$page.post.cover_image" />
+        <div class="post mx-auto content-box bg-white rounded">
+          <div class="post__header">
+            <g-image class="rounded-t" alt="Cover image" v-if="$page.post.cover_image" :src="$page.post.cover_image" />
+          </div>
+
+          <div class="py-12 px-20">
+            <div class="post__content text-xl" v-html="$page.post.content" />
+
+            <div class="post__footer mt-10">
+              <PostTags :post="$page.post" />
+
+            </div>
+          </div>
+        </div>
       </div>
-
-      <div class="post__content" v-html="$page.post.content" />
-
-      <div class="post__footer">
-        <PostTags :post="$page.post" />
-
-      </div>
     </div>
-
     <Author class="post-author" />
   </Layout>
 </template>
@@ -79,6 +84,9 @@ query Post ($id: ID!) {
 }
 
 .post {
+  min-height: 788px;
+  position: relative;
+  max-width: 860px;
 
   &__header {
     width: calc(100% + var(--space) * 2);
@@ -102,9 +110,13 @@ query Post ($id: ID!) {
       margin-top: 0;
     }
 
+    p {
+      margin: 30px 0;
+    }
+
     p:first-of-type {
       font-size: 1.2em;
-      color: var(--title-color);
+      font-weight: bold;
     }
 
     img {
@@ -113,6 +125,10 @@ query Post ($id: ID!) {
       display: block;
       max-width: none;
     }
+  }
+
+  .post-tags__link {
+    background-color: #F3F7F9;
   }
 }
 
