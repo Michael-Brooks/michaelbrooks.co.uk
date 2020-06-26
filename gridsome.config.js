@@ -15,6 +15,9 @@ module.exports = {
 
   plugins: [
     {
+      use: "gridsome-plugin-tailwindcss",
+    },
+    {
       use: 'gridsome-plugin-matomo',
       options: {
         host: 'https://analytics.michaelbrooks.dev',

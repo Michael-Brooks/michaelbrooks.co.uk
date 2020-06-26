@@ -1,44 +1,44 @@
 <template>
     <div id="app">
 
-        <header class="header" style="background-color: var(--bg-content-color);">
-            <div class="header__left">
-                <Logo />
-            </div>
-
-            <div class="header__center">
-                <input
-                        id="search"
-                        v-model="searchTerm"
-                        class="input"
-                        type="text"
-                        placeholder="Search">
-                <div class="search-results">
-                    <g-link
-                            v-for="result in searchResults"
-                            :key="result.id"
-                            :to="result.path"
-                            class="navbar-item">
-                        {{ result.title }}
-                    </g-link>
+        <header>
+            <nav class="flex items-center justify-between flex-wrap bg-black p-6">
+                <div class="flex items-center flex-shrink-0 text-white mr-6">
+                    <Logo />
                 </div>
-            </div>
-
-            <div class="header__right">
-                <nav>
-                    <g-link to="/blog">Blog</g-link>
-                </nav>
-            </div>
+                <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+                    <div class="text-sm lg:flex-grow text-center relative">
+                        <input
+                                id="search"
+                                v-model="searchTerm"
+                                class="input bg-transparent w-1/2 h-8 pl-2"
+                                type="text"
+                                placeholder="Search blog posts...">
+                        <div class="search-results bg-black absolute w-1/2" :class="{hidden: isHidden}">
+                            <g-link
+                                    v-for="result in searchResults"
+                                    :key="result.id"
+                                    :to="result.path"
+                                    class="navbar-item block text-white">
+                                {{ result.title }}
+                            </g-link>
+                        </div>
+                    </div>
+                    <div>
+                        <g-link to="/blog" class="block px-6 py-2 mt-4 mr-16 lg:mt-0 marker text-2xl">Blog</g-link>
+                    </div>
+                </div>
+            </nav>
         </header>
 
         <main class="main">
             <slot/>
         </main>
 
-        <footer class="footer">
+        <!--<footer class="footer">
             <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
             <span class="footer__links">Powered by <a href="//gridsome.org"> Gridsome </a></span>
-        </footer>
+        </footer>-->
 
     </div>
 </template>
@@ -49,12 +49,17 @@
 
     export default {
         data: () => ({
-            searchTerm: ''
+            searchTerm: '',
+            isHidden: true,
         }),
         computed: {
             searchResults () {
                 const searchTerm = this.searchTerm
-                if (searchTerm.length < 3) return []
+                if (searchTerm.length < 3) {
+                    this.isHidden = true
+                    return []
+                }
+                this.isHidden = false
                 return this.$search.search({ query: searchTerm, limit: 5 })
             }
         },
@@ -67,66 +72,3 @@
         }
     }
 </script>
-
-<style lang="scss">
-    nav {
-        a {
-            text-decoration: none;
-
-            &.active {
-                text-decoration: underline !important;
-            }
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        a:not(.button) {
-            color: var(--body-color);
-        }
-    }
-    .header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        min-height: var(--header-height);
-        padding: 0 calc(var(--space) / 2);
-        top: 0;
-        z-index: 10;
-
-        &__left,
-        &__right {
-            display: flex;
-            align-items: center;
-        }
-
-        @media screen and (min-width: 1300px) {
-            //Make header sticky for large screens
-            position: sticky;
-            width: 100%;
-        }
-    }
-
-    .main {
-        margin: 0 auto;
-        padding: 1.5vw 15px 0;
-    }
-
-    .footer {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        padding: calc(var(--space) / 2);
-        text-align: center;
-        font-size: .8em;
-
-        > span {
-            margin: 0 .35em;
-        }
-
-        a {
-            color: currentColor;
-        }
-    }
-</style>

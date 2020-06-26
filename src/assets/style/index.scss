@@ -1,7 +1,65 @@
-@import 'reset';
-@import 'variables';
-@import 'typography';
-@import 'base';
-@import 'code';
-@import 'content-box';
-@import 'utils';
+.marker {
+  font-family: Permanent Marker;
+  color: #FFF01A;
+
+  &:hover {
+    color: #002F3C;
+  }
+}
+
+.portrait {
+  border: solid #FFF01A 5px;
+  border-radius: 100px;
+  transform: rotate(-20deg);
+}
+
+input {
+  border: solid #FFF01A;
+  color: white;
+  width: 380px;
+}
+
+::placeholder {
+  color: #fff;
+  opacity: 1;
+}
+
+.hero {
+  background: url('../images/top-bg.png') #000 bottom no-repeat;
+  background-size: 100%;
+  height: 345px;
+}
+
+.search-results {
+  left: 272px;
+  top: 35px;
+}
+
+.search-results {
+  border: solid #FFF01A;
+  a {
+    &:hover {
+      color: #002F3C;
+    }
+  }
+}
+
+.twitter {
+  bottom: 110px;
+  left: 90px;
+}
+
+.facebook {
+  bottom: 120px;
+  left: 525px;
+}
+
+.github {
+  top: -45px;
+  right: 600px;
+}
+
+.newsletter {
+  bottom: 125px;
+  right: 175px;
+}
