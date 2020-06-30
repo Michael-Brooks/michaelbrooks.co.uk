@@ -14,6 +14,30 @@
     </Layout>
 </template>
 
-<script>
+<page-query>
+    query ($page: Int) {
+    posts: allPost(perPage: 5, page: $page, filter: { published: { eq: true }}) @paginate {
+    pageInfo {
+    totalPages
+    currentPage
+    }
+    }
+    }
+</page-query>
 
+<script>
+    import Author from '~/components/Author.vue'
+    import {Pager} from 'gridsome'
+    import PostCard from '~/components/PostCard.vue'
+
+    export default {
+        components: {
+            Author,
+            Pager,
+            PostCard
+        },
+        metaInfo: {
+            title: '404 Page Not Found'
+        }
+    }
 </script>
