@@ -5,6 +5,7 @@ tags:
 - redesign
 - vuepress
 - gridsome
+- motivational
 title: Redesigning my website
 published: true
 canonical_url: false
