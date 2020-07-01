@@ -2,7 +2,7 @@
 title: Virgin Media Calling and Asking for Password
 date: 2014-08-08
 published: true
-tags: ['personal','update', 'virgin-media]
+tags: ['personal','update', 'virgin-media']
 canonical_url: false
 description: "Last week some time, I received a phone call from Virgin Media. The caller said he would like to talk to me regarding my account, which at first seemed fairly legit. I asked him what the problem was and to his response, I was shocked."
 ---
