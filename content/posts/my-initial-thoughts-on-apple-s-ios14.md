@@ -22,7 +22,7 @@ The thing is, we all know that Apple takes their time, and when they deliver the
 
 The App Library is a smart AI-driven app drawer that cleverly bundles apps together and will bring the apps you use most near the top. You don't have to think about customising it yourself, and I've found myself removing most apps from the main screen in favour of the App library. Also, if you can't find the app you're looking for, then the search at the top of the screen is super helpful and lightning-fast. Overall, my impressions of the App library has been very positive. Once in a while, I stare at my screen and wonder where the app I'm looking for is. However, this happens a lot less than when I used Android.
 
-![./images/20200623_095155000_ios.png](https://app.forestry.io/sites/8ph-bduga2rdlw/body-media/./images/20200623_095155000_ios.png)
+![./images/20200623](https://app.forestry.io/sites/8ph-bduga2rdlw/body-media/./images/20200623_095155000_ios.png)
 
 ## Picture in Picture
 
@@ -30,7 +30,7 @@ It's nice being able to watch videos while using other apps. I also like the fac
 
 To be honest, they're the only two apps I've tested for PiP. I'm pretty sure the experience will be very similar to Apple video and other video apps. It's a fantastic feature which they have implemented well, and I don't think much can be improved. The only negative is more towards Google and forcing us to subscribe to premium for silly basic features.
 
-![./images/20200623_152937000_ios.png](https://app.forestry.io/sites/8ph-bduga2rdlw/body-media/./images/20200623_152937000_ios.png)
+![./images/20200623](https://app.forestry.io/sites/8ph-bduga2rdlw/body-media/./images/20200623_152937000_ios.png)
 
 ## Widgets
 
@@ -69,3 +69,5 @@ Have you got the IOS14 beta? If so, what are your thoughts?
 If not, what are you looking forward to the most?
 
 If you're an Android user, what do you think about these features?
+
+[Join the discussion here](https://michaelbrooks.substack.com/p/my-initial-thoughts-on-apples-ios14)
