@@ -1,13 +1,10 @@
 # External redirects
 /mind  https://www.justgiving.com/fundraising/michaelbrooks-mind
 /mental-health  https://shop.spreadshirt.co.uk/fitness-for-mental-health/
+/store https://payhip.com/MichaelBrooks
 
 # Internal redirects
-/post/top-5-laravel-books.html /top-5-laravel-books/
-/post/top-5-laravel-books /5-of-the-best-laravel-books/
 
-/post/laravel-dynamic-menu-(best-for-admin-packages) /laravel-dynamic-menu-tutorial-best-for-admin-packages/
-/post/laravel-dynamic-menu-best-for-admin-packages /laravel-dynamic-menu-tutorial-best-for-admin-packages/
 
 /top-5-laravel-books /5-of-the-best-laravel-books/
 /fitness-for-mental-health-a-crossfit-event-to-help-raise-money-for-mental-health.html /fitness-for-mental-health-a-cross-fit-event-to-help-raise-money-for-mental-health/
@@ -17,17 +14,12 @@
 /the-future-of-blogging-is-headless-and-the-jamstack.html /the-future-of-blogging-is-headless-and-the-jam-stack/
 /attending-my-best-mates-dads-funeral /attending-my-best-mate-s-dad-s-funeral/
 /win-a-copy-of-creating-your-first-ebook /my-first-ebook-will-be-about-creating-your-first-ebook/
-/post/most-helpful-git-command /most-helpful-git-command/
+
 /tag/mental-health/feed/ /tag/mental-health/
 /on-27-04-2018-i-entered-my-first-crossfit-competition /on-27-04-2018-i-entered-my-first-cross-fit-competition/
-/post/post-your-rss-feed-items-facebook-and-twitter /post-your-rss-feed-items-to-facebook-and-twitter/
 
-/post/joe-wicks-shape-plan-book-2-review /joe-wicks-the-shape-plan-book-2-review/
 /joe-wicks-shape-plan-book-2-review/ /joe-wicks-the-shape-plan-book-2-review/
 
-/post/composer-private-repository-problems /composer-private-repository-problems/
-
-/post/hosting-your-site-digital-ocean-and-docker /hosting-your-site-with-digital-ocean-and-docker/
 /hosting-your-site-digital-ocean-and-docker /hosting-your-site-with-digital-ocean-and-docker/
 
 /siteground-website-hosting-review.html /site-ground-website-hosting-review/
@@ -35,10 +27,8 @@
 /how-to-use-jquery-ui-sortable-in-laravel-4 /laravel-4-how-to-use-jquery-ui-sortable/
 /reactphp-and-symfony /react-php-and-symfony/
 /murph-is-quite-possibly-my-favourite-crossfit-workout /murph-is-quite-possibly-my-favourite-cross-fit-workout/
-/post/mounting-volumes-in-docker-and-using-windows-10 /mounting-volumes-in-docker-and-using-windows-10/
 
 /docker-has-been-fun-its-time-move/?amp /docker-has-been-fun-but-it-s-time-to-move-on/
-/post/docker-has-been-fun-its-time-move /docker-has-been-fun-but-it-s-time-to-move-on/
 
 /about-michael-brooks/ /
 /virgin-media-calling-and-asking-password /virgin-media-calling-and-asking-for-password/
@@ -48,20 +38,34 @@
 /how-motivate-yourself-lose-weight-or-become-more-healthy-when-working-9-5-office/ /how-to-motivate-yourself-to-lose-weight-or-become-more-healthy-when-working-9-5-in-an-office/
 /75-of-target-reached-macmillan-mighty-hike/ /75-of-target-reached-for-the-macmillan-mighty-hike/
 
-/post/social-networking-site-starting-point /social-networking-site-starting-point/
-/post/social-networking-website-based-in-laravel /social-networking-website-based-in-laravel/
-
 /brave-browser-bat /brave-browser-and-basic-attention-tokens-bat/
 /brave-browser-bat/ /brave-browser-and-basic-attention-tokens-bat/
 
 /how-containerize-your-php-docker-project-properly /how-to-containerize-your-php-nginx-docker-project-properly/
 
+/2014/09/ /blog/
 /2014/11/ /blog/
+/2015/04/ /blog/
 /2016/01/ /blog/
+
 /tag/mental-health/ /tag/mental health/
 
 /category/programming-tutorials/page/3/ /tag/php/
 /twitch-stream https://www.twitch.tv/michaeldbrooks
 
 /post/nice-little-laravel-tip /nice-little-laravel-tip-blade-ternary-operator/
-/store https://payhip.com/MichaelBrooks
+/post/5-important-things-i-learnt-when-blogging /5-important-things-i-learnt-when-blogging/
+/post/laravel-ajax-tutorial-using-html5s-formdata /laravel-ajax-tutorial-using-htm-l5-s-form-data/
+/post/social-networking-site-starting-point /social-networking-site-starting-point/
+/post/social-networking-website-based-in-laravel /social-networking-website-based-in-laravel/
+/post/top-5-laravel-books.html /top-5-laravel-books/
+/post/top-5-laravel-books /5-of-the-best-laravel-books/
+/post/laravel-dynamic-menu-(best-for-admin-packages) /laravel-dynamic-menu-tutorial-best-for-admin-packages/
+/post/laravel-dynamic-menu-best-for-admin-packages /laravel-dynamic-menu-tutorial-best-for-admin-packages/
+/post/most-helpful-git-command /most-helpful-git-command/
+/post/composer-private-repository-problems /composer-private-repository-problems/
+/post/hosting-your-site-digital-ocean-and-docker /hosting-your-site-with-digital-ocean-and-docker/
+/post/docker-has-been-fun-its-time-move /docker-has-been-fun-but-it-s-time-to-move-on/
+/post/mounting-volumes-in-docker-and-using-windows-10 /mounting-volumes-in-docker-and-using-windows-10/
+/post/joe-wicks-shape-plan-book-2-review /joe-wicks-the-shape-plan-book-2-review/
+/post/post-your-rss-feed-items-facebook-and-twitter /post-your-rss-feed-items-to-facebook-and-twitter/
