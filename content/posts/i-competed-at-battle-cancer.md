@@ -2,12 +2,18 @@
 title: I Competed at Battle Cancer
 date: 2018-10-24
 published: true
-tags: ['Battle Cancer','charity','Crossfit']
-cover_image: ./images/FB_IMG_1540153300600.webp
+tags:
+- Battle Cancer
+- charity
+- Crossfit
+- macmillan
+cover_image: "./images/FB_IMG_1540153300600.webp"
 canonical_url: false
-description: "On Saturday the 20th of October, I competed at Battle Cancer alongside 3 of my CrossFit friends; Pete, Phil and Matt. The event had somewhere around 1,000 people attending to watch a range of CrossFit teams compete with one another."
----
+description: On Saturday the 20th of October, I competed at Battle Cancer alongside
+  3 of my CrossFit friends; Pete, Phil and Matt. The event had somewhere around 1,000
+  people attending to watch a range of CrossFit teams compete with one another.
 
+---
 On Saturday the 20th of October, I competed at Battle Cancer alongside 3 of my CrossFit friends; Pete, Phil and Matt. The event had somewhere around 1,000 people attending to watch a range of CrossFit teams compete with one another.
 
 They had teams of males, females and mixed which could either compete at RX or scaled levels. All money raised from ticket sales went to Macmillan Cancer Support. I created my own personal [GoFundMe](https://www.gofundme.com/raising-money-for-battle-cancer) to help raise funds for the charity which has raised close to £200 so far.

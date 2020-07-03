@@ -2,12 +2,18 @@
 title: 75% of target reached for the Macmillan Mighty Hike
 date: 2019-06-07
 published: true
-tags: ['charity','fitness']
-cover_image: ./images/9624bf7d-7293-4a71-bb19-290aa2fdb0ff.webp
+tags:
+- charity
+- fitness
+- macmillan
+cover_image: "./images/9624bf7d-7293-4a71-bb19-290aa2fdb0ff.webp"
 canonical_url: false
-description: "For everyone who has donated and shared, I just wanted to say a massive thank you. The event starts next week and it's a gruelling 26-mile hike. We are now 75% towards our target, and I need your help to reach 100%. Please donate if you can, if not then please share this article so others can see."
----
+description: For everyone who has donated and shared, I just wanted to say a massive
+  thank you. The event starts next week and it's a gruelling 26-mile hike. We are
+  now 75% towards our target, and I need your help to reach 100%. Please donate if
+  you can, if not then please share this article so others can see.
 
+---
 For everyone who has donated and shared, I just wanted to say a massive thank you. The event starts next week and it's a gruelling 26-mile hike. We are now 75% towards our target, and I need your help to reach 100%. Please donate if you can, if not then please share this article so others can see.
 
 My colleagues and I have done so much training, and gone through so much pain in preparation for the event. Just last weekend, we walked 22 miles, and our bodies hurt the next day. However, all this training and pain is worth it. It's worth it, because those of have battled cancer, or are still battling cancer have gone through so much more.

@@ -6,6 +6,7 @@ tags:
 - personal
 - update
 - contract
+- macmillan
 canonical_url: false
 description: Around 8-9 years ago, my wife (then girlfriend) and I moved out of my
   mum’s 2-bedroom council house into our very own 1-bedroom council flat. Like everyone
