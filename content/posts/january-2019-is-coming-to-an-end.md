@@ -2,12 +2,18 @@
 title: January 2019 is coming to an end
 date: 2019-01-28
 published: true
-tags: ['personal','update','end of month review']
-cover_image: ./images/maddi-bazzocco-1178337-unsplash.webp
+tags:
+- personal
+- update
+- end of month review
+- father
+cover_image: "./images/maddi-bazzocco-1178337-unsplash.webp"
 canonical_url: false
-description: "This is our final week of January, and we only have 3 days left until it's officially over. I've already had a few surprises, some bad and some good, and I wanted to share with you both my good and bad for this month."
----
+description: This is our final week of January, and we only have 3 days left until
+  it's officially over. I've already had a few surprises, some bad and some good,
+  and I wanted to share with you both my good and bad for this month.
 
+---
 This is our final week of January, and we only have 3 days left until it's officially over. I've already had a few surprises, some bad and some good, and I wanted to share with you both my good and bad for this month.
 
 ## The Bad:
