@@ -2,11 +2,19 @@
 title: Creating an ebook (planning phase)
 date: 2019-02-08
 published: true
-tags: ['ebook','for sale','update']
-cover_image: ./images/jonas-jacobsson-545909-unsplash.webp
+tags:
+- ebook
+- for sale
+- update
+cover_image: "./images/jonas-jacobsson-545909-unsplash.webp"
 canonical_url: false
-description: "I've got this thing in my mind where I want to build something that gives value but also makes me some income. Mainly so I can just get out of debt. Also so I can never figure out what it is I want to do and I always get so overwhelmed and stressed. I put this pressure on myself and think..."
+description: I've got this thing in my mind where I want to build something that gives
+  value but also makes me some income. Mainly so I can just get out of debt. Also
+  so I can never figure out what it is I want to do and I always get so overwhelmed
+  and stressed. I put this pressure on myself and think...
+
 ---
+## [UPDATE: The book is now on sale at PayHip](https://payhip.com/b/REwe)
 
 I've got this thing in my mind where I want to build something that gives value but also makes me some income. Mainly so I can just get out of debt. Also so I can never figure out what it is I want to do and I always get so overwhelmed and stressed. I put this pressure on myself and think...
 
@@ -26,6 +34,6 @@ And most importantly for me right now is get out of this horrible debt and live 
 
 After a discussion with my wife, I think I know what I'm going to create. It will be a book discussing my life. This may not seem amazing, but I've experienced my mum going through cancer twice. My wife who at the time was my girlfriend would abuse me without realising. It took my mum to take her to one side for her to notice what was going on and she changed for the better.
 
-There also my journey as a website developer. My first ever job lasted all of 3 weeks because they wanted a mid to senior level developer, but paid a junior salary. 9 Years later, and I'm still doing website development, yet it had its fair share of issues.
+There also my journey as a website developer. My first ever job lasted all of 3 weeks because they wanted a mid to senior-level developer, but paid a junior salary. 9 Years later, and I'm still doing website development, yet it had its fair share of issues.
 
-I hope you're as excited as I am in creating my first book, I dunno if it will make fruition, but I'm hopeful. If you're interested, then you can sign up for updates [right here](https://michaelbrooks.substack.com/subscribe). I'll post snippets and things to keep you guys interested and informed.
+I hope you're as excited as I am in creating my first book, I dunno if it will make fruition, but I'm hopeful. If you're interested, then you can sign up for updates right here. I'll post snippets and things to keep you guys interested and informed.
