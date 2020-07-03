@@ -2,7 +2,7 @@
 title: Oauth Tutorial - Part 1 - Setting up Facebook
 date: 2015-04-05
 published: true
-tags: ['oauth','Facebook','Laravel',PHP','tutorial']
+tags: ['oauth','Facebook','Laravel','PHP','tutorial']
 canonical_url: false
 description: "Last week I promised that I will be creating some tutorials regarding Oauth and Laravel's Socialite plugin. Today, we will start with setting up each website and creating an app on these sites to accept our OAuth requests."
 ---
