@@ -2,11 +2,16 @@
 title: Joe Wicks - The Shape Plan (Book 2) Review
 date: 2016-10-27
 published: true
-tags: ['Joe Wicks','book review']
+tags:
+- Joe Wicks
+- book review
+- food
 canonical_url: false
-description: "Joe Wicks has become a loveable character with his charm and witty banter. When I first saw him on Channel 4 Joe Wicks: The Body Coach, I couldn't help but think how annoying he was, but wow did his food look amazing..."
----
+description: 'Joe Wicks has become a loveable character with his charm and witty banter.
+  When I first saw him on Channel 4 Joe Wicks: The Body Coach, I couldn''t help but
+  think how annoying he was, but wow did his food look amazing...'
 
+---
 # Joe Wicks the shape plan (Book 2) - Review
 
 > EAT MORE. BUILD MUSCLE. BURN FAT. Lean in 15: The Shape Plan introduces a new way of eating and training to build lean muscle and burn more fat. Joe Wicks, aka The Body Coach, has helped hundreds of thousands of people transform their bodies and feel amazing. In the Shape Plan, he shares 100 delicious recipes and four new workouts to take your fitness to the next level.
