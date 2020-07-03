@@ -15,13 +15,7 @@ description: You heard right, the first ebook I will be creating will about how 
   but they don't explain how or why.
 
 ---
-## UPDATE: The book is now on sale at PayHip
-
-***
-
-<div class="payhip-embed-page" data-key="REwe">...</div><script type="text/javascript" src="https://payhip.com/embed-page.js?v=24u68984"></script>
-
-***
+## [UPDATE: The book is now on sale at PayHip](https://payhip.com/b/REwe)
 
 You heard right, the first ebook I will be creating will about how to write your first ebook. I've been thinking about how I would love to create an ebook, but I didn't know what to write about. Researching how to create an ebook leads to people explaining you should use Canva, Google Docs or something completely different, but they don't explain how or why.
 
