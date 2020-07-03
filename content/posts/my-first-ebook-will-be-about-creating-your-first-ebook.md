@@ -2,11 +2,26 @@
 title: My first ebook will be about creating your first ebook
 date: 2019-02-13
 published: true
-tags: ['ebook','merch','personal']
-cover_image: ./images/michaelbrooks.co_.uk_.webp
+tags:
+- ebook
+- merch
+- personal
+cover_image: "./images/michaelbrooks.co_.uk_.webp"
 canonical_url: false
-description: "You heard right, the first ebook I will be creating will about how to write your first ebook. I've been thinking about how I would love to create an ebook, but I didn't know what to write about. Researching how to create an ebook leads to people explaining you should use Canva, Google Docs or something completely different, but they don't explain how or why."
+description: You heard right, the first ebook I will be creating will about how to
+  write your first ebook. I've been thinking about how I would love to create an ebook,
+  but I didn't know what to write about. Researching how to create an ebook leads
+  to people explaining you should use Canva, Google Docs or something completely different,
+  but they don't explain how or why.
+
 ---
+## UPDATE: The book is now on sale at PayHip
+
+***
+
+<div class="payhip-embed-page" data-key="REwe">...</div><script type="text/javascript" src="https://payhip.com/embed-page.js?v=24u68984"></script>
+
+***
 
 You heard right, the first ebook I will be creating will about how to write your first ebook. I've been thinking about how I would love to create an ebook, but I didn't know what to write about. Researching how to create an ebook leads to people explaining you should use Canva, Google Docs or something completely different, but they don't explain how or why.
 
