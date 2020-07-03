@@ -13,7 +13,7 @@ description: After two weeks of not really seeing each other, I'm thankful that 
   nice to spend some time apart, it's also nice to spend quality time together.
 
 ---
-## [UPDATE: The book is now on sale at PayHip](https://payhip.com/b/REwe)
+## [UPDATE: The eBook is now on sale at PayHip](https://payhip.com/b/REwe)
 
 After two weeks of not really seeing each other, I'm thankful that I can spend some time with my wife. She's been very busy pet sitting, and I've been helping her where I can. Due to this, we have had some time away. Although it's nice to spend some time apart, it's also nice to spend quality time together.
 
