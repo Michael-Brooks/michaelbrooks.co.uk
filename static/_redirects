@@ -4,8 +4,7 @@
 /store https://payhip.com/MichaelBrooks
 
 # Internal redirects
-
-
+/oauth-tutorial-part-1-setting-facebook/ /oauth-tutorial-part-1-setting-up-facebook/
 /top-5-laravel-books /5-of-the-best-laravel-books/
 
 /fitness-for-mental-health-a-crossfit-event-to-help-raise-money-for-mental-health.html /fitness-for-mental-health-a-cross-fit-event-to-help-raise-money-for-mental-health/
