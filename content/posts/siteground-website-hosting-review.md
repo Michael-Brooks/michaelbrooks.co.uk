@@ -2,12 +2,16 @@
 title: SiteGround website hosting review
 date: 2019-02-20
 published: true
-tags: ['SiteGround','hosting','review']
-cover_image: ./images/hosting-review.webp
+tags:
+- SiteGround
+- hosting
+- review
+cover_image: "./images/hosting-review.webp"
 canonical_url: false
-description: "I've been using SiteGround for almost 2 months now and so I thought it was time for a review."
----
+description: I've been using SiteGround for almost 2 months now and so I thought it
+  was time for a review.
 
+---
 _Please note most links in this review are referral links. This helps the running of my blog._
 
 I've been using SiteGround for almost 2 months now and so I thought it was time for a review.
@@ -31,3 +35,5 @@ If you're looking to self-host your WordPress blog or website, then I 100% recom
 #### Looking to start your own eBook?
 
 If you're looking to create your own eBook, then why not submit your email below? If you do, you could be in for a chance of winning "Creating your first eBook". This will help you go from start to finish with your eBook and help you to sell and market it. Make this year the year you earn a smart passive income.
+
+## [UPDATE: The eBook is now on sale at PayHip](https://payhip.com/b/REwe)
