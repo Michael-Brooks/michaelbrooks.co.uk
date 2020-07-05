@@ -2,14 +2,19 @@
 title: Using View Composers in Laravel 5.2
 date: 2016-02-03
 published: true
-tags: ['Laravel','PHP','tutorial']
+tags:
+- Laravel
+- PHP
+- tutorial
+- composer
 canonical_url: false
-description: "I have started using Laravel's View Composers which come in handy when you have a navigation bar that constantly needs
-              certain data. For example, you have an e-commerce store and you need to poll how many items a user has in their basket
-              on pretty much every page they move onto, or you need a login/register button when a user isn't logged in and then a
-              profile options button when they are."
----
+description: I have started using Laravel's View Composers which come in handy when
+  you have a navigation bar that constantly needs certain data. For example, you have
+  an e-commerce store and you need to poll how many items a user has in their basket
+  on pretty much every page they move onto, or you need a login/register button when
+  a user isn't logged in and then a profile options button when they are.
 
+---
 # Using View Composers in Laravel 5.2
 
 I have started using Laravel's View Composers which come in handy when you have a navigation bar that constantly needs
