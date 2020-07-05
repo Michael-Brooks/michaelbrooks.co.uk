@@ -2,12 +2,20 @@
 title: Composer Private Repository Problems
 date: 2014-04-08
 published: true
-tags: ['Windows','Linux','PHP','development']
-cover_image: ./images/composer-400x267.webp
+tags:
+- Windows
+- Linux
+- PHP
+- development
+- composer
+cover_image: "./images/composer-400x267.webp"
 canonical_url: false
-description: "Recently I have been finding out the slight differences between Windows and Linux for use with Laravel and Composer. One difference is Windows isn't picky about the way you set out Composer's packages which can be a major problem. Here's the issue I had and what I had to do to get it going..."
----
+description: Recently I have been finding out the slight differences between Windows
+  and Linux for use with Laravel and Composer. One difference is Windows isn't picky
+  about the way you set out Composer's packages which can be a major problem. Here's
+  the issue I had and what I had to do to get it going...
 
+---
 ## Cross development can be a pain...
 
 Recently I have been finding out the slight differences between Windows and Linux for use with Laravel and Composer. One difference is Windows isn't picky about the way you set out Composer's packages which can be a major problem. Here's the issue I had and what I had to do to get it going...
