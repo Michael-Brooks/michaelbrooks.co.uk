@@ -7,6 +7,7 @@ tags:
 - PHP
 - tutorial
 - routes
+- composer
 canonical_url: false
 description: This will be a fairly simple tutorial as I'm not re-creating the wheel
   here. I started by developing a login/registration system by myself until I start

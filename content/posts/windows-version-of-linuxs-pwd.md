@@ -2,11 +2,17 @@
 title: Windows version of Linux's $(pwd)
 date: 2019-07-04
 published: true
-tags: ['Windows','Docker','tutorial']
+tags:
+- Windows
+- Docker
+- tutorial
+- composer
 canonical_url: false
-description: "Tonight I was playing around with Docker and I wanted to use Node to install my packages to my local environment. I found a command on Chris Fidao's Laravel Vessel website which looked like..."
----
+description: Tonight I was playing around with Docker and I wanted to use Node to
+  install my packages to my local environment. I found a command on Chris Fidao's
+  Laravel Vessel website which looked like...
 
+---
 Tonight I was playing around with Docker and I wanted to use Node to install my packages to my local environment. I
 found a command on [Chris Fidao's Laravel Vessel](https://vessel.shippingdocker.com/docs/common-issues/#catch22) website
 which looked like...

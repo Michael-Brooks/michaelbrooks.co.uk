@@ -2,12 +2,16 @@
 title: Using Vagrant and Homestead In as Little Steps as Possible (Per Project Install)
 date: 2016-01-20
 published: true
-tags: ['Markdown','Test files']
-cover_image: ./images/Blog-header-image-1.webp
+tags:
+- Markdown
+- Test files
+- composer
+cover_image: "./images/Blog-header-image-1.webp"
 canonical_url: false
-description: "I want to show you guys just how quick and easy it easy to get a Laravel project up and running alongside Vagrant/Homestead."
----
+description: I want to show you guys just how quick and easy it easy to get a Laravel
+  project up and running alongside Vagrant/Homestead.
 
+---
 I want to show you guys just how quick and easy it easy to get a Laravel project up and running alongside Vagrant/Homestead.
 
 ##1. Head over to your chosen directory and run something like...

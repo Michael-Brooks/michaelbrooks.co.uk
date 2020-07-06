@@ -2,12 +2,17 @@
 title: Laravel Development with Vessel (Docker)
 date: 2018-06-19
 published: true
-tags: ['Laravel','Vessel','PHP','Docker']
-cover_image: ./images/subsea_vessels.webp
+tags:
+- Laravel
+- Vessel
+- PHP
+- Docker
+- composer
+cover_image: "./images/subsea_vessels.webp"
 canonical_url: false
-description: "Learn how to get started with Vessel"
----
+description: Learn how to get started with Vessel
 
+---
 # Getting started with Vessel
 
 I have started using [Vessel](https://vessel.shippingdocker.com/) for my local development as it makes starting and developing a project so much easier. It seems more lightweight than Homestead and the start-up time is much quicker than Homestead.
