@@ -2,6 +2,7 @@
 /mind  https://www.justgiving.com/fundraising/michaelbrooks-mind
 /mental-health  https://shop.spreadshirt.co.uk/fitness-for-mental-health/
 /store https://payhip.com/MichaelBrooks
+/newsletter https://michaelbrooks.substack.com
 
 # Internal redirects
 /oauth-tutorial-part-1-setting-facebook/ /oauth-tutorial-part-1-setting-up-facebook/
@@ -58,6 +59,9 @@
 
 /category/programming-tutorials/page/3/ /tag/php/
 /twitch-stream https://www.twitch.tv/michaeldbrooks
+
+/laracon-us-laravel-53-overview/ /laracon-us-laravel-5-3-overview/
+
 
 /post/nice-little-laravel-tip /nice-little-laravel-tip-blade-ternary-operator/
 /post/5-important-things-i-learnt-when-blogging /5-important-things-i-learnt-when-blogging/
