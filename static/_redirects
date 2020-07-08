@@ -62,15 +62,18 @@
 /twitch-stream https://www.twitch.tv/michaeldbrooks
 
 /laracon-us-laravel-53-overview/ /laracon-us-laravel-5-3-overview/
-
+/user-registration-and-login/ /laravel-user-registration-and-login/
 
 /post/nice-little-laravel-tip /nice-little-laravel-tip-blade-ternary-operator/
 /post/5-important-things-i-learnt-when-blogging /5-important-things-i-learnt-when-blogging/
 /post/laravel-ajax-tutorial-using-html5s-formdata /laravel-ajax-tutorial-using-htm-l5-s-form-data/
 /post/social-networking-site-starting-point /social-networking-site-starting-point/
 /post/social-networking-website-based-in-laravel /social-networking-website-based-in-laravel/
-/post/top-5-laravel-books.html /top-5-laravel-books/
+
+/post/top-5-laravel-books.html /5-of-the-best-laravel-books/
 /post/top-5-laravel-books /5-of-the-best-laravel-books/
+/top-5-laravel-books.html /5-of-the-best-laravel-books/
+
 /post/laravel-dynamic-menu-(best-for-admin-packages) /laravel-dynamic-menu-tutorial-best-for-admin-packages/
 /post/laravel-dynamic-menu-best-for-admin-packages /laravel-dynamic-menu-tutorial-best-for-admin-packages/
 /laravel-dynamic-menu-best-for-admin-packages.html /laravel-dynamic-menu-tutorial-best-for-admin-packages/
