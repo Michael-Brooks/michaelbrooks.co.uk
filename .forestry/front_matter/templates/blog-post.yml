@@ -45,6 +45,7 @@ fields:
       format: markdown
   label: Description
 pages:
+- content/posts/creator-interview-with-david-thorpe.md
 - content/posts/my-initial-thoughts-on-apple-s-ios14.md
 - content/posts/redesigning-my-website.md
 - content/posts/website-migrated-from-vuepress-to-gridsome-posting-from-forestry.md
