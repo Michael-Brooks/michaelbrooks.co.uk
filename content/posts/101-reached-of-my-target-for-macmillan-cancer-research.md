@@ -6,6 +6,7 @@ tags:
 - fitness
 - charity
 - macmillan
+- instagram
 canonical_url: false
 description: It's been over a week since my colleagues and I completed the Jurassic
   Hike for Macmillan cancer support. I'm happy to announce that I finished the 26-mile
