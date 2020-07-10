@@ -28,7 +28,7 @@ I used to find myself overusing my iPhone. I’d browse and browse, refresh all 
 
 This has allowed me the focus to work on the things that matter to me, and that is communicating my story and learnt lessons from 8 years of self-employment to other people who are looking to start out. This has been hugely rewarding.
 
-![https://lh5.googleusercontent.com/jw9bMg3AorLNVpKL10QhPOMRCDKxGt9lUcjo6wYLzDzQfVGHtKgm0ovFmXvgb_e7EMeHDbLdXnbqAQG3CszMhItKVh-7EUOjvlH_-wCTtx_eyKvgGJcIzI9gzFtcC-SqBeWWz69j](https://lh5.googleusercontent.com/jw9bMg3AorLNVpKL10QhPOMRCDKxGt9lUcjo6wYLzDzQfVGHtKgm0ovFmXvgb_e7EMeHDbLdXnbqAQG3CszMhItKVh-7EUOjvlH_-wCTtx_eyKvgGJcIzI9gzFtcC-SqBeWWz69j =602x200)
+![The Average Dev Podcast Banner](./images/the_average_dev.png)
 
 ## You also have a podcast called "The Average Dev". What are your thoughts behind the name, and what made you decide to create it?
 

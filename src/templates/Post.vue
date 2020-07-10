@@ -106,6 +106,18 @@ query Post ($id: ID!) {
   }
 
   &__content {
+    a {
+      color: #1a0dab;
+    }
+
+    a:visited {
+      color: #7e359e;
+    }
+
+    h2 {
+      @apply text-3xl font-bold
+    }
+
     h2:first-child {
       margin-top: 0;
     }
@@ -123,7 +135,7 @@ query Post ($id: ID!) {
       width: calc(100% + var(--space) * 2);
       margin-left: calc(var(--space) * -1);
       display: block;
-      max-width: none;
+      max-width: 100%;
     }
   }
 
