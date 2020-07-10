@@ -7,7 +7,7 @@ tags:
 title: Creator Interview With David Thorpe
 published: true
 canonical_url: false
-cover_image: "./images/add-a-heading.png"
+cover_image: "./images/david-thorpe.png"
 description: David has been a good friend and I've always enjoyed the content he's
   put out. He's a man of many talents and now has a focus on taking control over digital
   anxiety. He has also started a podcast called "The Average Dev" with very insightful
