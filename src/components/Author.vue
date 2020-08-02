@@ -18,12 +18,6 @@
 			<a href="https://github.com/Michael-Brooks">GitHub</a>
 		</p>
 
-		<div class="mt-10 block mx-auto" style="width: 304px;">
-			<iframe src="https://michaelbrooks.substack.com/embed" class="newsletter-widget"
-					style="border:1px solid #EEE; background:white; margin-bottom: 30px;" frameborder="0"
-					scrolling="no"></iframe>
-		</div>
-
 	</div>
 </template>
 

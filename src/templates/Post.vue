@@ -17,7 +17,19 @@
           </div>
 
           <div class="py-12 px-20">
+            <div class="mt-10 block mx-auto" style="width: 304px;">
+              <iframe src="https://michaelbrooks.substack.com/embed" class="newsletter-widget"
+                      style="border:1px solid #EEE; background:white; margin-bottom: 30px;" frameborder="0"
+                      scrolling="no"></iframe>
+            </div>
+
             <div class="post__content text-xl" v-html="$page.post.content" />
+
+            <div class="mt-10 block mx-auto" style="width: 304px;">
+              <iframe src="https://michaelbrooks.substack.com/embed" class="newsletter-widget"
+                      style="border:1px solid #EEE; background:white; margin-bottom: 30px;" frameborder="0"
+                      scrolling="no"></iframe>
+            </div>
 
             <div class="post__footer mt-10">
               <PostTags :post="$page.post" />

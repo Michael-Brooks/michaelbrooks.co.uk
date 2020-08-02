@@ -11,6 +11,12 @@
 
         <!-- List posts -->
         <div class="dark-blue py-1">
+            <div class="mt-10 block mx-auto" style="width: 304px;">
+                <iframe src="https://michaelbrooks.substack.com/embed" class="newsletter-widget"
+                        style="border:1px solid #EEE; background:white; margin-bottom: 30px;" frameborder="0"
+                        scrolling="no"></iframe>
+            </div>
+
             <div class="posts container mx-auto">
                 <PostCard class="my-20" v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
             </div>
