@@ -45,6 +45,7 @@ fields:
       format: markdown
   label: Description
 pages:
+- content/posts/changing-up-how-i-share-with-my-community.md
 - content/posts/creator-interview-with-damon-chen.md
 - content/posts/creator-interview-with-david-thorpe.md
 - content/posts/creator-interview-with-ravi-kikan.md
