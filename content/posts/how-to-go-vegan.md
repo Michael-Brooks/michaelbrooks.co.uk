@@ -15,7 +15,7 @@ description: Have you thought about going vegan? Find out how you can decide whe
 ---
 I’ve been vegan for well over a year now, and I always hear people say, “I couldn’t go vegan, I love meat too much.” Well, guess what? I, too, was also in that mindset, and I loved my steak and chips, morning fry-ups, fish and chips, and every other dish that came with meat.
 
-## Find your reason (you'r why)
+## Find your reason
 
 First off, you need a reason to go vegan, and it has to be a good reason. If you don’t have a reason behind going vegan, then it’s a lot easier to fail. My reason for going vegan was reading an article on the BBC, which described how much CO2 eating meat caused on average. You could select other foods to find out the CO2 cost of eating, and to me, it was very eye-opening.
 
@@ -35,7 +35,7 @@ Once our cupboards were clear, we started looking into meals that were 100% vega
 
 Find meals that you think will give positive benefits and have the right calories for your body type. Use a variety of foods such as beans, lentils, fruit, and veg. There’s honestly so much choice out there, especially today compared to 5 years ago, and people have been vegan for such a long time who find it’s easier today then it was when they started. Don’t be afraid to ask for vegan meals in restaurants, and be sure to take a look at their menus on their websites before deciding where to go. Some are 100% vegan, while others will offer a mix of vegan, vegetarian, and meat-based dishes.
 
-Also, don’t be afraid to take your friends/family to a vegan restaurant. My mum was in the “I could never eat vegan food” boat, but once I started introducing her to different meals, she started to enjoy it. She still says she can never go 100% vegan, but at least she now enjoys that experience when she stays with us.
+Also, don’t be afraid to take your friends/family to a vegan restaurant. My mum was in the “I could never eat vegan food” boat, but once I started introducing her to different meals, she began to enjoy it. She still says she can never go 100% vegan, but at least she now appreciates the experience when she stays with us.
 
 ## What if I fail and go back to eating meat?
 
@@ -47,7 +47,7 @@ It’s okay to admit you were wrong, and it’s also OK to try new things. If th
 
 This is a hard one to answer, as it depends on your location. Where I live (in the UK), it’s cheaper to buy beans, lentils (legumes), and canned vegetables like chopped tomatoes, peeled tomatoes, etc. Potatoes and onions are also a staple to most vegan dishes, and there’s a huge range of fruit/veg which you can add into any dish depending on what you would like to cook. If you went the pre-made route, then it can get quite costly, and would almost definitely be more expensive than meat.
 
-However, you can also make your meat alternatives, which cost less, and you have more control over the flavors. Take a look at making your seitan, which can use many different types of flour, herbs and spices, and oil. Most bread is vegan friendly (or at least in my experience), and there are a growing number of companies who are choosing to remove dairy from their foods.
+However, you can also make your meat alternatives, which cost less, and you have more control over the flavours. Take a look at making your seitan, which can use many different types of flour, herbs and spices, and oil. Most bread is vegan friendly (or at least in my experience), and there are a growing number of companies who are choosing to remove dairy from their foods.
 
 If you struggle to find what’s vegan and what isn’t, then you can either scan the list of ingredients or google search for some results. I am also building a website to help show people what is vegan and what isn’t. My website is called [isitvegan.health](https://isitvegan.health/), and it’s still very much in progress, but I’m hoping to build a database of all the products that are either vegan or not, so it’s easier to find the vegan foods. I will also be expanding the website to include restaurants, pubs, and businesses that are vegan friendly.
 
